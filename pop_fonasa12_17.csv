@@ -1,0 +1,5917 @@
+servicio,sexo,año,n,edad
+Arica y Parinacota,F,2012,6286,0-5
+Iquique y Tarapaca,F,2012,9361,0-5
+Antofagasta,F,2012,13483,0-5
+Atacama,F,2012,8949,0-5
+Coquimbo,F,2012,20345,0-5
+Aconcagua,F,2012,7355,0-5
+Valparaiso y San Antonio,F,2012,12140,0-5
+Viña del Mar y Quillota,F,2012,22401,0-5
+Libertador B. O'Higgins,F,2012,23096,0-5
+Maule,F,2012,26044,0-5
+Arauco,F,2012,4675,0-5
+Bio-Bio y Los Angeles,F,2012,9402,0-5
+Concepcion,F,2012,14808,0-5
+Ñuble,F,2012,11386,0-5
+Talcahuano,F,2012,9058,0-5
+Araucanía Norte,F,2012,4406,0-5
+Araucanía Sur,F,2012,18329,0-5
+Chiloé,F,2012,3879,0-5
+Reloncavi,F,2012,10476,0-5
+Osorno,F,2012,6290,0-5
+Valdivia,F,2012,9933,0-5
+Aysen,F,2012,2151,0-5
+Magallanes,F,2012,3710,0-5
+Metropolitano Central,F,2012,22309,0-5
+Metropolitano Norte,F,2012,22568,0-5
+Metropolitano Occidente,F,2012,31154,0-5
+Metropolitano Oriente,F,2012,14630,0-5
+Metropolitano Sur,F,2012,30501,0-5
+Metropolitano Sur-Oriente,F,2012,34904,0-5
+Arica y Parinacota,F,2012,5923,5-15
+Iquique y Tarapaca,F,2012,8590,5-15
+Antofagasta,F,2012,12937,5-15
+Atacama,F,2012,8301,5-15
+Coquimbo,F,2012,19169,5-15
+Aconcagua,F,2012,7193,5-15
+Valparaiso y San Antonio,F,2012,12369,5-15
+Viña del Mar y Quillota,F,2012,22800,5-15
+Libertador B. O'Higgins,F,2012,22977,5-15
+Maule,F,2012,27238,5-15
+Arauco,F,2012,5096,5-15
+Bio-Bio y Los Angeles,F,2012,11106,5-15
+Concepcion,F,2012,14871,5-15
+Ñuble,F,2012,12655,5-15
+Talcahuano,F,2012,8919,5-15
+Araucanía Norte,F,2012,5357,5-15
+Araucanía Sur,F,2012,20020,5-15
+Chiloé,F,2012,4825,5-15
+Reloncavi,F,2012,11430,5-15
+Osorno,F,2012,6568,5-15
+Valdivia,F,2012,10277,5-15
+Aysen,F,2012,2649,5-15
+Magallanes,F,2012,3650,5-15
+Metropolitano Central,F,2012,21066,5-15
+Metropolitano Norte,F,2012,22397,5-15
+Metropolitano Occidente,F,2012,32661,5-15
+Metropolitano Oriente,F,2012,15013,5-15
+Metropolitano Sur,F,2012,30152,5-15
+Metropolitano Sur-Oriente,F,2012,36717,5-15
+Arica y Parinacota,F,2012,6327,5-15
+Iquique y Tarapaca,F,2012,9080,5-15
+Antofagasta,F,2012,13900,5-15
+Atacama,F,2012,8511,5-15
+Coquimbo,F,2012,20980,5-15
+Aconcagua,F,2012,7634,5-15
+Valparaiso y San Antonio,F,2012,13708,5-15
+Viña del Mar y Quillota,F,2012,25723,5-15
+Libertador B. O'Higgins,F,2012,25414,5-15
+Maule,F,2012,30394,5-15
+Arauco,F,2012,5927,5-15
+Bio-Bio y Los Angeles,F,2012,12686,5-15
+Concepcion,F,2012,16307,5-15
+Ñuble,F,2012,14308,5-15
+Talcahuano,F,2012,9891,5-15
+Araucanía Norte,F,2012,6249,5-15
+Araucanía Sur,F,2012,22354,5-15
+Chiloé,F,2012,5875,5-15
+Reloncavi,F,2012,12502,5-15
+Osorno,F,2012,7488,5-15
+Valdivia,F,2012,11506,5-15
+Aysen,F,2012,2921,5-15
+Magallanes,F,2012,3941,5-15
+Metropolitano Central,F,2012,22255,5-15
+Metropolitano Norte,F,2012,23867,5-15
+Metropolitano Occidente,F,2012,35614,5-15
+Metropolitano Oriente,F,2012,16465,5-15
+Metropolitano Sur,F,2012,33083,5-15
+Metropolitano Sur-Oriente,F,2012,40690,5-15
+Arica y Parinacota,F,2012,6839,15-25
+Iquique y Tarapaca,F,2012,9539,15-25
+Antofagasta,F,2012,15092,15-25
+Atacama,F,2012,9652,15-25
+Coquimbo,F,2012,23506,15-25
+Aconcagua,F,2012,8533,15-25
+Valparaiso y San Antonio,F,2012,15264,15-25
+Viña del Mar y Quillota,F,2012,28949,15-25
+Libertador B. O'Higgins,F,2012,28595,15-25
+Maule,F,2012,34913,15-25
+Arauco,F,2012,6604,15-25
+Bio-Bio y Los Angeles,F,2012,14318,15-25
+Concepcion,F,2012,18660,15-25
+Ñuble,F,2012,16679,15-25
+Talcahuano,F,2012,11347,15-25
+Araucanía Norte,F,2012,7446,15-25
+Araucanía Sur,F,2012,26154,15-25
+Chiloé,F,2012,6352,15-25
+Reloncavi,F,2012,13473,15-25
+Osorno,F,2012,8426,15-25
+Valdivia,F,2012,13340,15-25
+Aysen,F,2012,3198,15-25
+Magallanes,F,2012,4319,15-25
+Metropolitano Central,F,2012,25756,15-25
+Metropolitano Norte,F,2012,26510,15-25
+Metropolitano Occidente,F,2012,41141,15-25
+Metropolitano Oriente,F,2012,19649,15-25
+Metropolitano Sur,F,2012,36888,15-25
+Metropolitano Sur-Oriente,F,2012,46017,15-25
+Arica y Parinacota,F,2012,7323,15-25
+Iquique y Tarapaca,F,2012,10540,15-25
+Antofagasta,F,2012,16827,15-25
+Atacama,F,2012,10381,15-25
+Coquimbo,F,2012,25370,15-25
+Aconcagua,F,2012,9421,15-25
+Valparaiso y San Antonio,F,2012,17092,15-25
+Viña del Mar y Quillota,F,2012,32805,15-25
+Libertador B. O'Higgins,F,2012,30827,15-25
+Maule,F,2012,37671,15-25
+Arauco,F,2012,6882,15-25
+Bio-Bio y Los Angeles,F,2012,15153,15-25
+Concepcion,F,2012,21500,15-25
+Ñuble,F,2012,17525,15-25
+Talcahuano,F,2012,13239,15-25
+Araucanía Norte,F,2012,7962,15-25
+Araucanía Sur,F,2012,26774,15-25
+Chiloé,F,2012,6365,15-25
+Reloncavi,F,2012,14623,15-25
+Osorno,F,2012,8785,15-25
+Valdivia,F,2012,13973,15-25
+Aysen,F,2012,3726,15-25
+Magallanes,F,2012,5091,15-25
+Metropolitano Central,F,2012,31456,15-25
+Metropolitano Norte,F,2012,28446,15-25
+Metropolitano Occidente,F,2012,43818,15-25
+Metropolitano Oriente,F,2012,23289,15-25
+Metropolitano Sur,F,2012,40825,15-25
+Metropolitano Sur-Oriente,F,2012,51232,15-25
+Arica y Parinacota,F,2012,6619,25-35
+Iquique y Tarapaca,F,2012,9999,25-35
+Antofagasta,F,2012,15324,25-35
+Atacama,F,2012,8675,25-35
+Coquimbo,F,2012,21192,25-35
+Aconcagua,F,2012,7911,25-35
+Valparaiso y San Antonio,F,2012,14816,25-35
+Viña del Mar y Quillota,F,2012,28606,25-35
+Libertador B. O'Higgins,F,2012,24940,25-35
+Maule,F,2012,30176,25-35
+Arauco,F,2012,5434,25-35
+Bio-Bio y Los Angeles,F,2012,11643,25-35
+Concepcion,F,2012,17899,25-35
+Ñuble,F,2012,14141,25-35
+Talcahuano,F,2012,10719,25-35
+Araucanía Norte,F,2012,6215,25-35
+Araucanía Sur,F,2012,21850,25-35
+Chiloé,F,2012,5557,25-35
+Reloncavi,F,2012,12153,25-35
+Osorno,F,2012,7053,25-35
+Valdivia,F,2012,11319,25-35
+Aysen,F,2012,3058,25-35
+Magallanes,F,2012,4898,25-35
+Metropolitano Central,F,2012,29626,25-35
+Metropolitano Norte,F,2012,24306,25-35
+Metropolitano Occidente,F,2012,35712,25-35
+Metropolitano Oriente,F,2012,22111,25-35
+Metropolitano Sur,F,2012,33678,25-35
+Metropolitano Sur-Oriente,F,2012,41703,25-35
+Arica y Parinacota,F,2012,6188,25-35
+Iquique y Tarapaca,F,2012,9606,25-35
+Antofagasta,F,2012,15074,25-35
+Atacama,F,2012,8169,25-35
+Coquimbo,F,2012,20346,25-35
+Aconcagua,F,2012,7703,25-35
+Valparaiso y San Antonio,F,2012,14397,25-35
+Viña del Mar y Quillota,F,2012,27417,25-35
+Libertador B. O'Higgins,F,2012,24224,25-35
+Maule,F,2012,29829,25-35
+Arauco,F,2012,5393,25-35
+Bio-Bio y Los Angeles,F,2012,11888,25-35
+Concepcion,F,2012,17410,25-35
+Ñuble,F,2012,13476,25-35
+Talcahuano,F,2012,10373,25-35
+Araucanía Norte,F,2012,5771,25-35
+Araucanía Sur,F,2012,20879,25-35
+Chiloé,F,2012,5761,25-35
+Reloncavi,F,2012,11811,25-35
+Osorno,F,2012,7123,25-35
+Valdivia,F,2012,10363,25-35
+Aysen,F,2012,2988,25-35
+Magallanes,F,2012,4659,25-35
+Metropolitano Central,F,2012,28358,25-35
+Metropolitano Norte,F,2012,23453,25-35
+Metropolitano Occidente,F,2012,34651,25-35
+Metropolitano Oriente,F,2012,23097,25-35
+Metropolitano Sur,F,2012,32376,25-35
+Metropolitano Sur-Oriente,F,2012,39047,25-35
+Arica y Parinacota,F,2012,6060,35-45
+Iquique y Tarapaca,F,2012,8463,35-45
+Antofagasta,F,2012,14180,35-45
+Atacama,F,2012,7745,35-45
+Coquimbo,F,2012,20565,35-45
+Aconcagua,F,2012,7301,35-45
+Valparaiso y San Antonio,F,2012,13657,35-45
+Viña del Mar y Quillota,F,2012,26110,35-45
+Libertador B. O'Higgins,F,2012,25027,35-45
+Maule,F,2012,30382,35-45
+Arauco,F,2012,5396,35-45
+Bio-Bio y Los Angeles,F,2012,11819,35-45
+Concepcion,F,2012,16533,35-45
+Ñuble,F,2012,13980,35-45
+Talcahuano,F,2012,10237,35-45
+Araucanía Norte,F,2012,5727,35-45
+Araucanía Sur,F,2012,21206,35-45
+Chiloé,F,2012,5614,35-45
+Reloncavi,F,2012,11951,35-45
+Osorno,F,2012,7438,35-45
+Valdivia,F,2012,10285,35-45
+Aysen,F,2012,2887,35-45
+Magallanes,F,2012,4535,35-45
+Metropolitano Central,F,2012,26310,35-45
+Metropolitano Norte,F,2012,23852,35-45
+Metropolitano Occidente,F,2012,35144,35-45
+Metropolitano Oriente,F,2012,23331,35-45
+Metropolitano Sur,F,2012,29958,35-45
+Metropolitano Sur-Oriente,F,2012,37158,35-45
+Arica y Parinacota,F,2012,6206,35-45
+Iquique y Tarapaca,F,2012,7875,35-45
+Antofagasta,F,2012,13108,35-45
+Atacama,F,2012,7863,35-45
+Coquimbo,F,2012,20545,35-45
+Aconcagua,F,2012,7417,35-45
+Valparaiso y San Antonio,F,2012,13669,35-45
+Viña del Mar y Quillota,F,2012,26161,35-45
+Libertador B. O'Higgins,F,2012,25556,35-45
+Maule,F,2012,31089,35-45
+Arauco,F,2012,5565,35-45
+Bio-Bio y Los Angeles,F,2012,12864,35-45
+Concepcion,F,2012,17976,35-45
+Ñuble,F,2012,15617,35-45
+Talcahuano,F,2012,10889,35-45
+Araucanía Norte,F,2012,6175,35-45
+Araucanía Sur,F,2012,22221,35-45
+Chiloé,F,2012,5593,35-45
+Reloncavi,F,2012,12362,35-45
+Osorno,F,2012,7521,35-45
+Valdivia,F,2012,11167,35-45
+Aysen,F,2012,2862,35-45
+Magallanes,F,2012,4234,35-45
+Metropolitano Central,F,2012,26415,35-45
+Metropolitano Norte,F,2012,24379,35-45
+Metropolitano Occidente,F,2012,35135,35-45
+Metropolitano Oriente,F,2012,23790,35-45
+Metropolitano Sur,F,2012,31888,35-45
+Metropolitano Sur-Oriente,F,2012,38579,35-45
+Arica y Parinacota,F,2012,5983,45-55
+Iquique y Tarapaca,F,2012,7548,45-55
+Antofagasta,F,2012,12563,45-55
+Atacama,F,2012,8334,45-55
+Coquimbo,F,2012,21033,45-55
+Aconcagua,F,2012,8236,45-55
+Valparaiso y San Antonio,F,2012,15118,45-55
+Viña del Mar y Quillota,F,2012,29193,45-55
+Libertador B. O'Higgins,F,2012,27288,45-55
+Maule,F,2012,33090,45-55
+Arauco,F,2012,5300,45-55
+Bio-Bio y Los Angeles,F,2012,12391,45-55
+Concepcion,F,2012,19207,45-55
+Ñuble,F,2012,15761,45-55
+Talcahuano,F,2012,12101,45-55
+Araucanía Norte,F,2012,6452,45-55
+Araucanía Sur,F,2012,21760,45-55
+Chiloé,F,2012,5429,45-55
+Reloncavi,F,2012,12099,45-55
+Osorno,F,2012,7654,45-55
+Valdivia,F,2012,11949,45-55
+Aysen,F,2012,2750,45-55
+Magallanes,F,2012,4571,45-55
+Metropolitano Central,F,2012,29230,45-55
+Metropolitano Norte,F,2012,24583,45-55
+Metropolitano Occidente,F,2012,37123,45-55
+Metropolitano Oriente,F,2012,24927,45-55
+Metropolitano Sur,F,2012,34479,45-55
+Metropolitano Sur-Oriente,F,2012,42271,45-55
+Arica y Parinacota,F,2012,5579,45-55
+Iquique y Tarapaca,F,2012,6964,45-55
+Antofagasta,F,2012,12163,45-55
+Atacama,F,2012,7451,45-55
+Coquimbo,F,2012,18826,45-55
+Aconcagua,F,2012,7432,45-55
+Valparaiso y San Antonio,F,2012,14451,45-55
+Viña del Mar y Quillota,F,2012,28216,45-55
+Libertador B. O'Higgins,F,2012,24273,45-55
+Maule,F,2012,28829,45-55
+Arauco,F,2012,4655,45-55
+Bio-Bio y Los Angeles,F,2012,10857,45-55
+Concepcion,F,2012,17398,45-55
+Ñuble,F,2012,13966,45-55
+Talcahuano,F,2012,11203,45-55
+Araucanía Norte,F,2012,5730,45-55
+Araucanía Sur,F,2012,18772,45-55
+Chiloé,F,2012,4397,45-55
+Reloncavi,F,2012,9826,45-55
+Osorno,F,2012,6810,45-55
+Valdivia,F,2012,10679,45-55
+Aysen,F,2012,2508,45-55
+Magallanes,F,2012,4294,45-55
+Metropolitano Central,F,2012,28098,45-55
+Metropolitano Norte,F,2012,21994,45-55
+Metropolitano Occidente,F,2012,33920,45-55
+Metropolitano Oriente,F,2012,23770,45-55
+Metropolitano Sur,F,2012,33499,45-55
+Metropolitano Sur-Oriente,F,2012,41154,45-55
+Arica y Parinacota,F,2012,4693,55-65
+Iquique y Tarapaca,F,2012,5859,55-65
+Antofagasta,F,2012,9953,55-65
+Atacama,F,2012,5974,55-65
+Coquimbo,F,2012,15931,55-65
+Aconcagua,F,2012,6069,55-65
+Valparaiso y San Antonio,F,2012,12371,55-65
+Viña del Mar y Quillota,F,2012,23690,55-65
+Libertador B. O'Higgins,F,2012,19838,55-65
+Maule,F,2012,24287,55-65
+Arauco,F,2012,4048,55-65
+Bio-Bio y Los Angeles,F,2012,8963,55-65
+Concepcion,F,2012,14828,55-65
+Ñuble,F,2012,11629,55-65
+Talcahuano,F,2012,9456,55-65
+Araucanía Norte,F,2012,4989,55-65
+Araucanía Sur,F,2012,15884,55-65
+Chiloé,F,2012,3617,55-65
+Reloncavi,F,2012,7842,55-65
+Osorno,F,2012,5626,55-65
+Valdivia,F,2012,8558,55-65
+Aysen,F,2012,2008,55-65
+Magallanes,F,2012,3579,55-65
+Metropolitano Central,F,2012,22860,55-65
+Metropolitano Norte,F,2012,17624,55-65
+Metropolitano Occidente,F,2012,27714,55-65
+Metropolitano Oriente,F,2012,21279,55-65
+Metropolitano Sur,F,2012,27572,55-65
+Metropolitano Sur-Oriente,F,2012,33803,55-65
+Arica y Parinacota,F,2012,4280,55-65
+Iquique y Tarapaca,F,2012,4617,55-65
+Antofagasta,F,2012,8256,55-65
+Atacama,F,2012,4974,55-65
+Coquimbo,F,2012,13037,55-65
+Aconcagua,F,2012,4990,55-65
+Valparaiso y San Antonio,F,2012,10537,55-65
+Viña del Mar y Quillota,F,2012,19785,55-65
+Libertador B. O'Higgins,F,2012,15865,55-65
+Maule,F,2012,20061,55-65
+Arauco,F,2012,3193,55-65
+Bio-Bio y Los Angeles,F,2012,7533,55-65
+Concepcion,F,2012,12446,55-65
+Ñuble,F,2012,9672,55-65
+Talcahuano,F,2012,7723,55-65
+Araucanía Norte,F,2012,4205,55-65
+Araucanía Sur,F,2012,13441,55-65
+Chiloé,F,2012,3069,55-65
+Reloncavi,F,2012,6486,55-65
+Osorno,F,2012,4849,55-65
+Valdivia,F,2012,7381,55-65
+Aysen,F,2012,1583,55-65
+Magallanes,F,2012,2872,55-65
+Metropolitano Central,F,2012,19334,55-65
+Metropolitano Norte,F,2012,15042,55-65
+Metropolitano Occidente,F,2012,23567,55-65
+Metropolitano Oriente,F,2012,19240,55-65
+Metropolitano Sur,F,2012,22502,55-65
+Metropolitano Sur-Oriente,F,2012,26961,55-65
+Arica y Parinacota,F,2012,3899,65-75
+Iquique y Tarapaca,F,2012,3629,65-75
+Antofagasta,F,2012,6894,65-75
+Atacama,F,2012,4082,65-75
+Coquimbo,F,2012,11426,65-75
+Aconcagua,F,2012,4350,65-75
+Valparaiso y San Antonio,F,2012,9837,65-75
+Viña del Mar y Quillota,F,2012,18735,65-75
+Libertador B. O'Higgins,F,2012,13535,65-75
+Maule,F,2012,16834,65-75
+Arauco,F,2012,2576,65-75
+Bio-Bio y Los Angeles,F,2012,6813,65-75
+Concepcion,F,2012,10514,65-75
+Ñuble,F,2012,8602,65-75
+Talcahuano,F,2012,6999,65-75
+Araucanía Norte,F,2012,3848,65-75
+Araucanía Sur,F,2012,12282,65-75
+Chiloé,F,2012,2745,65-75
+Reloncavi,F,2012,5717,65-75
+Osorno,F,2012,4342,65-75
+Valdivia,F,2012,6640,65-75
+Aysen,F,2012,1233,65-75
+Magallanes,F,2012,2708,65-75
+Metropolitano Central,F,2012,17278,65-75
+Metropolitano Norte,F,2012,13281,65-75
+Metropolitano Occidente,F,2012,20976,65-75
+Metropolitano Oriente,F,2012,18983,65-75
+Metropolitano Sur,F,2012,20023,65-75
+Metropolitano Sur-Oriente,F,2012,22551,65-75
+Arica y Parinacota,F,2012,2858,65-75
+Iquique y Tarapaca,F,2012,2691,65-75
+Antofagasta,F,2012,5638,65-75
+Atacama,F,2012,3334,65-75
+Coquimbo,F,2012,9567,65-75
+Aconcagua,F,2012,3462,65-75
+Valparaiso y San Antonio,F,2012,8056,65-75
+Viña del Mar y Quillota,F,2012,15552,65-75
+Libertador B. O'Higgins,F,2012,10519,65-75
+Maule,F,2012,13443,65-75
+Arauco,F,2012,2058,65-75
+Bio-Bio y Los Angeles,F,2012,5561,65-75
+Concepcion,F,2012,8685,65-75
+Ñuble,F,2012,7161,65-75
+Talcahuano,F,2012,5756,65-75
+Araucanía Norte,F,2012,3203,65-75
+Araucanía Sur,F,2012,10421,65-75
+Chiloé,F,2012,2503,65-75
+Reloncavi,F,2012,4862,65-75
+Osorno,F,2012,3643,65-75
+Valdivia,F,2012,5683,65-75
+Aysen,F,2012,1018,65-75
+Magallanes,F,2012,2341,65-75
+Metropolitano Central,F,2012,13652,65-75
+Metropolitano Norte,F,2012,10820,65-75
+Metropolitano Occidente,F,2012,16345,65-75
+Metropolitano Oriente,F,2012,16493,65-75
+Metropolitano Sur,F,2012,16192,65-75
+Metropolitano Sur-Oriente,F,2012,16532,65-75
+Arica y Parinacota,F,2012,2124,>75
+Iquique y Tarapaca,F,2012,1940,>75
+Antofagasta,F,2012,4117,>75
+Atacama,F,2012,2485,>75
+Coquimbo,F,2012,7427,>75
+Aconcagua,F,2012,2597,>75
+Valparaiso y San Antonio,F,2012,6404,>75
+Viña del Mar y Quillota,F,2012,12371,>75
+Libertador B. O'Higgins,F,2012,7954,>75
+Maule,F,2012,9966,>75
+Arauco,F,2012,1527,>75
+Bio-Bio y Los Angeles,F,2012,4056,>75
+Concepcion,F,2012,6112,>75
+Ñuble,F,2012,5261,>75
+Talcahuano,F,2012,4096,>75
+Araucanía Norte,F,2012,2536,>75
+Araucanía Sur,F,2012,8209,>75
+Chiloé,F,2012,1864,>75
+Reloncavi,F,2012,3475,>75
+Osorno,F,2012,2876,>75
+Valdivia,F,2012,4281,>75
+Aysen,F,2012,704,>75
+Magallanes,F,2012,1737,>75
+Metropolitano Central,F,2012,10269,>75
+Metropolitano Norte,F,2012,8241,>75
+Metropolitano Occidente,F,2012,11543,>75
+Metropolitano Oriente,F,2012,13108,>75
+Metropolitano Sur,F,2012,12801,>75
+Metropolitano Sur-Oriente,F,2012,11450,>75
+Arica y Parinacota,F,2012,2782,>75
+Iquique y Tarapaca,F,2012,2775,>75
+Antofagasta,F,2012,5601,>75
+Atacama,F,2012,3235,>75
+Coquimbo,F,2012,9965,>75
+Aconcagua,F,2012,3757,>75
+Valparaiso y San Antonio,F,2012,9642,>75
+Viña del Mar y Quillota,F,2012,18724,>75
+Libertador B. O'Higgins,F,2012,10924,>75
+Maule,F,2012,13333,>75
+Arauco,F,2012,1970,>75
+Bio-Bio y Los Angeles,F,2012,5647,>75
+Concepcion,F,2012,8679,>75
+Ñuble,F,2012,6949,>75
+Talcahuano,F,2012,5311,>75
+Araucanía Norte,F,2012,3408,>75
+Araucanía Sur,F,2012,11270,>75
+Chiloé,F,2012,2667,>75
+Reloncavi,F,2012,4596,>75
+Osorno,F,2012,3802,>75
+Valdivia,F,2012,5821,>75
+Aysen,F,2012,849,>75
+Magallanes,F,2012,2404,>75
+Metropolitano Central,F,2012,15737,>75
+Metropolitano Norte,F,2012,11948,>75
+Metropolitano Occidente,F,2012,15459,>75
+Metropolitano Oriente,F,2012,25048,>75
+Metropolitano Sur,F,2012,19798,>75
+Metropolitano Sur-Oriente,F,2012,15170,>75
+Arica y Parinacota,F,2013,6641,0-5
+Iquique y Tarapaca,F,2013,9416,0-5
+Antofagasta,F,2013,13344,0-5
+Atacama,F,2013,8866,0-5
+Coquimbo,F,2013,21029,0-5
+Aconcagua,F,2013,7156,0-5
+Valparaiso y San Antonio,F,2013,12589,0-5
+Viña del Mar y Quillota,F,2013,22751,0-5
+Libertador B. O'Higgins,F,2013,23026,0-5
+Maule,F,2013,25919,0-5
+Arauco,F,2013,4889,0-5
+Bio-Bio y Los Angeles,F,2013,9810,0-5
+Concepcion,F,2013,15371,0-5
+Ñuble,F,2013,11585,0-5
+Talcahuano,F,2013,8818,0-5
+Araucanía Norte,F,2013,4635,0-5
+Araucanía Sur,F,2013,18604,0-5
+Chiloé,F,2013,3735,0-5
+Reloncavi,F,2013,10359,0-5
+Osorno,F,2013,6225,0-5
+Valdivia,F,2013,10036,0-5
+Aysen,F,2013,2164,0-5
+Magallanes,F,2013,3514,0-5
+Metropolitano Central,F,2013,21809,0-5
+Metropolitano Norte,F,2013,22315,0-5
+Metropolitano Occidente,F,2013,30313,0-5
+Metropolitano Oriente,F,2013,14171,0-5
+Metropolitano Sur,F,2013,30390,0-5
+Metropolitano Sur-Oriente,F,2013,34822,0-5
+Arica y Parinacota,F,2013,6352,5-15
+Iquique y Tarapaca,F,2013,8623,5-15
+Antofagasta,F,2013,12656,5-15
+Atacama,F,2013,8287,5-15
+Coquimbo,F,2013,19598,5-15
+Aconcagua,F,2013,7237,5-15
+Valparaiso y San Antonio,F,2013,12389,5-15
+Viña del Mar y Quillota,F,2013,22899,5-15
+Libertador B. O'Higgins,F,2013,23156,5-15
+Maule,F,2013,27268,5-15
+Arauco,F,2013,5107,5-15
+Bio-Bio y Los Angeles,F,2013,11111,5-15
+Concepcion,F,2013,14762,5-15
+Ñuble,F,2013,12705,5-15
+Talcahuano,F,2013,8831,5-15
+Araucanía Norte,F,2013,5480,5-15
+Araucanía Sur,F,2013,19943,5-15
+Chiloé,F,2013,4676,5-15
+Reloncavi,F,2013,11459,5-15
+Osorno,F,2013,6781,5-15
+Valdivia,F,2013,10309,5-15
+Aysen,F,2013,2686,5-15
+Magallanes,F,2013,3496,5-15
+Metropolitano Central,F,2013,20914,5-15
+Metropolitano Norte,F,2013,22695,5-15
+Metropolitano Occidente,F,2013,32462,5-15
+Metropolitano Oriente,F,2013,14718,5-15
+Metropolitano Sur,F,2013,29797,5-15
+Metropolitano Sur-Oriente,F,2013,36287,5-15
+Arica y Parinacota,F,2013,6480,5-15
+Iquique y Tarapaca,F,2013,8763,5-15
+Antofagasta,F,2013,13190,5-15
+Atacama,F,2013,8237,5-15
+Coquimbo,F,2013,20685,5-15
+Aconcagua,F,2013,7394,5-15
+Valparaiso y San Antonio,F,2013,13331,5-15
+Viña del Mar y Quillota,F,2013,24801,5-15
+Libertador B. O'Higgins,F,2013,24778,5-15
+Maule,F,2013,29664,5-15
+Arauco,F,2013,5834,5-15
+Bio-Bio y Los Angeles,F,2013,12499,5-15
+Concepcion,F,2013,16073,5-15
+Ñuble,F,2013,13877,5-15
+Talcahuano,F,2013,9488,5-15
+Araucanía Norte,F,2013,6057,5-15
+Araucanía Sur,F,2013,21595,5-15
+Chiloé,F,2013,5678,5-15
+Reloncavi,F,2013,12402,5-15
+Osorno,F,2013,7321,5-15
+Valdivia,F,2013,11156,5-15
+Aysen,F,2013,2855,5-15
+Magallanes,F,2013,3564,5-15
+Metropolitano Central,F,2013,21523,5-15
+Metropolitano Norte,F,2013,23226,5-15
+Metropolitano Occidente,F,2013,34153,5-15
+Metropolitano Oriente,F,2013,15721,5-15
+Metropolitano Sur,F,2013,31913,5-15
+Metropolitano Sur-Oriente,F,2013,39354,5-15
+Arica y Parinacota,F,2013,6973,15-25
+Iquique y Tarapaca,F,2013,9399,15-25
+Antofagasta,F,2013,14692,15-25
+Atacama,F,2013,9249,15-25
+Coquimbo,F,2013,22469,15-25
+Aconcagua,F,2013,8138,15-25
+Valparaiso y San Antonio,F,2013,14816,15-25
+Viña del Mar y Quillota,F,2013,27966,15-25
+Libertador B. O'Higgins,F,2013,27875,15-25
+Maule,F,2013,33384,15-25
+Arauco,F,2013,6494,15-25
+Bio-Bio y Los Angeles,F,2013,14000,15-25
+Concepcion,F,2013,17881,15-25
+Ñuble,F,2013,15839,15-25
+Talcahuano,F,2013,10716,15-25
+Araucanía Norte,F,2013,7133,15-25
+Araucanía Sur,F,2013,24574,15-25
+Chiloé,F,2013,6117,15-25
+Reloncavi,F,2013,13246,15-25
+Osorno,F,2013,8261,15-25
+Valdivia,F,2013,12526,15-25
+Aysen,F,2013,3100,15-25
+Magallanes,F,2013,4135,15-25
+Metropolitano Central,F,2013,24791,15-25
+Metropolitano Norte,F,2013,25979,15-25
+Metropolitano Occidente,F,2013,39454,15-25
+Metropolitano Oriente,F,2013,18659,15-25
+Metropolitano Sur,F,2013,35423,15-25
+Metropolitano Sur-Oriente,F,2013,44301,15-25
+Arica y Parinacota,F,2013,7620,15-25
+Iquique y Tarapaca,F,2013,10670,15-25
+Antofagasta,F,2013,17121,15-25
+Atacama,F,2013,10459,15-25
+Coquimbo,F,2013,25638,15-25
+Aconcagua,F,2013,9379,15-25
+Valparaiso y San Antonio,F,2013,17017,15-25
+Viña del Mar y Quillota,F,2013,32710,15-25
+Libertador B. O'Higgins,F,2013,30924,15-25
+Maule,F,2013,37966,15-25
+Arauco,F,2013,6834,15-25
+Bio-Bio y Los Angeles,F,2013,15424,15-25
+Concepcion,F,2013,21526,15-25
+Ñuble,F,2013,17465,15-25
+Talcahuano,F,2013,13141,15-25
+Araucanía Norte,F,2013,7977,15-25
+Araucanía Sur,F,2013,26993,15-25
+Chiloé,F,2013,6465,15-25
+Reloncavi,F,2013,14920,15-25
+Osorno,F,2013,8927,15-25
+Valdivia,F,2013,14010,15-25
+Aysen,F,2013,3753,15-25
+Magallanes,F,2013,4949,15-25
+Metropolitano Central,F,2013,31022,15-25
+Metropolitano Norte,F,2013,28649,15-25
+Metropolitano Occidente,F,2013,43376,15-25
+Metropolitano Oriente,F,2013,22997,15-25
+Metropolitano Sur,F,2013,40306,15-25
+Metropolitano Sur-Oriente,F,2013,50709,15-25
+Arica y Parinacota,F,2013,7362,25-35
+Iquique y Tarapaca,F,2013,10387,25-35
+Antofagasta,F,2013,16229,25-35
+Atacama,F,2013,9054,25-35
+Coquimbo,F,2013,22840,25-35
+Aconcagua,F,2013,8330,25-35
+Valparaiso y San Antonio,F,2013,15555,25-35
+Viña del Mar y Quillota,F,2013,29846,25-35
+Libertador B. O'Higgins,F,2013,26786,25-35
+Maule,F,2013,32119,25-35
+Arauco,F,2013,5761,25-35
+Bio-Bio y Los Angeles,F,2013,12350,25-35
+Concepcion,F,2013,18993,25-35
+Ñuble,F,2013,15043,25-35
+Talcahuano,F,2013,11297,25-35
+Araucanía Norte,F,2013,6527,25-35
+Araucanía Sur,F,2013,22896,25-35
+Chiloé,F,2013,5755,25-35
+Reloncavi,F,2013,12719,25-35
+Osorno,F,2013,7449,25-35
+Valdivia,F,2013,11606,25-35
+Aysen,F,2013,3258,25-35
+Magallanes,F,2013,5009,25-35
+Metropolitano Central,F,2013,31009,25-35
+Metropolitano Norte,F,2013,25439,25-35
+Metropolitano Occidente,F,2013,37110,25-35
+Metropolitano Oriente,F,2013,22489,25-35
+Metropolitano Sur,F,2013,35115,25-35
+Metropolitano Sur-Oriente,F,2013,43381,25-35
+Arica y Parinacota,F,2013,6660,25-35
+Iquique y Tarapaca,F,2013,9874,25-35
+Antofagasta,F,2013,15386,25-35
+Atacama,F,2013,8230,25-35
+Coquimbo,F,2013,20822,25-35
+Aconcagua,F,2013,7783,25-35
+Valparaiso y San Antonio,F,2013,14765,25-35
+Viña del Mar y Quillota,F,2013,27963,25-35
+Libertador B. O'Higgins,F,2013,24553,25-35
+Maule,F,2013,30474,25-35
+Arauco,F,2013,5599,25-35
+Bio-Bio y Los Angeles,F,2013,12164,25-35
+Concepcion,F,2013,17704,25-35
+Ñuble,F,2013,13782,25-35
+Talcahuano,F,2013,10291,25-35
+Araucanía Norte,F,2013,5960,25-35
+Araucanía Sur,F,2013,21218,25-35
+Chiloé,F,2013,5805,25-35
+Reloncavi,F,2013,12216,25-35
+Osorno,F,2013,7277,25-35
+Valdivia,F,2013,10718,25-35
+Aysen,F,2013,3080,25-35
+Magallanes,F,2013,4644,25-35
+Metropolitano Central,F,2013,28829,25-35
+Metropolitano Norte,F,2013,23918,25-35
+Metropolitano Occidente,F,2013,34544,25-35
+Metropolitano Oriente,F,2013,22717,25-35
+Metropolitano Sur,F,2013,32794,25-35
+Metropolitano Sur-Oriente,F,2013,39593,25-35
+Arica y Parinacota,F,2013,6118,35-45
+Iquique y Tarapaca,F,2013,8498,35-45
+Antofagasta,F,2013,14089,35-45
+Atacama,F,2013,7693,35-45
+Coquimbo,F,2013,20519,35-45
+Aconcagua,F,2013,7310,35-45
+Valparaiso y San Antonio,F,2013,13729,35-45
+Viña del Mar y Quillota,F,2013,25935,35-45
+Libertador B. O'Higgins,F,2013,24826,35-45
+Maule,F,2013,30427,35-45
+Arauco,F,2013,5437,35-45
+Bio-Bio y Los Angeles,F,2013,11681,35-45
+Concepcion,F,2013,16335,35-45
+Ñuble,F,2013,13566,35-45
+Talcahuano,F,2013,9980,35-45
+Araucanía Norte,F,2013,5785,35-45
+Araucanía Sur,F,2013,20882,35-45
+Chiloé,F,2013,5629,35-45
+Reloncavi,F,2013,11855,35-45
+Osorno,F,2013,7383,35-45
+Valdivia,F,2013,10172,35-45
+Aysen,F,2013,2876,35-45
+Magallanes,F,2013,4534,35-45
+Metropolitano Central,F,2013,26254,35-45
+Metropolitano Norte,F,2013,23388,35-45
+Metropolitano Occidente,F,2013,33965,35-45
+Metropolitano Oriente,F,2013,22946,35-45
+Metropolitano Sur,F,2013,29018,35-45
+Metropolitano Sur-Oriente,F,2013,36170,35-45
+Arica y Parinacota,F,2013,6622,35-45
+Iquique y Tarapaca,F,2013,8207,35-45
+Antofagasta,F,2013,13738,35-45
+Atacama,F,2013,7858,35-45
+Coquimbo,F,2013,20552,35-45
+Aconcagua,F,2013,7392,35-45
+Valparaiso y San Antonio,F,2013,13782,35-45
+Viña del Mar y Quillota,F,2013,26215,35-45
+Libertador B. O'Higgins,F,2013,25650,35-45
+Maule,F,2013,31085,35-45
+Arauco,F,2013,5732,35-45
+Bio-Bio y Los Angeles,F,2013,13027,35-45
+Concepcion,F,2013,17847,35-45
+Ñuble,F,2013,15542,35-45
+Talcahuano,F,2013,10823,35-45
+Araucanía Norte,F,2013,6226,35-45
+Araucanía Sur,F,2013,22295,35-45
+Chiloé,F,2013,5606,35-45
+Reloncavi,F,2013,12537,35-45
+Osorno,F,2013,7597,35-45
+Valdivia,F,2013,10935,35-45
+Aysen,F,2013,2933,35-45
+Magallanes,F,2013,4242,35-45
+Metropolitano Central,F,2013,26788,35-45
+Metropolitano Norte,F,2013,24790,35-45
+Metropolitano Occidente,F,2013,35243,35-45
+Metropolitano Oriente,F,2013,23785,35-45
+Metropolitano Sur,F,2013,32043,35-45
+Metropolitano Sur-Oriente,F,2013,38623,35-45
+Arica y Parinacota,F,2013,6068,45-55
+Iquique y Tarapaca,F,2013,7467,45-55
+Antofagasta,F,2013,12591,45-55
+Atacama,F,2013,8223,45-55
+Coquimbo,F,2013,21330,45-55
+Aconcagua,F,2013,8164,45-55
+Valparaiso y San Antonio,F,2013,14990,45-55
+Viña del Mar y Quillota,F,2013,28804,45-55
+Libertador B. O'Higgins,F,2013,27491,45-55
+Maule,F,2013,33664,45-55
+Arauco,F,2013,5493,45-55
+Bio-Bio y Los Angeles,F,2013,12752,45-55
+Concepcion,F,2013,19366,45-55
+Ñuble,F,2013,15996,45-55
+Talcahuano,F,2013,11971,45-55
+Araucanía Norte,F,2013,6521,45-55
+Araucanía Sur,F,2013,21974,45-55
+Chiloé,F,2013,5652,45-55
+Reloncavi,F,2013,12398,45-55
+Osorno,F,2013,7946,45-55
+Valdivia,F,2013,12128,45-55
+Aysen,F,2013,2838,45-55
+Magallanes,F,2013,4478,45-55
+Metropolitano Central,F,2013,28576,45-55
+Metropolitano Norte,F,2013,24515,45-55
+Metropolitano Occidente,F,2013,36709,45-55
+Metropolitano Oriente,F,2013,24763,45-55
+Metropolitano Sur,F,2013,33569,45-55
+Metropolitano Sur-Oriente,F,2013,41616,45-55
+Arica y Parinacota,F,2013,5928,45-55
+Iquique y Tarapaca,F,2013,7326,45-55
+Antofagasta,F,2013,12643,45-55
+Atacama,F,2013,7754,45-55
+Coquimbo,F,2013,19564,45-55
+Aconcagua,F,2013,7691,45-55
+Valparaiso y San Antonio,F,2013,14857,45-55
+Viña del Mar y Quillota,F,2013,29008,45-55
+Libertador B. O'Higgins,F,2013,25665,45-55
+Maule,F,2013,30172,45-55
+Arauco,F,2013,4904,45-55
+Bio-Bio y Los Angeles,F,2013,11365,45-55
+Concepcion,F,2013,18131,45-55
+Ñuble,F,2013,14414,45-55
+Talcahuano,F,2013,11650,45-55
+Araucanía Norte,F,2013,6016,45-55
+Araucanía Sur,F,2013,19564,45-55
+Chiloé,F,2013,4652,45-55
+Reloncavi,F,2013,10422,45-55
+Osorno,F,2013,7145,45-55
+Valdivia,F,2013,11048,45-55
+Aysen,F,2013,2592,45-55
+Magallanes,F,2013,4490,45-55
+Metropolitano Central,F,2013,29218,45-55
+Metropolitano Norte,F,2013,23039,45-55
+Metropolitano Occidente,F,2013,34956,45-55
+Metropolitano Oriente,F,2013,24452,45-55
+Metropolitano Sur,F,2013,34290,45-55
+Metropolitano Sur-Oriente,F,2013,42429,45-55
+Arica y Parinacota,F,2013,4855,55-65
+Iquique y Tarapaca,F,2013,6116,55-65
+Antofagasta,F,2013,10347,55-65
+Atacama,F,2013,6184,55-65
+Coquimbo,F,2013,16501,55-65
+Aconcagua,F,2013,6255,55-65
+Valparaiso y San Antonio,F,2013,12855,55-65
+Viña del Mar y Quillota,F,2013,24787,55-65
+Libertador B. O'Higgins,F,2013,20723,55-65
+Maule,F,2013,24985,55-65
+Arauco,F,2013,4217,55-65
+Bio-Bio y Los Angeles,F,2013,9257,55-65
+Concepcion,F,2013,15190,55-65
+Ñuble,F,2013,12113,55-65
+Talcahuano,F,2013,9846,55-65
+Araucanía Norte,F,2013,5091,55-65
+Araucanía Sur,F,2013,16381,55-65
+Chiloé,F,2013,3780,55-65
+Reloncavi,F,2013,8296,55-65
+Osorno,F,2013,5928,55-65
+Valdivia,F,2013,8802,55-65
+Aysen,F,2013,2160,55-65
+Magallanes,F,2013,3677,55-65
+Metropolitano Central,F,2013,24123,55-65
+Metropolitano Norte,F,2013,18445,55-65
+Metropolitano Occidente,F,2013,28686,55-65
+Metropolitano Oriente,F,2013,21940,55-65
+Metropolitano Sur,F,2013,28785,55-65
+Metropolitano Sur-Oriente,F,2013,35375,55-65
+Arica y Parinacota,F,2013,4462,55-65
+Iquique y Tarapaca,F,2013,4947,55-65
+Antofagasta,F,2013,8654,55-65
+Atacama,F,2013,5225,55-65
+Coquimbo,F,2013,13786,55-65
+Aconcagua,F,2013,5245,55-65
+Valparaiso y San Antonio,F,2013,11005,55-65
+Viña del Mar y Quillota,F,2013,20544,55-65
+Libertador B. O'Higgins,F,2013,16752,55-65
+Maule,F,2013,21070,55-65
+Arauco,F,2013,3427,55-65
+Bio-Bio y Los Angeles,F,2013,7916,55-65
+Concepcion,F,2013,13076,55-65
+Ñuble,F,2013,10026,55-65
+Talcahuano,F,2013,8217,55-65
+Araucanía Norte,F,2013,4407,55-65
+Araucanía Sur,F,2013,13911,55-65
+Chiloé,F,2013,3170,55-65
+Reloncavi,F,2013,6775,55-65
+Osorno,F,2013,5054,55-65
+Valdivia,F,2013,7759,55-65
+Aysen,F,2013,1705,55-65
+Magallanes,F,2013,3081,55-65
+Metropolitano Central,F,2013,20084,55-65
+Metropolitano Norte,F,2013,15561,55-65
+Metropolitano Occidente,F,2013,24174,55-65
+Metropolitano Oriente,F,2013,19829,55-65
+Metropolitano Sur,F,2013,23528,55-65
+Metropolitano Sur-Oriente,F,2013,28429,55-65
+Arica y Parinacota,F,2013,3979,65-75
+Iquique y Tarapaca,F,2013,3829,65-75
+Antofagasta,F,2013,7171,65-75
+Atacama,F,2013,4222,65-75
+Coquimbo,F,2013,11700,65-75
+Aconcagua,F,2013,4549,65-75
+Valparaiso y San Antonio,F,2013,10032,65-75
+Viña del Mar y Quillota,F,2013,18946,65-75
+Libertador B. O'Higgins,F,2013,14228,65-75
+Maule,F,2013,17540,65-75
+Arauco,F,2013,2718,65-75
+Bio-Bio y Los Angeles,F,2013,7021,65-75
+Concepcion,F,2013,11024,65-75
+Ñuble,F,2013,8795,65-75
+Talcahuano,F,2013,7143,65-75
+Araucanía Norte,F,2013,3897,65-75
+Araucanía Sur,F,2013,12621,65-75
+Chiloé,F,2013,2773,65-75
+Reloncavi,F,2013,5957,65-75
+Osorno,F,2013,4526,65-75
+Valdivia,F,2013,6774,65-75
+Aysen,F,2013,1303,65-75
+Magallanes,F,2013,2724,65-75
+Metropolitano Central,F,2013,18093,65-75
+Metropolitano Norte,F,2013,13771,65-75
+Metropolitano Occidente,F,2013,21722,65-75
+Metropolitano Oriente,F,2013,19566,65-75
+Metropolitano Sur,F,2013,20541,65-75
+Metropolitano Sur-Oriente,F,2013,23830,65-75
+Arica y Parinacota,F,2013,3095,65-75
+Iquique y Tarapaca,F,2013,2841,65-75
+Antofagasta,F,2013,5854,65-75
+Atacama,F,2013,3478,65-75
+Coquimbo,F,2013,9859,65-75
+Aconcagua,F,2013,3579,65-75
+Valparaiso y San Antonio,F,2013,8295,65-75
+Viña del Mar y Quillota,F,2013,16113,65-75
+Libertador B. O'Higgins,F,2013,10741,65-75
+Maule,F,2013,13892,65-75
+Arauco,F,2013,2070,65-75
+Bio-Bio y Los Angeles,F,2013,5658,65-75
+Concepcion,F,2013,9006,65-75
+Ñuble,F,2013,7329,65-75
+Talcahuano,F,2013,5993,65-75
+Araucanía Norte,F,2013,3294,65-75
+Araucanía Sur,F,2013,10530,65-75
+Chiloé,F,2013,2560,65-75
+Reloncavi,F,2013,4923,65-75
+Osorno,F,2013,3689,65-75
+Valdivia,F,2013,5737,65-75
+Aysen,F,2013,1065,65-75
+Magallanes,F,2013,2396,65-75
+Metropolitano Central,F,2013,14269,65-75
+Metropolitano Norte,F,2013,11237,65-75
+Metropolitano Occidente,F,2013,17076,65-75
+Metropolitano Oriente,F,2013,17263,65-75
+Metropolitano Sur,F,2013,16773,65-75
+Metropolitano Sur-Oriente,F,2013,17530,65-75
+Arica y Parinacota,F,2013,2186,>75
+Iquique y Tarapaca,F,2013,2018,>75
+Antofagasta,F,2013,4203,>75
+Atacama,F,2013,2478,>75
+Coquimbo,F,2013,7545,>75
+Aconcagua,F,2013,2618,>75
+Valparaiso y San Antonio,F,2013,6428,>75
+Viña del Mar y Quillota,F,2013,12505,>75
+Libertador B. O'Higgins,F,2013,8205,>75
+Maule,F,2013,10217,>75
+Arauco,F,2013,1519,>75
+Bio-Bio y Los Angeles,F,2013,4185,>75
+Concepcion,F,2013,6242,>75
+Ñuble,F,2013,5388,>75
+Talcahuano,F,2013,4154,>75
+Araucanía Norte,F,2013,2497,>75
+Araucanía Sur,F,2013,8335,>75
+Chiloé,F,2013,1918,>75
+Reloncavi,F,2013,3563,>75
+Osorno,F,2013,2913,>75
+Valdivia,F,2013,4347,>75
+Aysen,F,2013,744,>75
+Magallanes,F,2013,1783,>75
+Metropolitano Central,F,2013,10439,>75
+Metropolitano Norte,F,2013,8323,>75
+Metropolitano Occidente,F,2013,11815,>75
+Metropolitano Oriente,F,2013,13367,>75
+Metropolitano Sur,F,2013,12768,>75
+Metropolitano Sur-Oriente,F,2013,11945,>75
+Arica y Parinacota,F,2013,2500,>75
+Iquique y Tarapaca,F,2013,2346,>75
+Antofagasta,F,2013,4845,>75
+Atacama,F,2013,2866,>75
+Coquimbo,F,2013,8771,>75
+Aconcagua,F,2013,3218,>75
+Valparaiso y San Antonio,F,2013,8313,>75
+Viña del Mar y Quillota,F,2013,16204,>75
+Libertador B. O'Higgins,F,2013,9526,>75
+Maule,F,2013,11549,>75
+Arauco,F,2013,1709,>75
+Bio-Bio y Los Angeles,F,2013,4873,>75
+Concepcion,F,2013,7512,>75
+Ñuble,F,2013,6012,>75
+Talcahuano,F,2013,4716,>75
+Araucanía Norte,F,2013,2958,>75
+Araucanía Sur,F,2013,9772,>75
+Chiloé,F,2013,2246,>75
+Reloncavi,F,2013,4027,>75
+Osorno,F,2013,3305,>75
+Valdivia,F,2013,4960,>75
+Aysen,F,2013,736,>75
+Magallanes,F,2013,2050,>75
+Metropolitano Central,F,2013,13672,>75
+Metropolitano Norte,F,2013,10411,>75
+Metropolitano Occidente,F,2013,13379,>75
+Metropolitano Oriente,F,2013,21672,>75
+Metropolitano Sur,F,2013,16984,>75
+Metropolitano Sur-Oriente,F,2013,13162,>75
+Arica y Parinacota,F,2014,4946,0-5
+Iquique y Tarapaca,F,2014,8583,0-5
+Antofagasta,F,2014,13585,0-5
+Atacama,F,2014,8793,0-5
+Coquimbo,F,2014,21260,0-5
+Aconcagua,F,2014,7374,0-5
+Valparaiso y San Antonio,F,2014,12785,0-5
+Viña del Mar y Quillota,F,2014,21671,0-5
+Libertador B. O'Higgins,F,2014,22184,0-5
+Maule,F,2014,26319,0-5
+Arauco,F,2014,4892,0-5
+Bio-Bio y Los Angeles,F,2014,10186,0-5
+Concepcion,F,2014,15271,0-5
+Ñuble,F,2014,12961,0-5
+Talcahuano,F,2014,7311,0-5
+Araucanía Norte,F,2014,4829,0-5
+Araucanía Sur,F,2014,18912,0-5
+Chiloé,F,2014,3951,0-5
+Reloncavi,F,2014,10286,0-5
+Osorno,F,2014,6264,0-5
+Valdivia,F,2014,8991,0-5
+Aysen,F,2014,2217,0-5
+Magallanes,F,2014,3467,0-5
+Metropolitano Central,F,2014,21772,0-5
+Metropolitano Norte,F,2014,22179,0-5
+Metropolitano Occidente,F,2014,30403,0-5
+Metropolitano Oriente,F,2014,13794,0-5
+Metropolitano Sur,F,2014,30071,0-5
+Metropolitano Sur-Oriente,F,2014,35112,0-5
+Arica y Parinacota,F,2014,6087,5-15
+Iquique y Tarapaca,F,2014,8888,5-15
+Antofagasta,F,2014,13076,5-15
+Atacama,F,2014,8847,5-15
+Coquimbo,F,2014,20939,5-15
+Aconcagua,F,2014,7490,5-15
+Valparaiso y San Antonio,F,2014,12958,5-15
+Viña del Mar y Quillota,F,2014,22671,5-15
+Libertador B. O'Higgins,F,2014,23736,5-15
+Maule,F,2014,28410,5-15
+Arauco,F,2014,5298,5-15
+Bio-Bio y Los Angeles,F,2014,11990,5-15
+Concepcion,F,2014,15110,5-15
+Ñuble,F,2014,14013,5-15
+Talcahuano,F,2014,8162,5-15
+Araucanía Norte,F,2014,5566,5-15
+Araucanía Sur,F,2014,21198,5-15
+Chiloé,F,2014,5296,5-15
+Reloncavi,F,2014,12101,5-15
+Osorno,F,2014,7083,5-15
+Valdivia,F,2014,10180,5-15
+Aysen,F,2014,2903,5-15
+Magallanes,F,2014,3762,5-15
+Metropolitano Central,F,2014,21476,5-15
+Metropolitano Norte,F,2014,23505,5-15
+Metropolitano Occidente,F,2014,33671,5-15
+Metropolitano Oriente,F,2014,14969,5-15
+Metropolitano Sur,F,2014,30954,5-15
+Metropolitano Sur-Oriente,F,2014,38131,5-15
+Arica y Parinacota,F,2014,5988,5-15
+Iquique y Tarapaca,F,2014,8629,5-15
+Antofagasta,F,2014,13108,5-15
+Atacama,F,2014,8159,5-15
+Coquimbo,F,2014,20506,5-15
+Aconcagua,F,2014,7380,5-15
+Valparaiso y San Antonio,F,2014,13248,5-15
+Viña del Mar y Quillota,F,2014,23031,5-15
+Libertador B. O'Higgins,F,2014,24017,5-15
+Maule,F,2014,29257,5-15
+Arauco,F,2014,5662,5-15
+Bio-Bio y Los Angeles,F,2014,12399,5-15
+Concepcion,F,2014,15862,5-15
+Ñuble,F,2014,14453,5-15
+Talcahuano,F,2014,8433,5-15
+Araucanía Norte,F,2014,5849,5-15
+Araucanía Sur,F,2014,21903,5-15
+Chiloé,F,2014,5704,5-15
+Reloncavi,F,2014,12282,5-15
+Osorno,F,2014,7144,5-15
+Valdivia,F,2014,10312,5-15
+Aysen,F,2014,2900,5-15
+Magallanes,F,2014,3709,5-15
+Metropolitano Central,F,2014,21329,5-15
+Metropolitano Norte,F,2014,23244,5-15
+Metropolitano Occidente,F,2014,33839,5-15
+Metropolitano Oriente,F,2014,15361,5-15
+Metropolitano Sur,F,2014,31800,5-15
+Metropolitano Sur-Oriente,F,2014,38749,5-15
+Arica y Parinacota,F,2014,6168,15-25
+Iquique y Tarapaca,F,2014,8948,15-25
+Antofagasta,F,2014,14227,15-25
+Atacama,F,2014,8772,15-25
+Coquimbo,F,2014,21711,15-25
+Aconcagua,F,2014,7961,15-25
+Valparaiso y San Antonio,F,2014,14300,15-25
+Viña del Mar y Quillota,F,2014,25202,15-25
+Libertador B. O'Higgins,F,2014,26196,15-25
+Maule,F,2014,31545,15-25
+Arauco,F,2014,5995,15-25
+Bio-Bio y Los Angeles,F,2014,13351,15-25
+Concepcion,F,2014,16970,15-25
+Ñuble,F,2014,16136,15-25
+Talcahuano,F,2014,9456,15-25
+Araucanía Norte,F,2014,6624,15-25
+Araucanía Sur,F,2014,23897,15-25
+Chiloé,F,2014,5954,15-25
+Reloncavi,F,2014,12770,15-25
+Osorno,F,2014,7842,15-25
+Valdivia,F,2014,11058,15-25
+Aysen,F,2014,2984,15-25
+Magallanes,F,2014,4048,15-25
+Metropolitano Central,F,2014,23249,15-25
+Metropolitano Norte,F,2014,24782,15-25
+Metropolitano Occidente,F,2014,36970,15-25
+Metropolitano Oriente,F,2014,17186,15-25
+Metropolitano Sur,F,2014,33663,15-25
+Metropolitano Sur-Oriente,F,2014,42086,15-25
+Arica y Parinacota,F,2014,6070,15-25
+Iquique y Tarapaca,F,2014,9584,15-25
+Antofagasta,F,2014,15943,15-25
+Atacama,F,2014,9179,15-25
+Coquimbo,F,2014,22319,15-25
+Aconcagua,F,2014,8235,15-25
+Valparaiso y San Antonio,F,2014,14869,15-25
+Viña del Mar y Quillota,F,2014,26619,15-25
+Libertador B. O'Higgins,F,2014,26500,15-25
+Maule,F,2014,32711,15-25
+Arauco,F,2014,5904,15-25
+Bio-Bio y Los Angeles,F,2014,13735,15-25
+Concepcion,F,2014,18352,15-25
+Ñuble,F,2014,16407,15-25
+Talcahuano,F,2014,9782,15-25
+Araucanía Norte,F,2014,6964,15-25
+Araucanía Sur,F,2014,24703,15-25
+Chiloé,F,2014,5932,15-25
+Reloncavi,F,2014,13459,15-25
+Osorno,F,2014,8053,15-25
+Valdivia,F,2014,11163,15-25
+Aysen,F,2014,3230,15-25
+Magallanes,F,2014,4539,15-25
+Metropolitano Central,F,2014,27027,15-25
+Metropolitano Norte,F,2014,26298,15-25
+Metropolitano Occidente,F,2014,39155,15-25
+Metropolitano Oriente,F,2014,19968,15-25
+Metropolitano Sur,F,2014,35916,15-25
+Metropolitano Sur-Oriente,F,2014,45621,15-25
+Arica y Parinacota,F,2014,6575,25-35
+Iquique y Tarapaca,F,2014,10487,25-35
+Antofagasta,F,2014,17285,25-35
+Atacama,F,2014,9460,25-35
+Coquimbo,F,2014,23587,25-35
+Aconcagua,F,2014,8574,25-35
+Valparaiso y San Antonio,F,2014,16168,25-35
+Viña del Mar y Quillota,F,2014,28869,25-35
+Libertador B. O'Higgins,F,2014,27129,25-35
+Maule,F,2014,32825,25-35
+Arauco,F,2014,5781,25-35
+Bio-Bio y Los Angeles,F,2014,12695,25-35
+Concepcion,F,2014,19408,25-35
+Ñuble,F,2014,16846,25-35
+Talcahuano,F,2014,10165,25-35
+Araucanía Norte,F,2014,6564,25-35
+Araucanía Sur,F,2014,23775,25-35
+Chiloé,F,2014,5915,25-35
+Reloncavi,F,2014,13113,25-35
+Osorno,F,2014,7934,25-35
+Valdivia,F,2014,10481,25-35
+Aysen,F,2014,3343,25-35
+Magallanes,F,2014,5166,25-35
+Metropolitano Central,F,2014,32061,25-35
+Metropolitano Norte,F,2014,26573,25-35
+Metropolitano Occidente,F,2014,38732,25-35
+Metropolitano Oriente,F,2014,22807,25-35
+Metropolitano Sur,F,2014,36183,25-35
+Metropolitano Sur-Oriente,F,2014,44557,25-35
+Arica y Parinacota,F,2014,6126,25-35
+Iquique y Tarapaca,F,2014,10064,25-35
+Antofagasta,F,2014,16306,25-35
+Atacama,F,2014,8559,25-35
+Coquimbo,F,2014,21587,25-35
+Aconcagua,F,2014,8032,25-35
+Valparaiso y San Antonio,F,2014,15306,25-35
+Viña del Mar y Quillota,F,2014,27038,25-35
+Libertador B. O'Higgins,F,2014,24443,25-35
+Maule,F,2014,30474,25-35
+Arauco,F,2014,5592,25-35
+Bio-Bio y Los Angeles,F,2014,12145,25-35
+Concepcion,F,2014,17846,25-35
+Ñuble,F,2014,15379,25-35
+Talcahuano,F,2014,8998,25-35
+Araucanía Norte,F,2014,5943,25-35
+Araucanía Sur,F,2014,21807,25-35
+Chiloé,F,2014,5867,25-35
+Reloncavi,F,2014,12386,25-35
+Osorno,F,2014,7300,25-35
+Valdivia,F,2014,9874,25-35
+Aysen,F,2014,3141,25-35
+Magallanes,F,2014,4908,25-35
+Metropolitano Central,F,2014,29685,25-35
+Metropolitano Norte,F,2014,24490,25-35
+Metropolitano Occidente,F,2014,34968,25-35
+Metropolitano Oriente,F,2014,22578,25-35
+Metropolitano Sur,F,2014,33687,25-35
+Metropolitano Sur-Oriente,F,2014,40427,25-35
+Arica y Parinacota,F,2014,5484,35-45
+Iquique y Tarapaca,F,2014,8634,35-45
+Antofagasta,F,2014,14729,35-45
+Atacama,F,2014,7822,35-45
+Coquimbo,F,2014,20277,35-45
+Aconcagua,F,2014,7247,35-45
+Valparaiso y San Antonio,F,2014,14002,35-45
+Viña del Mar y Quillota,F,2014,24511,35-45
+Libertador B. O'Higgins,F,2014,24222,35-45
+Maule,F,2014,29562,35-45
+Arauco,F,2014,5367,35-45
+Bio-Bio y Los Angeles,F,2014,11509,35-45
+Concepcion,F,2014,16217,35-45
+Ñuble,F,2014,14407,35-45
+Talcahuano,F,2014,8716,35-45
+Araucanía Norte,F,2014,5569,35-45
+Araucanía Sur,F,2014,20907,35-45
+Chiloé,F,2014,5661,35-45
+Reloncavi,F,2014,11861,35-45
+Osorno,F,2014,7389,35-45
+Valdivia,F,2014,9109,35-45
+Aysen,F,2014,3007,35-45
+Magallanes,F,2014,4715,35-45
+Metropolitano Central,F,2014,26472,35-45
+Metropolitano Norte,F,2014,23238,35-45
+Metropolitano Occidente,F,2014,33454,35-45
+Metropolitano Oriente,F,2014,22602,35-45
+Metropolitano Sur,F,2014,29044,35-45
+Metropolitano Sur-Oriente,F,2014,35660,35-45
+Arica y Parinacota,F,2014,6069,35-45
+Iquique y Tarapaca,F,2014,8289,35-45
+Antofagasta,F,2014,14438,35-45
+Atacama,F,2014,7910,35-45
+Coquimbo,F,2014,21036,35-45
+Aconcagua,F,2014,7618,35-45
+Valparaiso y San Antonio,F,2014,14215,35-45
+Viña del Mar y Quillota,F,2014,25134,35-45
+Libertador B. O'Higgins,F,2014,25796,35-45
+Maule,F,2014,31272,35-45
+Arauco,F,2014,5773,35-45
+Bio-Bio y Los Angeles,F,2014,13046,35-45
+Concepcion,F,2014,18012,35-45
+Ñuble,F,2014,16805,35-45
+Talcahuano,F,2014,9760,35-45
+Araucanía Norte,F,2014,6237,35-45
+Araucanía Sur,F,2014,22714,35-45
+Chiloé,F,2014,5722,35-45
+Reloncavi,F,2014,12632,35-45
+Osorno,F,2014,7866,35-45
+Valdivia,F,2014,10043,35-45
+Aysen,F,2014,2961,35-45
+Magallanes,F,2014,4425,35-45
+Metropolitano Central,F,2014,27349,35-45
+Metropolitano Norte,F,2014,25417,35-45
+Metropolitano Occidente,F,2014,36265,35-45
+Metropolitano Oriente,F,2014,24177,35-45
+Metropolitano Sur,F,2014,32239,35-45
+Metropolitano Sur-Oriente,F,2014,39428,35-45
+Arica y Parinacota,F,2014,5401,45-55
+Iquique y Tarapaca,F,2014,7523,45-55
+Antofagasta,F,2014,12918,45-55
+Atacama,F,2014,8246,45-55
+Coquimbo,F,2014,21370,45-55
+Aconcagua,F,2014,7949,45-55
+Valparaiso y San Antonio,F,2014,14907,45-55
+Viña del Mar y Quillota,F,2014,26489,45-55
+Libertador B. O'Higgins,F,2014,26954,45-55
+Maule,F,2014,33413,45-55
+Arauco,F,2014,5549,45-55
+Bio-Bio y Los Angeles,F,2014,12922,45-55
+Concepcion,F,2014,19213,45-55
+Ñuble,F,2014,17160,45-55
+Talcahuano,F,2014,10721,45-55
+Araucanía Norte,F,2014,6466,45-55
+Araucanía Sur,F,2014,22515,45-55
+Chiloé,F,2014,5822,45-55
+Reloncavi,F,2014,12547,45-55
+Osorno,F,2014,7973,45-55
+Valdivia,F,2014,11062,45-55
+Aysen,F,2014,2888,45-55
+Magallanes,F,2014,4474,45-55
+Metropolitano Central,F,2014,27962,45-55
+Metropolitano Norte,F,2014,24678,45-55
+Metropolitano Occidente,F,2014,36255,45-55
+Metropolitano Oriente,F,2014,24610,45-55
+Metropolitano Sur,F,2014,33124,45-55
+Metropolitano Sur-Oriente,F,2014,40705,45-55
+Arica y Parinacota,F,2014,5416,45-55
+Iquique y Tarapaca,F,2014,7447,45-55
+Antofagasta,F,2014,13081,45-55
+Atacama,F,2014,8018,45-55
+Coquimbo,F,2014,20499,45-55
+Aconcagua,F,2014,7928,45-55
+Valparaiso y San Antonio,F,2014,15464,45-55
+Viña del Mar y Quillota,F,2014,28087,45-55
+Libertador B. O'Higgins,F,2014,26084,45-55
+Maule,F,2014,31067,45-55
+Arauco,F,2014,4996,45-55
+Bio-Bio y Los Angeles,F,2014,11658,45-55
+Concepcion,F,2014,18665,45-55
+Ñuble,F,2014,15718,45-55
+Talcahuano,F,2014,10928,45-55
+Araucanía Norte,F,2014,6235,45-55
+Araucanía Sur,F,2014,20612,45-55
+Chiloé,F,2014,4901,45-55
+Reloncavi,F,2014,11137,45-55
+Osorno,F,2014,7436,45-55
+Valdivia,F,2014,10528,45-55
+Aysen,F,2014,2692,45-55
+Magallanes,F,2014,4638,45-55
+Metropolitano Central,F,2014,30147,45-55
+Metropolitano Norte,F,2014,24064,45-55
+Metropolitano Occidente,F,2014,36226,45-55
+Metropolitano Oriente,F,2014,25266,45-55
+Metropolitano Sur,F,2014,35025,45-55
+Metropolitano Sur-Oriente,F,2014,43572,45-55
+Arica y Parinacota,F,2014,4464,55-65
+Iquique y Tarapaca,F,2014,6388,55-65
+Antofagasta,F,2014,10980,55-65
+Atacama,F,2014,6591,55-65
+Coquimbo,F,2014,17209,55-65
+Aconcagua,F,2014,6479,55-65
+Valparaiso y San Antonio,F,2014,13637,55-65
+Viña del Mar y Quillota,F,2014,24441,55-65
+Libertador B. O'Higgins,F,2014,21716,55-65
+Maule,F,2014,26038,55-65
+Arauco,F,2014,4330,55-65
+Bio-Bio y Los Angeles,F,2014,9727,55-65
+Concepcion,F,2014,15671,55-65
+Ñuble,F,2014,13409,55-65
+Talcahuano,F,2014,9572,55-65
+Araucanía Norte,F,2014,5205,55-65
+Araucanía Sur,F,2014,17207,55-65
+Chiloé,F,2014,4079,55-65
+Reloncavi,F,2014,8622,55-65
+Osorno,F,2014,6242,55-65
+Valdivia,F,2014,8275,55-65
+Aysen,F,2014,2308,55-65
+Magallanes,F,2014,3945,55-65
+Metropolitano Central,F,2014,25356,55-65
+Metropolitano Norte,F,2014,19552,55-65
+Metropolitano Occidente,F,2014,30070,55-65
+Metropolitano Oriente,F,2014,22471,55-65
+Metropolitano Sur,F,2014,30318,55-65
+Metropolitano Sur-Oriente,F,2014,37359,55-65
+Arica y Parinacota,F,2014,3951,55-65
+Iquique y Tarapaca,F,2014,5189,55-65
+Antofagasta,F,2014,9135,55-65
+Atacama,F,2014,5397,55-65
+Coquimbo,F,2014,14574,55-65
+Aconcagua,F,2014,5513,55-65
+Valparaiso y San Antonio,F,2014,11482,55-65
+Viña del Mar y Quillota,F,2014,19872,55-65
+Libertador B. O'Higgins,F,2014,17403,55-65
+Maule,F,2014,21790,55-65
+Arauco,F,2014,3620,55-65
+Bio-Bio y Los Angeles,F,2014,8113,55-65
+Concepcion,F,2014,13547,55-65
+Ñuble,F,2014,10892,55-65
+Talcahuano,F,2014,8066,55-65
+Araucanía Norte,F,2014,4601,55-65
+Araucanía Sur,F,2014,14567,55-65
+Chiloé,F,2014,3227,55-65
+Reloncavi,F,2014,7146,55-65
+Osorno,F,2014,5295,55-65
+Valdivia,F,2014,7177,55-65
+Aysen,F,2014,1811,55-65
+Magallanes,F,2014,3196,55-65
+Metropolitano Central,F,2014,20751,55-65
+Metropolitano Norte,F,2014,15979,55-65
+Metropolitano Occidente,F,2014,24717,55-65
+Metropolitano Oriente,F,2014,20182,55-65
+Metropolitano Sur,F,2014,24106,55-65
+Metropolitano Sur-Oriente,F,2014,29531,55-65
+Arica y Parinacota,F,2014,3603,65-75
+Iquique y Tarapaca,F,2014,4044,65-75
+Antofagasta,F,2014,7352,65-75
+Atacama,F,2014,4380,65-75
+Coquimbo,F,2014,12026,65-75
+Aconcagua,F,2014,4690,65-75
+Valparaiso y San Antonio,F,2014,10401,65-75
+Viña del Mar y Quillota,F,2014,17904,65-75
+Libertador B. O'Higgins,F,2014,14556,65-75
+Maule,F,2014,18188,65-75
+Arauco,F,2014,2782,65-75
+Bio-Bio y Los Angeles,F,2014,7149,65-75
+Concepcion,F,2014,11416,65-75
+Ñuble,F,2014,9473,65-75
+Talcahuano,F,2014,6956,65-75
+Araucanía Norte,F,2014,3926,65-75
+Araucanía Sur,F,2014,12995,65-75
+Chiloé,F,2014,2951,65-75
+Reloncavi,F,2014,6159,65-75
+Osorno,F,2014,4676,65-75
+Valdivia,F,2014,6263,65-75
+Aysen,F,2014,1369,65-75
+Magallanes,F,2014,2828,65-75
+Metropolitano Central,F,2014,18481,65-75
+Metropolitano Norte,F,2014,14178,65-75
+Metropolitano Occidente,F,2014,22198,65-75
+Metropolitano Oriente,F,2014,19476,65-75
+Metropolitano Sur,F,2014,21064,65-75
+Metropolitano Sur-Oriente,F,2014,24787,65-75
+Arica y Parinacota,F,2014,2930,65-75
+Iquique y Tarapaca,F,2014,3071,65-75
+Antofagasta,F,2014,5972,65-75
+Atacama,F,2014,3653,65-75
+Coquimbo,F,2014,10307,65-75
+Aconcagua,F,2014,3774,65-75
+Valparaiso y San Antonio,F,2014,8672,65-75
+Viña del Mar y Quillota,F,2014,15829,65-75
+Libertador B. O'Higgins,F,2014,11267,65-75
+Maule,F,2014,14399,65-75
+Arauco,F,2014,2198,65-75
+Bio-Bio y Los Angeles,F,2014,5794,65-75
+Concepcion,F,2014,9279,65-75
+Ñuble,F,2014,7832,65-75
+Talcahuano,F,2014,5980,65-75
+Araucanía Norte,F,2014,3370,65-75
+Araucanía Sur,F,2014,10943,65-75
+Chiloé,F,2014,2555,65-75
+Reloncavi,F,2014,5065,65-75
+Osorno,F,2014,3886,65-75
+Valdivia,F,2014,5177,65-75
+Aysen,F,2014,1112,65-75
+Magallanes,F,2014,2493,65-75
+Metropolitano Central,F,2014,15056,65-75
+Metropolitano Norte,F,2014,11786,65-75
+Metropolitano Occidente,F,2014,17862,65-75
+Metropolitano Oriente,F,2014,17760,65-75
+Metropolitano Sur,F,2014,17378,65-75
+Metropolitano Sur-Oriente,F,2014,18673,65-75
+Arica y Parinacota,F,2014,2090,>75
+Iquique y Tarapaca,F,2014,2116,>75
+Antofagasta,F,2014,4507,>75
+Atacama,F,2014,2564,>75
+Coquimbo,F,2014,7793,>75
+Aconcagua,F,2014,2763,>75
+Valparaiso y San Antonio,F,2014,6705,>75
+Viña del Mar y Quillota,F,2014,11992,>75
+Libertador B. O'Higgins,F,2014,8410,>75
+Maule,F,2014,10765,>75
+Arauco,F,2014,1565,>75
+Bio-Bio y Los Angeles,F,2014,4431,>75
+Concepcion,F,2014,6520,>75
+Ñuble,F,2014,5811,>75
+Talcahuano,F,2014,4214,>75
+Araucanía Norte,F,2014,2569,>75
+Araucanía Sur,F,2014,8696,>75
+Chiloé,F,2014,2027,>75
+Reloncavi,F,2014,3798,>75
+Osorno,F,2014,3000,>75
+Valdivia,F,2014,4133,>75
+Aysen,F,2014,819,>75
+Magallanes,F,2014,1870,>75
+Metropolitano Central,F,2014,10781,>75
+Metropolitano Norte,F,2014,8681,>75
+Metropolitano Occidente,F,2014,12413,>75
+Metropolitano Oriente,F,2014,13738,>75
+Metropolitano Sur,F,2014,13009,>75
+Metropolitano Sur-Oriente,F,2014,12603,>75
+Arica y Parinacota,F,2014,2299,>75
+Iquique y Tarapaca,F,2014,2535,>75
+Antofagasta,F,2014,5058,>75
+Atacama,F,2014,3029,>75
+Coquimbo,F,2014,9320,>75
+Aconcagua,F,2014,3436,>75
+Valparaiso y San Antonio,F,2014,8883,>75
+Viña del Mar y Quillota,F,2014,15871,>75
+Libertador B. O'Higgins,F,2014,9975,>75
+Maule,F,2014,12199,>75
+Arauco,F,2014,1805,>75
+Bio-Bio y Los Angeles,F,2014,5091,>75
+Concepcion,F,2014,7948,>75
+Ñuble,F,2014,6576,>75
+Talcahuano,F,2014,4914,>75
+Araucanía Norte,F,2014,3109,>75
+Araucanía Sur,F,2014,10465,>75
+Chiloé,F,2014,2364,>75
+Reloncavi,F,2014,4250,>75
+Osorno,F,2014,3552,>75
+Valdivia,F,2014,4637,>75
+Aysen,F,2014,777,>75
+Magallanes,F,2014,2228,>75
+Metropolitano Central,F,2014,14324,>75
+Metropolitano Norte,F,2014,11000,>75
+Metropolitano Occidente,F,2014,14278,>75
+Metropolitano Oriente,F,2014,22242,>75
+Metropolitano Sur,F,2014,17793,>75
+Metropolitano Sur-Oriente,F,2014,14030,>75
+Arica y Parinacota,M,2012,6680,0-5
+Iquique y Tarapaca,M,2012,9908,0-5
+Antofagasta,M,2012,13863,0-5
+Atacama,M,2012,9090,0-5
+Coquimbo,M,2012,20810,0-5
+Aconcagua,M,2012,7646,0-5
+Valparaiso y San Antonio,M,2012,12663,0-5
+Viña del Mar y Quillota,M,2012,23233,0-5
+Libertador B. O'Higgins,M,2012,24134,0-5
+Maule,M,2012,27373,0-5
+Arauco,M,2012,4819,0-5
+Bio-Bio y Los Angeles,M,2012,9786,0-5
+Concepcion,M,2012,15581,0-5
+Ñuble,M,2012,11663,0-5
+Talcahuano,M,2012,9487,0-5
+Araucanía Norte,M,2012,4716,0-5
+Araucanía Sur,M,2012,19212,0-5
+Chiloé,M,2012,4205,0-5
+Reloncavi,M,2012,10756,0-5
+Osorno,M,2012,6433,0-5
+Valdivia,M,2012,10273,0-5
+Aysen,M,2012,2262,0-5
+Magallanes,M,2012,3625,0-5
+Metropolitano Central,M,2012,23451,0-5
+Metropolitano Norte,M,2012,23680,0-5
+Metropolitano Occidente,M,2012,32904,0-5
+Metropolitano Oriente,M,2012,15281,0-5
+Metropolitano Sur,M,2012,32031,0-5
+Metropolitano Sur-Oriente,M,2012,36831,0-5
+Arica y Parinacota,M,2012,6094,5-15
+Iquique y Tarapaca,M,2012,9127,5-15
+Antofagasta,M,2012,13550,5-15
+Atacama,M,2012,8972,5-15
+Coquimbo,M,2012,20345,5-15
+Aconcagua,M,2012,7377,5-15
+Valparaiso y San Antonio,M,2012,12914,5-15
+Viña del Mar y Quillota,M,2012,23820,5-15
+Libertador B. O'Higgins,M,2012,24274,5-15
+Maule,M,2012,28696,5-15
+Arauco,M,2012,5418,5-15
+Bio-Bio y Los Angeles,M,2012,11745,5-15
+Concepcion,M,2012,15848,5-15
+Ñuble,M,2012,13099,5-15
+Talcahuano,M,2012,9369,5-15
+Araucanía Norte,M,2012,5737,5-15
+Araucanía Sur,M,2012,20826,5-15
+Chiloé,M,2012,5104,5-15
+Reloncavi,M,2012,11922,5-15
+Osorno,M,2012,6963,5-15
+Valdivia,M,2012,10707,5-15
+Aysen,M,2012,2906,5-15
+Magallanes,M,2012,3901,5-15
+Metropolitano Central,M,2012,22303,5-15
+Metropolitano Norte,M,2012,23576,5-15
+Metropolitano Occidente,M,2012,33982,5-15
+Metropolitano Oriente,M,2012,15523,5-15
+Metropolitano Sur,M,2012,31487,5-15
+Metropolitano Sur-Oriente,M,2012,38307,5-15
+Arica y Parinacota,M,2012,6416,5-15
+Iquique y Tarapaca,M,2012,9572,5-15
+Antofagasta,M,2012,14187,5-15
+Atacama,M,2012,9105,5-15
+Coquimbo,M,2012,21748,5-15
+Aconcagua,M,2012,8175,5-15
+Valparaiso y San Antonio,M,2012,14243,5-15
+Viña del Mar y Quillota,M,2012,26791,5-15
+Libertador B. O'Higgins,M,2012,26247,5-15
+Maule,M,2012,31914,5-15
+Arauco,M,2012,6123,5-15
+Bio-Bio y Los Angeles,M,2012,13132,5-15
+Concepcion,M,2012,16740,5-15
+Ñuble,M,2012,15139,5-15
+Talcahuano,M,2012,10204,5-15
+Araucanía Norte,M,2012,6604,5-15
+Araucanía Sur,M,2012,23913,5-15
+Chiloé,M,2012,6127,5-15
+Reloncavi,M,2012,12945,5-15
+Osorno,M,2012,7552,5-15
+Valdivia,M,2012,11854,5-15
+Aysen,M,2012,2993,5-15
+Magallanes,M,2012,4052,5-15
+Metropolitano Central,M,2012,23548,5-15
+Metropolitano Norte,M,2012,24876,5-15
+Metropolitano Occidente,M,2012,37537,5-15
+Metropolitano Oriente,M,2012,17232,5-15
+Metropolitano Sur,M,2012,34024,5-15
+Metropolitano Sur-Oriente,M,2012,42314,5-15
+Arica y Parinacota,M,2012,6863,15-25
+Iquique y Tarapaca,M,2012,9603,15-25
+Antofagasta,M,2012,15702,15-25
+Atacama,M,2012,9699,15-25
+Coquimbo,M,2012,24242,15-25
+Aconcagua,M,2012,8727,15-25
+Valparaiso y San Antonio,M,2012,15911,15-25
+Viña del Mar y Quillota,M,2012,30451,15-25
+Libertador B. O'Higgins,M,2012,29644,15-25
+Maule,M,2012,36070,15-25
+Arauco,M,2012,6723,15-25
+Bio-Bio y Los Angeles,M,2012,14982,15-25
+Concepcion,M,2012,19284,15-25
+Ñuble,M,2012,17129,15-25
+Talcahuano,M,2012,11751,15-25
+Araucanía Norte,M,2012,7629,15-25
+Araucanía Sur,M,2012,26923,15-25
+Chiloé,M,2012,6734,15-25
+Reloncavi,M,2012,13774,15-25
+Osorno,M,2012,8634,15-25
+Valdivia,M,2012,14022,15-25
+Aysen,M,2012,3206,15-25
+Magallanes,M,2012,4270,15-25
+Metropolitano Central,M,2012,25909,15-25
+Metropolitano Norte,M,2012,26569,15-25
+Metropolitano Occidente,M,2012,41986,15-25
+Metropolitano Oriente,M,2012,20011,15-25
+Metropolitano Sur,M,2012,38226,15-25
+Metropolitano Sur-Oriente,M,2012,47083,15-25
+Arica y Parinacota,M,2012,7058,15-25
+Iquique y Tarapaca,M,2012,9393,15-25
+Antofagasta,M,2012,15463,15-25
+Atacama,M,2012,10348,15-25
+Coquimbo,M,2012,24586,15-25
+Aconcagua,M,2012,8954,15-25
+Valparaiso y San Antonio,M,2012,16450,15-25
+Viña del Mar y Quillota,M,2012,31774,15-25
+Libertador B. O'Higgins,M,2012,30298,15-25
+Maule,M,2012,36265,15-25
+Arauco,M,2012,6804,15-25
+Bio-Bio y Los Angeles,M,2012,14724,15-25
+Concepcion,M,2012,20980,15-25
+Ñuble,M,2012,17280,15-25
+Talcahuano,M,2012,12531,15-25
+Araucanía Norte,M,2012,7732,15-25
+Araucanía Sur,M,2012,25616,15-25
+Chiloé,M,2012,6086,15-25
+Reloncavi,M,2012,13244,15-25
+Osorno,M,2012,8112,15-25
+Valdivia,M,2012,13574,15-25
+Aysen,M,2012,3594,15-25
+Magallanes,M,2012,4682,15-25
+Metropolitano Central,M,2012,27319,15-25
+Metropolitano Norte,M,2012,24839,15-25
+Metropolitano Occidente,M,2012,40096,15-25
+Metropolitano Oriente,M,2012,20132,15-25
+Metropolitano Sur,M,2012,36995,15-25
+Metropolitano Sur-Oriente,M,2012,45818,15-25
+Arica y Parinacota,M,2012,5740,25-35
+Iquique y Tarapaca,M,2012,7963,25-35
+Antofagasta,M,2012,12898,25-35
+Atacama,M,2012,7640,25-35
+Coquimbo,M,2012,19145,25-35
+Aconcagua,M,2012,7184,25-35
+Valparaiso y San Antonio,M,2012,12852,25-35
+Viña del Mar y Quillota,M,2012,24898,25-35
+Libertador B. O'Higgins,M,2012,22844,25-35
+Maule,M,2012,26470,25-35
+Arauco,M,2012,4974,25-35
+Bio-Bio y Los Angeles,M,2012,10726,25-35
+Concepcion,M,2012,15599,25-35
+Ñuble,M,2012,12235,25-35
+Talcahuano,M,2012,9591,25-35
+Araucanía Norte,M,2012,5386,25-35
+Araucanía Sur,M,2012,18326,25-35
+Chiloé,M,2012,4582,25-35
+Reloncavi,M,2012,9975,25-35
+Osorno,M,2012,6125,25-35
+Valdivia,M,2012,9638,25-35
+Aysen,M,2012,2640,25-35
+Magallanes,M,2012,4102,25-35
+Metropolitano Central,M,2012,22331,25-35
+Metropolitano Norte,M,2012,19227,25-35
+Metropolitano Occidente,M,2012,30320,25-35
+Metropolitano Oriente,M,2012,14880,25-35
+Metropolitano Sur,M,2012,27684,25-35
+Metropolitano Sur-Oriente,M,2012,33719,25-35
+Arica y Parinacota,M,2012,4893,25-35
+Iquique y Tarapaca,M,2012,7211,25-35
+Antofagasta,M,2012,12190,25-35
+Atacama,M,2012,7238,25-35
+Coquimbo,M,2012,17634,25-35
+Aconcagua,M,2012,6815,25-35
+Valparaiso y San Antonio,M,2012,12174,25-35
+Viña del Mar y Quillota,M,2012,22924,25-35
+Libertador B. O'Higgins,M,2012,22313,25-35
+Maule,M,2012,25053,25-35
+Arauco,M,2012,4967,25-35
+Bio-Bio y Los Angeles,M,2012,10341,25-35
+Concepcion,M,2012,14346,25-35
+Ñuble,M,2012,11168,25-35
+Talcahuano,M,2012,8593,25-35
+Araucanía Norte,M,2012,4769,25-35
+Araucanía Sur,M,2012,17127,25-35
+Chiloé,M,2012,4735,25-35
+Reloncavi,M,2012,9635,25-35
+Osorno,M,2012,5930,25-35
+Valdivia,M,2012,8626,25-35
+Aysen,M,2012,2470,25-35
+Magallanes,M,2012,3621,25-35
+Metropolitano Central,M,2012,21918,25-35
+Metropolitano Norte,M,2012,18961,25-35
+Metropolitano Occidente,M,2012,29256,25-35
+Metropolitano Oriente,M,2012,14755,25-35
+Metropolitano Sur,M,2012,26752,25-35
+Metropolitano Sur-Oriente,M,2012,31934,25-35
+Arica y Parinacota,M,2012,5033,35-45
+Iquique y Tarapaca,M,2012,6983,35-45
+Antofagasta,M,2012,12015,35-45
+Atacama,M,2012,7070,35-45
+Coquimbo,M,2012,17942,35-45
+Aconcagua,M,2012,6443,35-45
+Valparaiso y San Antonio,M,2012,11963,35-45
+Viña del Mar y Quillota,M,2012,21508,35-45
+Libertador B. O'Higgins,M,2012,22648,35-45
+Maule,M,2012,26256,35-45
+Arauco,M,2012,4880,35-45
+Bio-Bio y Los Angeles,M,2012,10313,35-45
+Concepcion,M,2012,14034,35-45
+Ñuble,M,2012,11629,35-45
+Talcahuano,M,2012,8500,35-45
+Araucanía Norte,M,2012,4895,35-45
+Araucanía Sur,M,2012,17682,35-45
+Chiloé,M,2012,4828,35-45
+Reloncavi,M,2012,10076,35-45
+Osorno,M,2012,6141,35-45
+Valdivia,M,2012,8807,35-45
+Aysen,M,2012,2535,35-45
+Magallanes,M,2012,3884,35-45
+Metropolitano Central,M,2012,21038,35-45
+Metropolitano Norte,M,2012,19742,35-45
+Metropolitano Occidente,M,2012,29872,35-45
+Metropolitano Oriente,M,2012,14962,35-45
+Metropolitano Sur,M,2012,25757,35-45
+Metropolitano Sur-Oriente,M,2012,30726,35-45
+Arica y Parinacota,M,2012,5236,35-45
+Iquique y Tarapaca,M,2012,6686,35-45
+Antofagasta,M,2012,11856,35-45
+Atacama,M,2012,7449,35-45
+Coquimbo,M,2012,18211,35-45
+Aconcagua,M,2012,6508,35-45
+Valparaiso y San Antonio,M,2012,12184,35-45
+Viña del Mar y Quillota,M,2012,21938,35-45
+Libertador B. O'Higgins,M,2012,24041,35-45
+Maule,M,2012,27175,35-45
+Arauco,M,2012,5036,35-45
+Bio-Bio y Los Angeles,M,2012,11324,35-45
+Concepcion,M,2012,15764,35-45
+Ñuble,M,2012,13750,35-45
+Talcahuano,M,2012,9481,35-45
+Araucanía Norte,M,2012,5383,35-45
+Araucanía Sur,M,2012,19190,35-45
+Chiloé,M,2012,5253,35-45
+Reloncavi,M,2012,11165,35-45
+Osorno,M,2012,6438,35-45
+Valdivia,M,2012,9875,35-45
+Aysen,M,2012,2550,35-45
+Magallanes,M,2012,3935,35-45
+Metropolitano Central,M,2012,21023,35-45
+Metropolitano Norte,M,2012,21135,35-45
+Metropolitano Occidente,M,2012,31372,35-45
+Metropolitano Oriente,M,2012,15809,35-45
+Metropolitano Sur,M,2012,27667,35-45
+Metropolitano Sur-Oriente,M,2012,32297,35-45
+Arica y Parinacota,M,2012,4864,45-55
+Iquique y Tarapaca,M,2012,6808,45-55
+Antofagasta,M,2012,11536,45-55
+Atacama,M,2012,7865,45-55
+Coquimbo,M,2012,18964,45-55
+Aconcagua,M,2012,7431,45-55
+Valparaiso y San Antonio,M,2012,13459,45-55
+Viña del Mar y Quillota,M,2012,25080,45-55
+Libertador B. O'Higgins,M,2012,26125,45-55
+Maule,M,2012,30616,45-55
+Arauco,M,2012,5262,45-55
+Bio-Bio y Los Angeles,M,2012,11956,45-55
+Concepcion,M,2012,17076,45-55
+Ñuble,M,2012,14524,45-55
+Talcahuano,M,2012,10651,45-55
+Araucanía Norte,M,2012,6087,45-55
+Araucanía Sur,M,2012,19757,45-55
+Chiloé,M,2012,5373,45-55
+Reloncavi,M,2012,11290,45-55
+Osorno,M,2012,7037,45-55
+Valdivia,M,2012,11456,45-55
+Aysen,M,2012,2627,45-55
+Magallanes,M,2012,4112,45-55
+Metropolitano Central,M,2012,23344,45-55
+Metropolitano Norte,M,2012,21857,45-55
+Metropolitano Occidente,M,2012,33207,45-55
+Metropolitano Oriente,M,2012,16579,45-55
+Metropolitano Sur,M,2012,30301,45-55
+Metropolitano Sur-Oriente,M,2012,34995,45-55
+Arica y Parinacota,M,2012,4574,45-55
+Iquique y Tarapaca,M,2012,6471,45-55
+Antofagasta,M,2012,10957,45-55
+Atacama,M,2012,7015,45-55
+Coquimbo,M,2012,17381,45-55
+Aconcagua,M,2012,6737,45-55
+Valparaiso y San Antonio,M,2012,13070,45-55
+Viña del Mar y Quillota,M,2012,24220,45-55
+Libertador B. O'Higgins,M,2012,23641,45-55
+Maule,M,2012,27552,45-55
+Arauco,M,2012,4646,45-55
+Bio-Bio y Los Angeles,M,2012,10667,45-55
+Concepcion,M,2012,15513,45-55
+Ñuble,M,2012,13387,45-55
+Talcahuano,M,2012,10092,45-55
+Araucanía Norte,M,2012,5577,45-55
+Araucanía Sur,M,2012,17838,45-55
+Chiloé,M,2012,4358,45-55
+Reloncavi,M,2012,9583,45-55
+Osorno,M,2012,6376,45-55
+Valdivia,M,2012,10234,45-55
+Aysen,M,2012,2315,45-55
+Magallanes,M,2012,4267,45-55
+Metropolitano Central,M,2012,22847,45-55
+Metropolitano Norte,M,2012,19385,45-55
+Metropolitano Occidente,M,2012,30315,45-55
+Metropolitano Oriente,M,2012,15691,45-55
+Metropolitano Sur,M,2012,30036,45-55
+Metropolitano Sur-Oriente,M,2012,34109,45-55
+Arica y Parinacota,M,2012,4318,55-65
+Iquique y Tarapaca,M,2012,5945,55-65
+Antofagasta,M,2012,9437,55-65
+Atacama,M,2012,5806,55-65
+Coquimbo,M,2012,14660,55-65
+Aconcagua,M,2012,5520,55-65
+Valparaiso y San Antonio,M,2012,10884,55-65
+Viña del Mar y Quillota,M,2012,20055,55-65
+Libertador B. O'Higgins,M,2012,19400,55-65
+Maule,M,2012,23251,55-65
+Arauco,M,2012,3948,55-65
+Bio-Bio y Los Angeles,M,2012,8647,55-65
+Concepcion,M,2012,12806,55-65
+Ñuble,M,2012,11015,55-65
+Talcahuano,M,2012,8169,55-65
+Araucanía Norte,M,2012,4752,55-65
+Araucanía Sur,M,2012,14883,55-65
+Chiloé,M,2012,3443,55-65
+Reloncavi,M,2012,7723,55-65
+Osorno,M,2012,5214,55-65
+Valdivia,M,2012,8409,55-65
+Aysen,M,2012,1980,55-65
+Magallanes,M,2012,3518,55-65
+Metropolitano Central,M,2012,18632,55-65
+Metropolitano Norte,M,2012,15795,55-65
+Metropolitano Occidente,M,2012,24316,55-65
+Metropolitano Oriente,M,2012,13340,55-65
+Metropolitano Sur,M,2012,24273,55-65
+Metropolitano Sur-Oriente,M,2012,28259,55-65
+Arica y Parinacota,M,2012,3583,55-65
+Iquique y Tarapaca,M,2012,4420,55-65
+Antofagasta,M,2012,7285,55-65
+Atacama,M,2012,4364,55-65
+Coquimbo,M,2012,11360,55-65
+Aconcagua,M,2012,4597,55-65
+Valparaiso y San Antonio,M,2012,9003,55-65
+Viña del Mar y Quillota,M,2012,16519,55-65
+Libertador B. O'Higgins,M,2012,14906,55-65
+Maule,M,2012,18839,55-65
+Arauco,M,2012,3103,55-65
+Bio-Bio y Los Angeles,M,2012,6865,55-65
+Concepcion,M,2012,10258,55-65
+Ñuble,M,2012,9012,55-65
+Talcahuano,M,2012,6465,55-65
+Araucanía Norte,M,2012,3736,55-65
+Araucanía Sur,M,2012,11863,55-65
+Chiloé,M,2012,2599,55-65
+Reloncavi,M,2012,6037,55-65
+Osorno,M,2012,4211,55-65
+Valdivia,M,2012,6527,55-65
+Aysen,M,2012,1484,55-65
+Magallanes,M,2012,2791,55-65
+Metropolitano Central,M,2012,14823,55-65
+Metropolitano Norte,M,2012,12554,55-65
+Metropolitano Occidente,M,2012,20229,55-65
+Metropolitano Oriente,M,2012,11996,55-65
+Metropolitano Sur,M,2012,18890,55-65
+Metropolitano Sur-Oriente,M,2012,22584,55-65
+Arica y Parinacota,M,2012,3400,65-75
+Iquique y Tarapaca,M,2012,3512,65-75
+Antofagasta,M,2012,5864,65-75
+Atacama,M,2012,3919,65-75
+Coquimbo,M,2012,9988,65-75
+Aconcagua,M,2012,4048,65-75
+Valparaiso y San Antonio,M,2012,8042,65-75
+Viña del Mar y Quillota,M,2012,14780,65-75
+Libertador B. O'Higgins,M,2012,12602,65-75
+Maule,M,2012,15960,65-75
+Arauco,M,2012,2543,65-75
+Bio-Bio y Los Angeles,M,2012,6325,65-75
+Concepcion,M,2012,8545,65-75
+Ñuble,M,2012,7930,65-75
+Talcahuano,M,2012,5418,65-75
+Araucanía Norte,M,2012,3353,65-75
+Araucanía Sur,M,2012,10977,65-75
+Chiloé,M,2012,2449,65-75
+Reloncavi,M,2012,5244,65-75
+Osorno,M,2012,3794,65-75
+Valdivia,M,2012,5964,65-75
+Aysen,M,2012,1305,65-75
+Magallanes,M,2012,2409,65-75
+Metropolitano Central,M,2012,13393,65-75
+Metropolitano Norte,M,2012,11218,65-75
+Metropolitano Occidente,M,2012,17814,65-75
+Metropolitano Oriente,M,2012,11998,65-75
+Metropolitano Sur,M,2012,16753,65-75
+Metropolitano Sur-Oriente,M,2012,18507,65-75
+Arica y Parinacota,M,2012,2493,65-75
+Iquique y Tarapaca,M,2012,2333,65-75
+Antofagasta,M,2012,4380,65-75
+Atacama,M,2012,3231,65-75
+Coquimbo,M,2012,8227,65-75
+Aconcagua,M,2012,2916,65-75
+Valparaiso y San Antonio,M,2012,6177,65-75
+Viña del Mar y Quillota,M,2012,11855,65-75
+Libertador B. O'Higgins,M,2012,9461,65-75
+Maule,M,2012,12392,65-75
+Arauco,M,2012,1996,65-75
+Bio-Bio y Los Angeles,M,2012,5025,65-75
+Concepcion,M,2012,6187,65-75
+Ñuble,M,2012,6356,65-75
+Talcahuano,M,2012,4121,65-75
+Araucanía Norte,M,2012,2922,65-75
+Araucanía Sur,M,2012,8671,65-75
+Chiloé,M,2012,1994,65-75
+Reloncavi,M,2012,4161,65-75
+Osorno,M,2012,3127,65-75
+Valdivia,M,2012,4686,65-75
+Aysen,M,2012,1084,65-75
+Magallanes,M,2012,1950,65-75
+Metropolitano Central,M,2012,10031,65-75
+Metropolitano Norte,M,2012,8401,65-75
+Metropolitano Occidente,M,2012,13424,65-75
+Metropolitano Oriente,M,2012,10130,65-75
+Metropolitano Sur,M,2012,12109,65-75
+Metropolitano Sur-Oriente,M,2012,12527,65-75
+Arica y Parinacota,M,2012,1681,>75
+Iquique y Tarapaca,M,2012,1500,>75
+Antofagasta,M,2012,2942,>75
+Atacama,M,2012,2283,>75
+Coquimbo,M,2012,6101,>75
+Aconcagua,M,2012,2140,>75
+Valparaiso y San Antonio,M,2012,4308,>75
+Viña del Mar y Quillota,M,2012,8499,>75
+Libertador B. O'Higgins,M,2012,6880,>75
+Maule,M,2012,8451,>75
+Arauco,M,2012,1418,>75
+Bio-Bio y Los Angeles,M,2012,3536,>75
+Concepcion,M,2012,4277,>75
+Ñuble,M,2012,4400,>75
+Talcahuano,M,2012,2695,>75
+Araucanía Norte,M,2012,2192,>75
+Araucanía Sur,M,2012,6390,>75
+Chiloé,M,2012,1332,>75
+Reloncavi,M,2012,2936,>75
+Osorno,M,2012,2284,>75
+Valdivia,M,2012,3465,>75
+Aysen,M,2012,734,>75
+Magallanes,M,2012,1270,>75
+Metropolitano Central,M,2012,6524,>75
+Metropolitano Norte,M,2012,5555,>75
+Metropolitano Occidente,M,2012,8737,>75
+Metropolitano Oriente,M,2012,7449,>75
+Metropolitano Sur,M,2012,8463,>75
+Metropolitano Sur-Oriente,M,2012,7541,>75
+Arica y Parinacota,M,2012,1678,>75
+Iquique y Tarapaca,M,2012,1515,>75
+Antofagasta,M,2012,2867,>75
+Atacama,M,2012,2183,>75
+Coquimbo,M,2012,6434,>75
+Aconcagua,M,2012,2373,>75
+Valparaiso y San Antonio,M,2012,4654,>75
+Viña del Mar y Quillota,M,2012,9367,>75
+Libertador B. O'Higgins,M,2012,7733,>75
+Maule,M,2012,9111,>75
+Arauco,M,2012,1606,>75
+Bio-Bio y Los Angeles,M,2012,3799,>75
+Concepcion,M,2012,4393,>75
+Ñuble,M,2012,4382,>75
+Talcahuano,M,2012,2697,>75
+Araucanía Norte,M,2012,2309,>75
+Araucanía Sur,M,2012,6940,>75
+Chiloé,M,2012,1515,>75
+Reloncavi,M,2012,2999,>75
+Osorno,M,2012,2424,>75
+Valdivia,M,2012,3828,>75
+Aysen,M,2012,620,>75
+Magallanes,M,2012,1298,>75
+Metropolitano Central,M,2012,7015,>75
+Metropolitano Norte,M,2012,5631,>75
+Metropolitano Occidente,M,2012,8440,>75
+Metropolitano Oriente,M,2012,10007,>75
+Metropolitano Sur,M,2012,9761,>75
+Metropolitano Sur-Oriente,M,2012,7225,>75
+Arica y Parinacota,M,2013,7037,0-5
+Iquique y Tarapaca,M,2013,9823,0-5
+Antofagasta,M,2013,13814,0-5
+Atacama,M,2013,9017,0-5
+Coquimbo,M,2013,21758,0-5
+Aconcagua,M,2013,7377,0-5
+Valparaiso y San Antonio,M,2013,13098,0-5
+Viña del Mar y Quillota,M,2013,23426,0-5
+Libertador B. O'Higgins,M,2013,23903,0-5
+Maule,M,2013,27355,0-5
+Arauco,M,2013,5071,0-5
+Bio-Bio y Los Angeles,M,2013,10313,0-5
+Concepcion,M,2013,15881,0-5
+Ñuble,M,2013,11914,0-5
+Talcahuano,M,2013,9200,0-5
+Araucanía Norte,M,2013,4995,0-5
+Araucanía Sur,M,2013,19391,0-5
+Chiloé,M,2013,4017,0-5
+Reloncavi,M,2013,10559,0-5
+Osorno,M,2013,6264,0-5
+Valdivia,M,2013,10383,0-5
+Aysen,M,2013,2240,0-5
+Magallanes,M,2013,3514,0-5
+Metropolitano Central,M,2013,23066,0-5
+Metropolitano Norte,M,2013,23207,0-5
+Metropolitano Occidente,M,2013,32155,0-5
+Metropolitano Oriente,M,2013,14745,0-5
+Metropolitano Sur,M,2013,31404,0-5
+Metropolitano Sur-Oriente,M,2013,36824,0-5
+Arica y Parinacota,M,2013,6488,5-15
+Iquique y Tarapaca,M,2013,9316,5-15
+Antofagasta,M,2013,13209,5-15
+Atacama,M,2013,8801,5-15
+Coquimbo,M,2013,20636,5-15
+Aconcagua,M,2013,7396,5-15
+Valparaiso y San Antonio,M,2013,12855,5-15
+Viña del Mar y Quillota,M,2013,23903,5-15
+Libertador B. O'Higgins,M,2013,24535,5-15
+Maule,M,2013,28768,5-15
+Arauco,M,2013,5386,5-15
+Bio-Bio y Los Angeles,M,2013,11888,5-15
+Concepcion,M,2013,15826,5-15
+Ñuble,M,2013,13129,5-15
+Talcahuano,M,2013,9321,5-15
+Araucanía Norte,M,2013,5773,5-15
+Araucanía Sur,M,2013,20708,5-15
+Chiloé,M,2013,4873,5-15
+Reloncavi,M,2013,12053,5-15
+Osorno,M,2013,7202,5-15
+Valdivia,M,2013,10681,5-15
+Aysen,M,2013,2847,5-15
+Magallanes,M,2013,3667,5-15
+Metropolitano Central,M,2013,21995,5-15
+Metropolitano Norte,M,2013,23872,5-15
+Metropolitano Occidente,M,2013,33853,5-15
+Metropolitano Oriente,M,2013,15296,5-15
+Metropolitano Sur,M,2013,31179,5-15
+Metropolitano Sur-Oriente,M,2013,38114,5-15
+Arica y Parinacota,M,2013,6704,5-15
+Iquique y Tarapaca,M,2013,9190,5-15
+Antofagasta,M,2013,13590,5-15
+Atacama,M,2013,8903,5-15
+Coquimbo,M,2013,21391,5-15
+Aconcagua,M,2013,7859,5-15
+Valparaiso y San Antonio,M,2013,14015,5-15
+Viña del Mar y Quillota,M,2013,25941,5-15
+Libertador B. O'Higgins,M,2013,25791,5-15
+Maule,M,2013,31173,5-15
+Arauco,M,2013,6104,5-15
+Bio-Bio y Los Angeles,M,2013,12874,5-15
+Concepcion,M,2013,16571,5-15
+Ñuble,M,2013,14586,5-15
+Talcahuano,M,2013,9582,5-15
+Araucanía Norte,M,2013,6426,5-15
+Araucanía Sur,M,2013,22857,5-15
+Chiloé,M,2013,6013,5-15
+Reloncavi,M,2013,12855,5-15
+Osorno,M,2013,7471,5-15
+Valdivia,M,2013,11522,5-15
+Aysen,M,2013,2995,5-15
+Magallanes,M,2013,3760,5-15
+Metropolitano Central,M,2013,22741,5-15
+Metropolitano Norte,M,2013,24442,5-15
+Metropolitano Occidente,M,2013,35938,5-15
+Metropolitano Oriente,M,2013,16495,5-15
+Metropolitano Sur,M,2013,32859,5-15
+Metropolitano Sur-Oriente,M,2013,40779,5-15
+Arica y Parinacota,M,2013,6980,15-25
+Iquique y Tarapaca,M,2013,9320,15-25
+Antofagasta,M,2013,15227,15-25
+Atacama,M,2013,9248,15-25
+Coquimbo,M,2013,23355,15-25
+Aconcagua,M,2013,8458,15-25
+Valparaiso y San Antonio,M,2013,15361,15-25
+Viña del Mar y Quillota,M,2013,29166,15-25
+Libertador B. O'Higgins,M,2013,28522,15-25
+Maule,M,2013,34345,15-25
+Arauco,M,2013,6391,15-25
+Bio-Bio y Los Angeles,M,2013,14182,15-25
+Concepcion,M,2013,18487,15-25
+Ñuble,M,2013,16142,15-25
+Talcahuano,M,2013,11184,15-25
+Araucanía Norte,M,2013,7166,15-25
+Araucanía Sur,M,2013,25335,15-25
+Chiloé,M,2013,6502,15-25
+Reloncavi,M,2013,13518,15-25
+Osorno,M,2013,8325,15-25
+Valdivia,M,2013,13040,15-25
+Aysen,M,2013,3116,15-25
+Magallanes,M,2013,4094,15-25
+Metropolitano Central,M,2013,24959,15-25
+Metropolitano Norte,M,2013,25798,15-25
+Metropolitano Occidente,M,2013,40071,15-25
+Metropolitano Oriente,M,2013,18889,15-25
+Metropolitano Sur,M,2013,36382,15-25
+Metropolitano Sur-Oriente,M,2013,44885,15-25
+Arica y Parinacota,M,2013,7200,15-25
+Iquique y Tarapaca,M,2013,9649,15-25
+Antofagasta,M,2013,15543,15-25
+Atacama,M,2013,10342,15-25
+Coquimbo,M,2013,24971,15-25
+Aconcagua,M,2013,8904,15-25
+Valparaiso y San Antonio,M,2013,16665,15-25
+Viña del Mar y Quillota,M,2013,31702,15-25
+Libertador B. O'Higgins,M,2013,30471,15-25
+Maule,M,2013,37014,15-25
+Arauco,M,2013,6895,15-25
+Bio-Bio y Los Angeles,M,2013,15253,15-25
+Concepcion,M,2013,20937,15-25
+Ñuble,M,2013,17411,15-25
+Talcahuano,M,2013,12661,15-25
+Araucanía Norte,M,2013,7904,15-25
+Araucanía Sur,M,2013,26058,15-25
+Chiloé,M,2013,6174,15-25
+Reloncavi,M,2013,13444,15-25
+Osorno,M,2013,8326,15-25
+Valdivia,M,2013,13610,15-25
+Aysen,M,2013,3624,15-25
+Magallanes,M,2013,4537,15-25
+Metropolitano Central,M,2013,26227,15-25
+Metropolitano Norte,M,2013,24557,15-25
+Metropolitano Occidente,M,2013,39408,15-25
+Metropolitano Oriente,M,2013,19986,15-25
+Metropolitano Sur,M,2013,36381,15-25
+Metropolitano Sur-Oriente,M,2013,45307,15-25
+Arica y Parinacota,M,2013,6437,25-35
+Iquique y Tarapaca,M,2013,8496,25-35
+Antofagasta,M,2013,13490,25-35
+Atacama,M,2013,8192,25-35
+Coquimbo,M,2013,20685,25-35
+Aconcagua,M,2013,7545,25-35
+Valparaiso y San Antonio,M,2013,13853,25-35
+Viña del Mar y Quillota,M,2013,26755,25-35
+Libertador B. O'Higgins,M,2013,24646,25-35
+Maule,M,2013,28894,25-35
+Arauco,M,2013,5464,25-35
+Bio-Bio y Los Angeles,M,2013,11405,25-35
+Concepcion,M,2013,16828,25-35
+Ñuble,M,2013,13435,25-35
+Talcahuano,M,2013,10125,25-35
+Araucanía Norte,M,2013,5921,25-35
+Araucanía Sur,M,2013,20181,25-35
+Chiloé,M,2013,4769,25-35
+Reloncavi,M,2013,10681,25-35
+Osorno,M,2013,6393,25-35
+Valdivia,M,2013,10363,25-35
+Aysen,M,2013,2910,25-35
+Magallanes,M,2013,4298,25-35
+Metropolitano Central,M,2013,23337,25-35
+Metropolitano Norte,M,2013,20599,25-35
+Metropolitano Occidente,M,2013,31959,25-35
+Metropolitano Oriente,M,2013,16271,25-35
+Metropolitano Sur,M,2013,29298,25-35
+Metropolitano Sur-Oriente,M,2013,35697,25-35
+Arica y Parinacota,M,2013,5219,25-35
+Iquique y Tarapaca,M,2013,7489,25-35
+Antofagasta,M,2013,12556,25-35
+Atacama,M,2013,7275,25-35
+Coquimbo,M,2013,18202,25-35
+Aconcagua,M,2013,6788,25-35
+Valparaiso y San Antonio,M,2013,12665,25-35
+Viña del Mar y Quillota,M,2013,23554,25-35
+Libertador B. O'Higgins,M,2013,22489,25-35
+Maule,M,2013,25588,25-35
+Arauco,M,2013,5070,25-35
+Bio-Bio y Los Angeles,M,2013,10812,25-35
+Concepcion,M,2013,14899,25-35
+Ñuble,M,2013,11530,25-35
+Talcahuano,M,2013,8751,25-35
+Araucanía Norte,M,2013,4971,25-35
+Araucanía Sur,M,2013,17742,25-35
+Chiloé,M,2013,4831,25-35
+Reloncavi,M,2013,9862,25-35
+Osorno,M,2013,6041,25-35
+Valdivia,M,2013,8821,25-35
+Aysen,M,2013,2634,25-35
+Magallanes,M,2013,3713,25-35
+Metropolitano Central,M,2013,22301,25-35
+Metropolitano Norte,M,2013,19585,25-35
+Metropolitano Occidente,M,2013,29683,25-35
+Metropolitano Oriente,M,2013,15011,25-35
+Metropolitano Sur,M,2013,27477,25-35
+Metropolitano Sur-Oriente,M,2013,32754,25-35
+Arica y Parinacota,M,2013,5021,35-45
+Iquique y Tarapaca,M,2013,7141,35-45
+Antofagasta,M,2013,11754,35-45
+Atacama,M,2013,6974,35-45
+Coquimbo,M,2013,17839,35-45
+Aconcagua,M,2013,6389,35-45
+Valparaiso y San Antonio,M,2013,11959,35-45
+Viña del Mar y Quillota,M,2013,21535,35-45
+Libertador B. O'Higgins,M,2013,22521,35-45
+Maule,M,2013,26181,35-45
+Arauco,M,2013,4950,35-45
+Bio-Bio y Los Angeles,M,2013,10165,35-45
+Concepcion,M,2013,13899,35-45
+Ñuble,M,2013,11239,35-45
+Talcahuano,M,2013,8259,35-45
+Araucanía Norte,M,2013,4836,35-45
+Araucanía Sur,M,2013,17438,35-45
+Chiloé,M,2013,4796,35-45
+Reloncavi,M,2013,10135,35-45
+Osorno,M,2013,6120,35-45
+Valdivia,M,2013,8639,35-45
+Aysen,M,2013,2620,35-45
+Magallanes,M,2013,3849,35-45
+Metropolitano Central,M,2013,20930,35-45
+Metropolitano Norte,M,2013,19360,35-45
+Metropolitano Occidente,M,2013,29186,35-45
+Metropolitano Oriente,M,2013,14729,35-45
+Metropolitano Sur,M,2013,25366,35-45
+Metropolitano Sur-Oriente,M,2013,30263,35-45
+Arica y Parinacota,M,2013,5450,35-45
+Iquique y Tarapaca,M,2013,6932,35-45
+Antofagasta,M,2013,12370,35-45
+Atacama,M,2013,7455,35-45
+Coquimbo,M,2013,18471,35-45
+Aconcagua,M,2013,6535,35-45
+Valparaiso y San Antonio,M,2013,12399,35-45
+Viña del Mar y Quillota,M,2013,22226,35-45
+Libertador B. O'Higgins,M,2013,24054,35-45
+Maule,M,2013,27295,35-45
+Arauco,M,2013,5151,35-45
+Bio-Bio y Los Angeles,M,2013,11344,35-45
+Concepcion,M,2013,15768,35-45
+Ñuble,M,2013,13615,35-45
+Talcahuano,M,2013,9349,35-45
+Araucanía Norte,M,2013,5441,35-45
+Araucanía Sur,M,2013,19510,35-45
+Chiloé,M,2013,5188,35-45
+Reloncavi,M,2013,11253,35-45
+Osorno,M,2013,6627,35-45
+Valdivia,M,2013,9711,35-45
+Aysen,M,2013,2582,35-45
+Magallanes,M,2013,4037,35-45
+Metropolitano Central,M,2013,21540,35-45
+Metropolitano Norte,M,2013,21564,35-45
+Metropolitano Occidente,M,2013,31896,35-45
+Metropolitano Oriente,M,2013,16174,35-45
+Metropolitano Sur,M,2013,27819,35-45
+Metropolitano Sur-Oriente,M,2013,32856,35-45
+Arica y Parinacota,M,2013,5038,45-55
+Iquique y Tarapaca,M,2013,6892,45-55
+Antofagasta,M,2013,11462,45-55
+Atacama,M,2013,7973,45-55
+Coquimbo,M,2013,19380,45-55
+Aconcagua,M,2013,7270,45-55
+Valparaiso y San Antonio,M,2013,13414,45-55
+Viña del Mar y Quillota,M,2013,24892,45-55
+Libertador B. O'Higgins,M,2013,26269,45-55
+Maule,M,2013,30743,45-55
+Arauco,M,2013,5369,45-55
+Bio-Bio y Los Angeles,M,2013,12232,45-55
+Concepcion,M,2013,17248,45-55
+Ñuble,M,2013,14709,45-55
+Talcahuano,M,2013,10737,45-55
+Araucanía Norte,M,2013,6082,45-55
+Araucanía Sur,M,2013,20129,45-55
+Chiloé,M,2013,5622,45-55
+Reloncavi,M,2013,11742,45-55
+Osorno,M,2013,7206,45-55
+Valdivia,M,2013,11428,45-55
+Aysen,M,2013,2722,45-55
+Magallanes,M,2013,4176,45-55
+Metropolitano Central,M,2013,23214,45-55
+Metropolitano Norte,M,2013,21921,45-55
+Metropolitano Occidente,M,2013,32717,45-55
+Metropolitano Oriente,M,2013,16697,45-55
+Metropolitano Sur,M,2013,29780,45-55
+Metropolitano Sur-Oriente,M,2013,34541,45-55
+Arica y Parinacota,M,2013,4834,45-55
+Iquique y Tarapaca,M,2013,6762,45-55
+Antofagasta,M,2013,11460,45-55
+Atacama,M,2013,7344,45-55
+Coquimbo,M,2013,18129,45-55
+Aconcagua,M,2013,7016,45-55
+Valparaiso y San Antonio,M,2013,13430,45-55
+Viña del Mar y Quillota,M,2013,24864,45-55
+Libertador B. O'Higgins,M,2013,24844,45-55
+Maule,M,2013,28951,45-55
+Arauco,M,2013,4932,45-55
+Bio-Bio y Los Angeles,M,2013,11223,45-55
+Concepcion,M,2013,16039,45-55
+Ñuble,M,2013,14145,45-55
+Talcahuano,M,2013,10423,45-55
+Araucanía Norte,M,2013,5918,45-55
+Araucanía Sur,M,2013,18754,45-55
+Chiloé,M,2013,4702,45-55
+Reloncavi,M,2013,10011,45-55
+Osorno,M,2013,6782,45-55
+Valdivia,M,2013,10641,45-55
+Aysen,M,2013,2493,45-55
+Magallanes,M,2013,4298,45-55
+Metropolitano Central,M,2013,23637,45-55
+Metropolitano Norte,M,2013,20336,45-55
+Metropolitano Occidente,M,2013,31674,45-55
+Metropolitano Oriente,M,2013,16482,45-55
+Metropolitano Sur,M,2013,31085,45-55
+Metropolitano Sur-Oriente,M,2013,35197,45-55
+Arica y Parinacota,M,2013,4522,55-65
+Iquique y Tarapaca,M,2013,6184,55-65
+Antofagasta,M,2013,9844,55-65
+Atacama,M,2013,6070,55-65
+Coquimbo,M,2013,15328,55-65
+Aconcagua,M,2013,5716,55-65
+Valparaiso y San Antonio,M,2013,11576,55-65
+Viña del Mar y Quillota,M,2013,21174,55-65
+Libertador B. O'Higgins,M,2013,20295,55-65
+Maule,M,2013,23989,55-65
+Arauco,M,2013,4084,55-65
+Bio-Bio y Los Angeles,M,2013,9064,55-65
+Concepcion,M,2013,13443,55-65
+Ñuble,M,2013,11378,55-65
+Talcahuano,M,2013,8445,55-65
+Araucanía Norte,M,2013,4986,55-65
+Araucanía Sur,M,2013,15507,55-65
+Chiloé,M,2013,3631,55-65
+Reloncavi,M,2013,8199,55-65
+Osorno,M,2013,5480,55-65
+Valdivia,M,2013,8769,55-65
+Aysen,M,2013,2116,55-65
+Magallanes,M,2013,3727,55-65
+Metropolitano Central,M,2013,19627,55-65
+Metropolitano Norte,M,2013,16592,55-65
+Metropolitano Occidente,M,2013,25525,55-65
+Metropolitano Oriente,M,2013,13825,55-65
+Metropolitano Sur,M,2013,25507,55-65
+Metropolitano Sur-Oriente,M,2013,29691,55-65
+Arica y Parinacota,M,2013,3730,55-65
+Iquique y Tarapaca,M,2013,4762,55-65
+Antofagasta,M,2013,7679,55-65
+Atacama,M,2013,4679,55-65
+Coquimbo,M,2013,11879,55-65
+Aconcagua,M,2013,4703,55-65
+Valparaiso y San Antonio,M,2013,9396,55-65
+Viña del Mar y Quillota,M,2013,17128,55-65
+Libertador B. O'Higgins,M,2013,15720,55-65
+Maule,M,2013,19914,55-65
+Arauco,M,2013,3299,55-65
+Bio-Bio y Los Angeles,M,2013,7250,55-65
+Concepcion,M,2013,10781,55-65
+Ñuble,M,2013,9347,55-65
+Talcahuano,M,2013,6867,55-65
+Araucanía Norte,M,2013,3921,55-65
+Araucanía Sur,M,2013,12400,55-65
+Chiloé,M,2013,2748,55-65
+Reloncavi,M,2013,6272,55-65
+Osorno,M,2013,4387,55-65
+Valdivia,M,2013,6779,55-65
+Aysen,M,2013,1581,55-65
+Magallanes,M,2013,2916,55-65
+Metropolitano Central,M,2013,15471,55-65
+Metropolitano Norte,M,2013,13054,55-65
+Metropolitano Occidente,M,2013,20747,55-65
+Metropolitano Oriente,M,2013,12347,55-65
+Metropolitano Sur,M,2013,19697,55-65
+Metropolitano Sur-Oriente,M,2013,23714,55-65
+Arica y Parinacota,M,2013,3467,65-75
+Iquique y Tarapaca,M,2013,3718,65-75
+Antofagasta,M,2013,6044,65-75
+Atacama,M,2013,3952,65-75
+Coquimbo,M,2013,10296,65-75
+Aconcagua,M,2013,4114,65-75
+Valparaiso y San Antonio,M,2013,8250,65-75
+Viña del Mar y Quillota,M,2013,15136,65-75
+Libertador B. O'Higgins,M,2013,13085,65-75
+Maule,M,2013,16599,65-75
+Arauco,M,2013,2629,65-75
+Bio-Bio y Los Angeles,M,2013,6398,65-75
+Concepcion,M,2013,8796,65-75
+Ñuble,M,2013,8153,65-75
+Talcahuano,M,2013,5694,65-75
+Araucanía Norte,M,2013,3460,65-75
+Araucanía Sur,M,2013,11202,65-75
+Chiloé,M,2013,2484,65-75
+Reloncavi,M,2013,5515,65-75
+Osorno,M,2013,3882,65-75
+Valdivia,M,2013,6078,65-75
+Aysen,M,2013,1371,65-75
+Magallanes,M,2013,2478,65-75
+Metropolitano Central,M,2013,13927,65-75
+Metropolitano Norte,M,2013,11521,65-75
+Metropolitano Occidente,M,2013,18167,65-75
+Metropolitano Oriente,M,2013,12191,65-75
+Metropolitano Sur,M,2013,17011,65-75
+Metropolitano Sur-Oriente,M,2013,19352,65-75
+Arica y Parinacota,M,2013,2639,65-75
+Iquique y Tarapaca,M,2013,2493,65-75
+Antofagasta,M,2013,4478,65-75
+Atacama,M,2013,3242,65-75
+Coquimbo,M,2013,8465,65-75
+Aconcagua,M,2013,3115,65-75
+Valparaiso y San Antonio,M,2013,6282,65-75
+Viña del Mar y Quillota,M,2013,12249,65-75
+Libertador B. O'Higgins,M,2013,9770,65-75
+Maule,M,2013,12658,65-75
+Arauco,M,2013,2060,65-75
+Bio-Bio y Los Angeles,M,2013,5157,65-75
+Concepcion,M,2013,6420,65-75
+Ñuble,M,2013,6502,65-75
+Talcahuano,M,2013,4271,65-75
+Araucanía Norte,M,2013,2899,65-75
+Araucanía Sur,M,2013,8806,65-75
+Chiloé,M,2013,2028,65-75
+Reloncavi,M,2013,4233,65-75
+Osorno,M,2013,3173,65-75
+Valdivia,M,2013,4766,65-75
+Aysen,M,2013,1120,65-75
+Magallanes,M,2013,1973,65-75
+Metropolitano Central,M,2013,10629,65-75
+Metropolitano Norte,M,2013,8822,65-75
+Metropolitano Occidente,M,2013,14055,65-75
+Metropolitano Oriente,M,2013,10490,65-75
+Metropolitano Sur,M,2013,12613,65-75
+Metropolitano Sur-Oriente,M,2013,13338,65-75
+Arica y Parinacota,M,2013,1720,>75
+Iquique y Tarapaca,M,2013,1527,>75
+Antofagasta,M,2013,2958,>75
+Atacama,M,2013,2330,>75
+Coquimbo,M,2013,5998,>75
+Aconcagua,M,2013,2125,>75
+Valparaiso y San Antonio,M,2013,4383,>75
+Viña del Mar y Quillota,M,2013,8515,>75
+Libertador B. O'Higgins,M,2013,6897,>75
+Maule,M,2013,8498,>75
+Arauco,M,2013,1443,>75
+Bio-Bio y Los Angeles,M,2013,3489,>75
+Concepcion,M,2013,4392,>75
+Ñuble,M,2013,4412,>75
+Talcahuano,M,2013,2713,>75
+Araucanía Norte,M,2013,2137,>75
+Araucanía Sur,M,2013,6421,>75
+Chiloé,M,2013,1362,>75
+Reloncavi,M,2013,2979,>75
+Osorno,M,2013,2300,>75
+Valdivia,M,2013,3447,>75
+Aysen,M,2013,724,>75
+Magallanes,M,2013,1285,>75
+Metropolitano Central,M,2013,6576,>75
+Metropolitano Norte,M,2013,5548,>75
+Metropolitano Occidente,M,2013,8884,>75
+Metropolitano Oriente,M,2013,7564,>75
+Metropolitano Sur,M,2013,8431,>75
+Metropolitano Sur-Oriente,M,2013,7806,>75
+Arica y Parinacota,M,2013,1466,>75
+Iquique y Tarapaca,M,2013,1301,>75
+Antofagasta,M,2013,2345,>75
+Atacama,M,2013,1832,>75
+Coquimbo,M,2013,5424,>75
+Aconcagua,M,2013,1962,>75
+Valparaiso y San Antonio,M,2013,3961,>75
+Viña del Mar y Quillota,M,2013,7866,>75
+Libertador B. O'Higgins,M,2013,6424,>75
+Maule,M,2013,7592,>75
+Arauco,M,2013,1335,>75
+Bio-Bio y Los Angeles,M,2013,3206,>75
+Concepcion,M,2013,3643,>75
+Ñuble,M,2013,3678,>75
+Talcahuano,M,2013,2280,>75
+Araucanía Norte,M,2013,1978,>75
+Araucanía Sur,M,2013,5718,>75
+Chiloé,M,2013,1252,>75
+Reloncavi,M,2013,2485,>75
+Osorno,M,2013,2052,>75
+Valdivia,M,2013,3203,>75
+Aysen,M,2013,532,>75
+Magallanes,M,2013,1040,>75
+Metropolitano Central,M,2013,5912,>75
+Metropolitano Norte,M,2013,4782,>75
+Metropolitano Occidente,M,2013,7074,>75
+Metropolitano Oriente,M,2013,8300,>75
+Metropolitano Sur,M,2013,8017,>75
+Metropolitano Sur-Oriente,M,2013,6116,>75
+Arica y Parinacota,M,2014,5381,0-5
+Iquique y Tarapaca,M,2014,9050,0-5
+Antofagasta,M,2014,14061,0-5
+Atacama,M,2014,9009,0-5
+Coquimbo,M,2014,22256,0-5
+Aconcagua,M,2014,7815,0-5
+Valparaiso y San Antonio,M,2014,13306,0-5
+Viña del Mar y Quillota,M,2014,22444,0-5
+Libertador B. O'Higgins,M,2014,22945,0-5
+Maule,M,2014,27570,0-5
+Arauco,M,2014,4992,0-5
+Bio-Bio y Los Angeles,M,2014,10582,0-5
+Concepcion,M,2014,15706,0-5
+Ñuble,M,2014,13514,0-5
+Talcahuano,M,2014,7619,0-5
+Araucanía Norte,M,2014,5267,0-5
+Araucanía Sur,M,2014,19888,0-5
+Chiloé,M,2014,4226,0-5
+Reloncavi,M,2014,10369,0-5
+Osorno,M,2014,6368,0-5
+Valdivia,M,2014,9374,0-5
+Aysen,M,2014,2267,0-5
+Magallanes,M,2014,3551,0-5
+Metropolitano Central,M,2014,22968,0-5
+Metropolitano Norte,M,2014,23038,0-5
+Metropolitano Occidente,M,2014,31920,0-5
+Metropolitano Oriente,M,2014,14413,0-5
+Metropolitano Sur,M,2014,30910,0-5
+Metropolitano Sur-Oriente,M,2014,36939,0-5
+Arica y Parinacota,M,2014,6244,5-15
+Iquique y Tarapaca,M,2014,9619,5-15
+Antofagasta,M,2014,13786,5-15
+Atacama,M,2014,9182,5-15
+Coquimbo,M,2014,21882,5-15
+Aconcagua,M,2014,7579,5-15
+Valparaiso y San Antonio,M,2014,13487,5-15
+Viña del Mar y Quillota,M,2014,23382,5-15
+Libertador B. O'Higgins,M,2014,24964,5-15
+Maule,M,2014,30212,5-15
+Arauco,M,2014,5608,5-15
+Bio-Bio y Los Angeles,M,2014,12730,5-15
+Concepcion,M,2014,16200,5-15
+Ñuble,M,2014,14511,5-15
+Talcahuano,M,2014,8570,5-15
+Araucanía Norte,M,2014,5808,5-15
+Araucanía Sur,M,2014,21865,5-15
+Chiloé,M,2014,5497,5-15
+Reloncavi,M,2014,12605,5-15
+Osorno,M,2014,7455,5-15
+Valdivia,M,2014,10558,5-15
+Aysen,M,2014,3039,5-15
+Magallanes,M,2014,3920,5-15
+Metropolitano Central,M,2014,22659,5-15
+Metropolitano Norte,M,2014,24674,5-15
+Metropolitano Occidente,M,2014,35231,5-15
+Metropolitano Oriente,M,2014,15436,5-15
+Metropolitano Sur,M,2014,32644,5-15
+Metropolitano Sur-Oriente,M,2014,39661,5-15
+Arica y Parinacota,M,2014,6223,5-15
+Iquique y Tarapaca,M,2014,9052,5-15
+Antofagasta,M,2014,13426,5-15
+Atacama,M,2014,8847,5-15
+Coquimbo,M,2014,21476,5-15
+Aconcagua,M,2014,7720,5-15
+Valparaiso y San Antonio,M,2014,13978,5-15
+Viña del Mar y Quillota,M,2014,24029,5-15
+Libertador B. O'Higgins,M,2014,25213,5-15
+Maule,M,2014,30564,5-15
+Arauco,M,2014,5929,5-15
+Bio-Bio y Los Angeles,M,2014,12674,5-15
+Concepcion,M,2014,16417,5-15
+Ñuble,M,2014,15116,5-15
+Talcahuano,M,2014,8799,5-15
+Araucanía Norte,M,2014,6224,5-15
+Araucanía Sur,M,2014,22789,5-15
+Chiloé,M,2014,6025,5-15
+Reloncavi,M,2014,12728,5-15
+Osorno,M,2014,7372,5-15
+Valdivia,M,2014,10729,5-15
+Aysen,M,2014,3060,5-15
+Magallanes,M,2014,3888,5-15
+Metropolitano Central,M,2014,22451,5-15
+Metropolitano Norte,M,2014,24535,5-15
+Metropolitano Occidente,M,2014,35394,5-15
+Metropolitano Oriente,M,2014,16027,5-15
+Metropolitano Sur,M,2014,32680,5-15
+Metropolitano Sur-Oriente,M,2014,40406,5-15
+Arica y Parinacota,M,2014,6072,15-25
+Iquique y Tarapaca,M,2014,8968,15-25
+Antofagasta,M,2014,14436,15-25
+Atacama,M,2014,8708,15-25
+Coquimbo,M,2014,21997,15-25
+Aconcagua,M,2014,8158,15-25
+Valparaiso y San Antonio,M,2014,14372,15-25
+Viña del Mar y Quillota,M,2014,25952,15-25
+Libertador B. O'Higgins,M,2014,26456,15-25
+Maule,M,2014,32190,15-25
+Arauco,M,2014,6049,15-25
+Bio-Bio y Los Angeles,M,2014,13619,15-25
+Concepcion,M,2014,17278,15-25
+Ñuble,M,2014,16197,15-25
+Talcahuano,M,2014,9641,15-25
+Araucanía Norte,M,2014,6705,15-25
+Araucanía Sur,M,2014,24680,15-25
+Chiloé,M,2014,6258,15-25
+Reloncavi,M,2014,13026,15-25
+Osorno,M,2014,7826,15-25
+Valdivia,M,2014,11444,15-25
+Aysen,M,2014,2990,15-25
+Magallanes,M,2014,3983,15-25
+Metropolitano Central,M,2014,23101,15-25
+Metropolitano Norte,M,2014,24519,15-25
+Metropolitano Occidente,M,2014,37731,15-25
+Metropolitano Oriente,M,2014,17166,15-25
+Metropolitano Sur,M,2014,34461,15-25
+Metropolitano Sur-Oriente,M,2014,42257,15-25
+Arica y Parinacota,M,2014,5395,15-25
+Iquique y Tarapaca,M,2014,8602,15-25
+Antofagasta,M,2014,14241,15-25
+Atacama,M,2014,9120,15-25
+Coquimbo,M,2014,21944,15-25
+Aconcagua,M,2014,7754,15-25
+Valparaiso y San Antonio,M,2014,14417,15-25
+Viña del Mar y Quillota,M,2014,24881,15-25
+Libertador B. O'Higgins,M,2014,26089,15-25
+Maule,M,2014,31433,15-25
+Arauco,M,2014,5903,15-25
+Bio-Bio y Los Angeles,M,2014,13450,15-25
+Concepcion,M,2014,17533,15-25
+Ñuble,M,2014,15855,15-25
+Talcahuano,M,2014,9548,15-25
+Araucanía Norte,M,2014,6793,15-25
+Araucanía Sur,M,2014,23561,15-25
+Chiloé,M,2014,5650,15-25
+Reloncavi,M,2014,11960,15-25
+Osorno,M,2014,7421,15-25
+Valdivia,M,2014,10946,15-25
+Aysen,M,2014,3106,15-25
+Magallanes,M,2014,4015,15-25
+Metropolitano Central,M,2014,21904,15-25
+Metropolitano Norte,M,2014,22112,15-25
+Metropolitano Occidente,M,2014,35269,15-25
+Metropolitano Oriente,M,2014,16465,15-25
+Metropolitano Sur,M,2014,32079,15-25
+Metropolitano Sur-Oriente,M,2014,40098,15-25
+Arica y Parinacota,M,2014,5034,25-35
+Iquique y Tarapaca,M,2014,8603,25-35
+Antofagasta,M,2014,14276,25-35
+Atacama,M,2014,8555,25-35
+Coquimbo,M,2014,21114,25-35
+Aconcagua,M,2014,7704,25-35
+Valparaiso y San Antonio,M,2014,14265,25-35
+Viña del Mar y Quillota,M,2014,24840,25-35
+Libertador B. O'Higgins,M,2014,25016,25-35
+Maule,M,2014,29213,25-35
+Arauco,M,2014,5573,25-35
+Bio-Bio y Los Angeles,M,2014,11593,25-35
+Concepcion,M,2014,17082,25-35
+Ñuble,M,2014,14754,25-35
+Talcahuano,M,2014,9174,25-35
+Araucanía Norte,M,2014,5964,25-35
+Araucanía Sur,M,2014,20826,25-35
+Chiloé,M,2014,4952,25-35
+Reloncavi,M,2014,11006,25-35
+Osorno,M,2014,6826,25-35
+Valdivia,M,2014,9213,25-35
+Aysen,M,2014,3032,25-35
+Magallanes,M,2014,4338,25-35
+Metropolitano Central,M,2014,23547,25-35
+Metropolitano Norte,M,2014,21004,25-35
+Metropolitano Occidente,M,2014,32470,25-35
+Metropolitano Oriente,M,2014,16279,25-35
+Metropolitano Sur,M,2014,29852,25-35
+Metropolitano Sur-Oriente,M,2014,36312,25-35
+Arica y Parinacota,M,2014,3998,25-35
+Iquique y Tarapaca,M,2014,7725,25-35
+Antofagasta,M,2014,12987,25-35
+Atacama,M,2014,7419,25-35
+Coquimbo,M,2014,18631,25-35
+Aconcagua,M,2014,6809,25-35
+Valparaiso y San Antonio,M,2014,13126,25-35
+Viña del Mar y Quillota,M,2014,22231,25-35
+Libertador B. O'Higgins,M,2014,22086,25-35
+Maule,M,2014,25488,25-35
+Arauco,M,2014,5056,25-35
+Bio-Bio y Los Angeles,M,2014,10592,25-35
+Concepcion,M,2014,14922,25-35
+Ñuble,M,2014,12497,25-35
+Talcahuano,M,2014,7838,25-35
+Araucanía Norte,M,2014,5045,25-35
+Araucanía Sur,M,2014,18253,25-35
+Chiloé,M,2014,4883,25-35
+Reloncavi,M,2014,9990,25-35
+Osorno,M,2014,6202,25-35
+Valdivia,M,2014,7776,25-35
+Aysen,M,2014,2732,25-35
+Magallanes,M,2014,3896,25-35
+Metropolitano Central,M,2014,22688,25-35
+Metropolitano Norte,M,2014,19796,25-35
+Metropolitano Occidente,M,2014,29676,25-35
+Metropolitano Oriente,M,2014,14842,25-35
+Metropolitano Sur,M,2014,27685,25-35
+Metropolitano Sur-Oriente,M,2014,33306,25-35
+Arica y Parinacota,M,2014,3567,35-45
+Iquique y Tarapaca,M,2014,7044,35-45
+Antofagasta,M,2014,11897,35-45
+Atacama,M,2014,6898,35-45
+Coquimbo,M,2014,17476,35-45
+Aconcagua,M,2014,6215,35-45
+Valparaiso y San Antonio,M,2014,12119,35-45
+Viña del Mar y Quillota,M,2014,19646,35-45
+Libertador B. O'Higgins,M,2014,21924,35-45
+Maule,M,2014,25342,35-45
+Arauco,M,2014,4886,35-45
+Bio-Bio y Los Angeles,M,2014,9902,35-45
+Concepcion,M,2014,13536,35-45
+Ñuble,M,2014,12014,35-45
+Talcahuano,M,2014,7176,35-45
+Araucanía Norte,M,2014,4685,35-45
+Araucanía Sur,M,2014,17316,35-45
+Chiloé,M,2014,4944,35-45
+Reloncavi,M,2014,9979,35-45
+Osorno,M,2014,6182,35-45
+Valdivia,M,2014,7347,35-45
+Aysen,M,2014,2623,35-45
+Magallanes,M,2014,3750,35-45
+Metropolitano Central,M,2014,20805,35-45
+Metropolitano Norte,M,2014,18928,35-45
+Metropolitano Occidente,M,2014,28493,35-45
+Metropolitano Oriente,M,2014,14342,35-45
+Metropolitano Sur,M,2014,25023,35-45
+Metropolitano Sur-Oriente,M,2014,29641,35-45
+Arica y Parinacota,M,2014,4066,35-45
+Iquique y Tarapaca,M,2014,7052,35-45
+Antofagasta,M,2014,12704,35-45
+Atacama,M,2014,7499,35-45
+Coquimbo,M,2014,18722,35-45
+Aconcagua,M,2014,6618,35-45
+Valparaiso y San Antonio,M,2014,12804,35-45
+Viña del Mar y Quillota,M,2014,20579,35-45
+Libertador B. O'Higgins,M,2014,23828,35-45
+Maule,M,2014,27217,35-45
+Arauco,M,2014,5215,35-45
+Bio-Bio y Los Angeles,M,2014,11124,35-45
+Concepcion,M,2014,15725,35-45
+Ñuble,M,2014,14432,35-45
+Talcahuano,M,2014,8158,35-45
+Araucanía Norte,M,2014,5373,35-45
+Araucanía Sur,M,2014,19812,35-45
+Chiloé,M,2014,5292,35-45
+Reloncavi,M,2014,11371,35-45
+Osorno,M,2014,6857,35-45
+Valdivia,M,2014,8262,35-45
+Aysen,M,2014,2638,35-45
+Magallanes,M,2014,4070,35-45
+Metropolitano Central,M,2014,21795,35-45
+Metropolitano Norte,M,2014,21710,35-45
+Metropolitano Occidente,M,2014,32184,35-45
+Metropolitano Oriente,M,2014,16211,35-45
+Metropolitano Sur,M,2014,27977,35-45
+Metropolitano Sur-Oriente,M,2014,33178,35-45
+Arica y Parinacota,M,2014,3769,45-55
+Iquique y Tarapaca,M,2014,6803,45-55
+Antofagasta,M,2014,11548,45-55
+Atacama,M,2014,7874,45-55
+Coquimbo,M,2014,19470,45-55
+Aconcagua,M,2014,7020,45-55
+Valparaiso y San Antonio,M,2014,13498,45-55
+Viña del Mar y Quillota,M,2014,22340,45-55
+Libertador B. O'Higgins,M,2014,25595,45-55
+Maule,M,2014,30217,45-55
+Arauco,M,2014,5433,45-55
+Bio-Bio y Los Angeles,M,2014,12099,45-55
+Concepcion,M,2014,16863,45-55
+Ñuble,M,2014,15563,45-55
+Talcahuano,M,2014,9547,45-55
+Araucanía Norte,M,2014,6036,45-55
+Araucanía Sur,M,2014,20287,45-55
+Chiloé,M,2014,5632,45-55
+Reloncavi,M,2014,11938,45-55
+Osorno,M,2014,7259,45-55
+Valdivia,M,2014,9638,45-55
+Aysen,M,2014,2779,45-55
+Magallanes,M,2014,4128,45-55
+Metropolitano Central,M,2014,22631,45-55
+Metropolitano Norte,M,2014,21760,45-55
+Metropolitano Occidente,M,2014,32053,45-55
+Metropolitano Oriente,M,2014,16530,45-55
+Metropolitano Sur,M,2014,29441,45-55
+Metropolitano Sur-Oriente,M,2014,33756,45-55
+Arica y Parinacota,M,2014,3806,45-55
+Iquique y Tarapaca,M,2014,6870,45-55
+Antofagasta,M,2014,11797,45-55
+Atacama,M,2014,7684,45-55
+Coquimbo,M,2014,18612,45-55
+Aconcagua,M,2014,7222,45-55
+Valparaiso y San Antonio,M,2014,13866,45-55
+Viña del Mar y Quillota,M,2014,23464,45-55
+Libertador B. O'Higgins,M,2014,25235,45-55
+Maule,M,2014,29627,45-55
+Arauco,M,2014,5123,45-55
+Bio-Bio y Los Angeles,M,2014,11514,45-55
+Concepcion,M,2014,16445,45-55
+Ñuble,M,2014,15348,45-55
+Talcahuano,M,2014,9687,45-55
+Araucanía Norte,M,2014,6032,45-55
+Araucanía Sur,M,2014,19586,45-55
+Chiloé,M,2014,5015,45-55
+Reloncavi,M,2014,10602,45-55
+Osorno,M,2014,7166,45-55
+Valdivia,M,2014,9724,45-55
+Aysen,M,2014,2645,45-55
+Magallanes,M,2014,4325,45-55
+Metropolitano Central,M,2014,24128,45-55
+Metropolitano Norte,M,2014,21114,45-55
+Metropolitano Occidente,M,2014,32553,45-55
+Metropolitano Oriente,M,2014,17036,45-55
+Metropolitano Sur,M,2014,31335,45-55
+Metropolitano Sur-Oriente,M,2014,35768,45-55
+Arica y Parinacota,M,2014,3529,55-65
+Iquique y Tarapaca,M,2014,6270,55-65
+Antofagasta,M,2014,10254,55-65
+Atacama,M,2014,6346,55-65
+Coquimbo,M,2014,16087,55-65
+Aconcagua,M,2014,5948,55-65
+Valparaiso y San Antonio,M,2014,12337,55-65
+Viña del Mar y Quillota,M,2014,20393,55-65
+Libertador B. O'Higgins,M,2014,21261,55-65
+Maule,M,2014,25055,55-65
+Arauco,M,2014,4351,55-65
+Bio-Bio y Los Angeles,M,2014,9434,55-65
+Concepcion,M,2014,14021,55-65
+Ñuble,M,2014,12577,55-65
+Talcahuano,M,2014,8225,55-65
+Araucanía Norte,M,2014,5131,55-65
+Araucanía Sur,M,2014,16309,55-65
+Chiloé,M,2014,3862,55-65
+Reloncavi,M,2014,8634,55-65
+Osorno,M,2014,5908,55-65
+Valdivia,M,2014,8088,55-65
+Aysen,M,2014,2236,55-65
+Magallanes,M,2014,4068,55-65
+Metropolitano Central,M,2014,20765,55-65
+Metropolitano Norte,M,2014,17508,55-65
+Metropolitano Occidente,M,2014,26775,55-65
+Metropolitano Oriente,M,2014,14585,55-65
+Metropolitano Sur,M,2014,27201,55-65
+Metropolitano Sur-Oriente,M,2014,31245,55-65
+Arica y Parinacota,M,2014,3168,55-65
+Iquique y Tarapaca,M,2014,5065,55-65
+Antofagasta,M,2014,8188,55-65
+Atacama,M,2014,4987,55-65
+Coquimbo,M,2014,12603,55-65
+Aconcagua,M,2014,4890,55-65
+Valparaiso y San Antonio,M,2014,9779,55-65
+Viña del Mar y Quillota,M,2014,16504,55-65
+Libertador B. O'Higgins,M,2014,16304,55-65
+Maule,M,2014,20388,55-65
+Arauco,M,2014,3396,55-65
+Bio-Bio y Los Angeles,M,2014,7463,55-65
+Concepcion,M,2014,11245,55-65
+Ñuble,M,2014,10146,55-65
+Talcahuano,M,2014,6695,55-65
+Araucanía Norte,M,2014,4153,55-65
+Araucanía Sur,M,2014,13044,55-65
+Chiloé,M,2014,2906,55-65
+Reloncavi,M,2014,6662,55-65
+Osorno,M,2014,4632,55-65
+Valdivia,M,2014,6327,55-65
+Aysen,M,2014,1747,55-65
+Magallanes,M,2014,3105,55-65
+Metropolitano Central,M,2014,16112,55-65
+Metropolitano Norte,M,2014,13461,55-65
+Metropolitano Occidente,M,2014,21215,55-65
+Metropolitano Oriente,M,2014,12461,55-65
+Metropolitano Sur,M,2014,20390,55-65
+Metropolitano Sur-Oriente,M,2014,24472,55-65
+Arica y Parinacota,M,2014,2947,65-75
+Iquique y Tarapaca,M,2014,3900,65-75
+Antofagasta,M,2014,6330,65-75
+Atacama,M,2014,4037,65-75
+Coquimbo,M,2014,10619,65-75
+Aconcagua,M,2014,4198,65-75
+Valparaiso y San Antonio,M,2014,8641,65-75
+Viña del Mar y Quillota,M,2014,14292,65-75
+Libertador B. O'Higgins,M,2014,13690,65-75
+Maule,M,2014,17148,65-75
+Arauco,M,2014,2765,65-75
+Bio-Bio y Los Angeles,M,2014,6436,65-75
+Concepcion,M,2014,9108,65-75
+Ñuble,M,2014,8717,65-75
+Talcahuano,M,2014,5551,65-75
+Araucanía Norte,M,2014,3490,65-75
+Araucanía Sur,M,2014,11548,65-75
+Chiloé,M,2014,2544,65-75
+Reloncavi,M,2014,5773,65-75
+Osorno,M,2014,4046,65-75
+Valdivia,M,2014,5471,65-75
+Aysen,M,2014,1446,65-75
+Magallanes,M,2014,2613,65-75
+Metropolitano Central,M,2014,14183,65-75
+Metropolitano Norte,M,2014,11760,65-75
+Metropolitano Occidente,M,2014,18686,65-75
+Metropolitano Oriente,M,2014,12375,65-75
+Metropolitano Sur,M,2014,17417,65-75
+Metropolitano Sur-Oriente,M,2014,20280,65-75
+Arica y Parinacota,M,2014,2416,65-75
+Iquique y Tarapaca,M,2014,2730,65-75
+Antofagasta,M,2014,4764,65-75
+Atacama,M,2014,3407,65-75
+Coquimbo,M,2014,8838,65-75
+Aconcagua,M,2014,3403,65-75
+Valparaiso y San Antonio,M,2014,6718,65-75
+Viña del Mar y Quillota,M,2014,11998,65-75
+Libertador B. O'Higgins,M,2014,10220,65-75
+Maule,M,2014,13302,65-75
+Arauco,M,2014,2164,65-75
+Bio-Bio y Los Angeles,M,2014,5439,65-75
+Concepcion,M,2014,6755,65-75
+Ñuble,M,2014,6894,65-75
+Talcahuano,M,2014,4202,65-75
+Araucanía Norte,M,2014,3015,65-75
+Araucanía Sur,M,2014,9322,65-75
+Chiloé,M,2014,2137,65-75
+Reloncavi,M,2014,4424,65-75
+Osorno,M,2014,3262,65-75
+Valdivia,M,2014,4464,65-75
+Aysen,M,2014,1160,65-75
+Magallanes,M,2014,2060,65-75
+Metropolitano Central,M,2014,11327,65-75
+Metropolitano Norte,M,2014,9343,65-75
+Metropolitano Occidente,M,2014,14736,65-75
+Metropolitano Oriente,M,2014,10986,65-75
+Metropolitano Sur,M,2014,13354,65-75
+Metropolitano Sur-Oriente,M,2014,14390,65-75
+Arica y Parinacota,M,2014,1653,>75
+Iquique y Tarapaca,M,2014,1648,>75
+Antofagasta,M,2014,3107,>75
+Atacama,M,2014,2440,>75
+Coquimbo,M,2014,6294,>75
+Aconcagua,M,2014,2190,>75
+Valparaiso y San Antonio,M,2014,4625,>75
+Viña del Mar y Quillota,M,2014,8241,>75
+Libertador B. O'Higgins,M,2014,7109,>75
+Maule,M,2014,9018,>75
+Arauco,M,2014,1455,>75
+Bio-Bio y Los Angeles,M,2014,3655,>75
+Concepcion,M,2014,4563,>75
+Ñuble,M,2014,4777,>75
+Talcahuano,M,2014,2829,>75
+Araucanía Norte,M,2014,2209,>75
+Araucanía Sur,M,2014,6735,>75
+Chiloé,M,2014,1446,>75
+Reloncavi,M,2014,3145,>75
+Osorno,M,2014,2458,>75
+Valdivia,M,2014,3201,>75
+Aysen,M,2014,757,>75
+Magallanes,M,2014,1398,>75
+Metropolitano Central,M,2014,7041,>75
+Metropolitano Norte,M,2014,5981,>75
+Metropolitano Occidente,M,2014,9524,>75
+Metropolitano Oriente,M,2014,7844,>75
+Metropolitano Sur,M,2014,8834,>75
+Metropolitano Sur-Oriente,M,2014,8470,>75
+Arica y Parinacota,M,2014,1414,>75
+Iquique y Tarapaca,M,2014,1435,>75
+Antofagasta,M,2014,2526,>75
+Atacama,M,2014,1971,>75
+Coquimbo,M,2014,5740,>75
+Aconcagua,M,2014,2077,>75
+Valparaiso y San Antonio,M,2014,4204,>75
+Viña del Mar y Quillota,M,2014,7877,>75
+Libertador B. O'Higgins,M,2014,6714,>75
+Maule,M,2014,8003,>75
+Arauco,M,2014,1397,>75
+Bio-Bio y Los Angeles,M,2014,3322,>75
+Concepcion,M,2014,3914,>75
+Ñuble,M,2014,4020,>75
+Talcahuano,M,2014,2340,>75
+Araucanía Norte,M,2014,2066,>75
+Araucanía Sur,M,2014,6094,>75
+Chiloé,M,2014,1299,>75
+Reloncavi,M,2014,2622,>75
+Osorno,M,2014,2212,>75
+Valdivia,M,2014,3050,>75
+Aysen,M,2014,574,>75
+Magallanes,M,2014,1158,>75
+Metropolitano Central,M,2014,6266,>75
+Metropolitano Norte,M,2014,5126,>75
+Metropolitano Occidente,M,2014,7571,>75
+Metropolitano Oriente,M,2014,8652,>75
+Metropolitano Sur,M,2014,8487,>75
+Metropolitano Sur-Oriente,M,2014,6610,>75
+Arica y Parinacota,F,2015,6492,0-5
+Iquique y Tarapaca,F,2015,9230,0-5
+Antofagasta,F,2015,13865,0-5
+Atacama,F,2015,8388,0-5
+Coquimbo,F,2015,21557,0-5
+Viña del Mar y Quillota,F,2015,22387,0-5
+Valparaiso y San Antonio,F,2015,12760,0-5
+Aconcagua,F,2015,7509,0-5
+Libertador B. O'Higgins,F,2015,22248,0-5
+Maule,F,2015,26488,0-5
+Concepcion,F,2015,15377,0-5
+Talcahuano,F,2015,8976,0-5
+Arauco,F,2015,4863,0-5
+Bio-Bio y Los Angeles,F,2015,9997,0-5
+Ñuble,F,2015,11483,0-5
+Araucanía Sur,F,2015,19308,0-5
+Araucanía Norte,F,2015,5168,0-5
+Reloncavi,F,2015,10224,0-5
+Chiloé,F,2015,4036,0-5
+Osorno,F,2015,5878,0-5
+Valdivia,F,2015,9683,0-5
+Aysen,F,2015,2305,0-5
+Magallanes,F,2015,3466,0-5
+Metropolitano Central,F,2015,22010,0-5
+Metropolitano Norte,F,2015,22354,0-5
+Metropolitano Oriente,F,2015,13553,0-5
+Metropolitano Sur-Oriente,F,2015,34698,0-5
+Metropolitano Sur,F,2015,29638,0-5
+Metropolitano Occidente,F,2015,30530,0-5
+Arica y Parinacota,F,2015,6358,5-15
+Iquique y Tarapaca,F,2015,9464,5-15
+Antofagasta,F,2015,13269,5-15
+Atacama,F,2015,9037,5-15
+Coquimbo,F,2015,21643,5-15
+Viña del Mar y Quillota,F,2015,23294,5-15
+Valparaiso y San Antonio,F,2015,13072,5-15
+Aconcagua,F,2015,7626,5-15
+Libertador B. O'Higgins,F,2015,24502,5-15
+Maule,F,2015,28869,5-15
+Concepcion,F,2015,15594,5-15
+Talcahuano,F,2015,9322,5-15
+Arauco,F,2015,5281,5-15
+Bio-Bio y Los Angeles,F,2015,12085,5-15
+Ñuble,F,2015,12818,5-15
+Araucanía Sur,F,2015,21521,5-15
+Araucanía Norte,F,2015,5551,5-15
+Reloncavi,F,2015,12281,5-15
+Chiloé,F,2015,5342,5-15
+Osorno,F,2015,7146,5-15
+Valdivia,F,2015,10575,5-15
+Aysen,F,2015,2984,5-15
+Magallanes,F,2015,3768,5-15
+Metropolitano Central,F,2015,21687,5-15
+Metropolitano Norte,F,2015,23973,5-15
+Metropolitano Oriente,F,2015,14863,5-15
+Metropolitano Sur-Oriente,F,2015,38559,5-15
+Metropolitano Sur,F,2015,31171,5-15
+Metropolitano Occidente,F,2015,34049,5-15
+Arica y Parinacota,F,2015,5959,5-15
+Iquique y Tarapaca,F,2015,8657,5-15
+Antofagasta,F,2015,12756,5-15
+Atacama,F,2015,8138,5-15
+Coquimbo,F,2015,20262,5-15
+Viña del Mar y Quillota,F,2015,22735,5-15
+Valparaiso y San Antonio,F,2015,12889,5-15
+Aconcagua,F,2015,7372,5-15
+Libertador B. O'Higgins,F,2015,23567,5-15
+Maule,F,2015,28781,5-15
+Concepcion,F,2015,15589,5-15
+Talcahuano,F,2015,9130,5-15
+Arauco,F,2015,5625,5-15
+Bio-Bio y Los Angeles,F,2015,12283,5-15
+Ñuble,F,2015,13089,5-15
+Araucanía Sur,F,2015,21593,5-15
+Araucanía Norte,F,2015,5829,5-15
+Reloncavi,F,2015,12160,5-15
+Chiloé,F,2015,5631,5-15
+Osorno,F,2015,6955,5-15
+Valdivia,F,2015,10352,5-15
+Aysen,F,2015,2934,5-15
+Magallanes,F,2015,3615,5-15
+Metropolitano Central,F,2015,20945,5-15
+Metropolitano Norte,F,2015,23069,5-15
+Metropolitano Oriente,F,2015,15102,5-15
+Metropolitano Sur-Oriente,F,2015,37952,5-15
+Metropolitano Sur,F,2015,30555,5-15
+Metropolitano Occidente,F,2015,32936,5-15
+Arica y Parinacota,F,2015,6489,15-25
+Iquique y Tarapaca,F,2015,9177,15-25
+Antofagasta,F,2015,14406,15-25
+Atacama,F,2015,8834,15-25
+Coquimbo,F,2015,22353,15-25
+Viña del Mar y Quillota,F,2015,25706,15-25
+Valparaiso y San Antonio,F,2015,14536,15-25
+Aconcagua,F,2015,8158,15-25
+Libertador B. O'Higgins,F,2015,26848,15-25
+Maule,F,2015,32171,15-25
+Concepcion,F,2015,17282,15-25
+Talcahuano,F,2015,10516,15-25
+Arauco,F,2015,5957,15-25
+Bio-Bio y Los Angeles,F,2015,13504,15-25
+Ñuble,F,2015,15013,15-25
+Araucanía Sur,F,2015,23939,15-25
+Araucanía Norte,F,2015,6592,15-25
+Reloncavi,F,2015,13027,15-25
+Chiloé,F,2015,6117,15-25
+Osorno,F,2015,7926,15-25
+Valdivia,F,2015,11278,15-25
+Aysen,F,2015,3083,15-25
+Magallanes,F,2015,4151,15-25
+Metropolitano Central,F,2015,24091,15-25
+Metropolitano Norte,F,2015,25317,15-25
+Metropolitano Oriente,F,2015,17408,15-25
+Metropolitano Sur-Oriente,F,2015,42485,15-25
+Metropolitano Sur,F,2015,34159,15-25
+Metropolitano Occidente,F,2015,37207,15-25
+Arica y Parinacota,F,2015,6789,15-25
+Iquique y Tarapaca,F,2015,9822,15-25
+Antofagasta,F,2015,16196,15-25
+Atacama,F,2015,9179,15-25
+Coquimbo,F,2015,22774,15-25
+Viña del Mar y Quillota,F,2015,27893,15-25
+Valparaiso y San Antonio,F,2015,15275,15-25
+Aconcagua,F,2015,8519,15-25
+Libertador B. O'Higgins,F,2015,26980,15-25
+Maule,F,2015,33041,15-25
+Concepcion,F,2015,19035,15-25
+Talcahuano,F,2015,11344,15-25
+Arauco,F,2015,5971,15-25
+Bio-Bio y Los Angeles,F,2015,13852,15-25
+Ñuble,F,2015,15198,15-25
+Araucanía Sur,F,2015,24779,15-25
+Araucanía Norte,F,2015,7047,15-25
+Reloncavi,F,2015,13478,15-25
+Chiloé,F,2015,5978,15-25
+Osorno,F,2015,7999,15-25
+Valdivia,F,2015,11840,15-25
+Aysen,F,2015,3119,15-25
+Magallanes,F,2015,4457,15-25
+Metropolitano Central,F,2015,27623,15-25
+Metropolitano Norte,F,2015,26689,15-25
+Metropolitano Oriente,F,2015,19735,15-25
+Metropolitano Sur-Oriente,F,2015,45429,15-25
+Metropolitano Sur,F,2015,35193,15-25
+Metropolitano Occidente,F,2015,39268,15-25
+Arica y Parinacota,F,2015,6797,25-35
+Iquique y Tarapaca,F,2015,10694,25-35
+Antofagasta,F,2015,17212,25-35
+Atacama,F,2015,9266,25-35
+Coquimbo,F,2015,23363,25-35
+Viña del Mar y Quillota,F,2015,29154,25-35
+Valparaiso y San Antonio,F,2015,16147,25-35
+Aconcagua,F,2015,8626,25-35
+Libertador B. O'Higgins,F,2015,27197,25-35
+Maule,F,2015,33419,25-35
+Concepcion,F,2015,19495,25-35
+Talcahuano,F,2015,11906,25-35
+Arauco,F,2015,5799,25-35
+Bio-Bio y Los Angeles,F,2015,12969,25-35
+Ñuble,F,2015,15194,25-35
+Araucanía Sur,F,2015,23948,25-35
+Araucanía Norte,F,2015,6559,25-35
+Reloncavi,F,2015,13315,25-35
+Chiloé,F,2015,5967,25-35
+Osorno,F,2015,7894,25-35
+Valdivia,F,2015,11220,25-35
+Aysen,F,2015,3417,25-35
+Magallanes,F,2015,5039,25-35
+Metropolitano Central,F,2015,32020,25-35
+Metropolitano Norte,F,2015,26587,25-35
+Metropolitano Oriente,F,2015,21905,25-35
+Metropolitano Sur-Oriente,F,2015,44071,25-35
+Metropolitano Sur,F,2015,35643,25-35
+Metropolitano Occidente,F,2015,38319,25-35
+Arica y Parinacota,F,2015,6340,25-35
+Iquique y Tarapaca,F,2015,10078,25-35
+Antofagasta,F,2015,15812,25-35
+Atacama,F,2015,8374,25-35
+Coquimbo,F,2015,21399,25-35
+Viña del Mar y Quillota,F,2015,26789,25-35
+Valparaiso y San Antonio,F,2015,14686,25-35
+Aconcagua,F,2015,7861,25-35
+Libertador B. O'Higgins,F,2015,24085,25-35
+Maule,F,2015,29985,25-35
+Concepcion,F,2015,17312,25-35
+Talcahuano,F,2015,10039,25-35
+Arauco,F,2015,5397,25-35
+Bio-Bio y Los Angeles,F,2015,11787,25-35
+Ñuble,F,2015,13596,25-35
+Araucanía Sur,F,2015,21749,25-35
+Araucanía Norte,F,2015,5996,25-35
+Reloncavi,F,2015,12144,25-35
+Chiloé,F,2015,5730,25-35
+Osorno,F,2015,7045,25-35
+Valdivia,F,2015,10164,25-35
+Aysen,F,2015,3063,25-35
+Magallanes,F,2015,4733,25-35
+Metropolitano Central,F,2015,28916,25-35
+Metropolitano Norte,F,2015,23946,25-35
+Metropolitano Oriente,F,2015,21044,25-35
+Metropolitano Sur-Oriente,F,2015,39321,25-35
+Metropolitano Sur,F,2015,32168,25-35
+Metropolitano Occidente,F,2015,33770,25-35
+Arica y Parinacota,F,2015,5597,35-45
+Iquique y Tarapaca,F,2015,8836,35-45
+Antofagasta,F,2015,14658,35-45
+Atacama,F,2015,7511,35-45
+Coquimbo,F,2015,20002,35-45
+Viña del Mar y Quillota,F,2015,24043,35-45
+Valparaiso y San Antonio,F,2015,13705,35-45
+Aconcagua,F,2015,7261,35-45
+Libertador B. O'Higgins,F,2015,23435,35-45
+Maule,F,2015,28914,35-45
+Concepcion,F,2015,15720,35-45
+Talcahuano,F,2015,9707,35-45
+Arauco,F,2015,5182,35-45
+Bio-Bio y Los Angeles,F,2015,11524,35-45
+Ñuble,F,2015,12803,35-45
+Araucanía Sur,F,2015,20310,35-45
+Araucanía Norte,F,2015,5533,35-45
+Reloncavi,F,2015,11541,35-45
+Chiloé,F,2015,5604,35-45
+Osorno,F,2015,7028,35-45
+Valdivia,F,2015,9186,35-45
+Aysen,F,2015,2996,35-45
+Magallanes,F,2015,4464,35-45
+Metropolitano Central,F,2015,26019,35-45
+Metropolitano Norte,F,2015,22876,35-45
+Metropolitano Oriente,F,2015,21168,35-45
+Metropolitano Sur-Oriente,F,2015,34737,35-45
+Metropolitano Sur,F,2015,28529,35-45
+Metropolitano Occidente,F,2015,32341,35-45
+Arica y Parinacota,F,2015,5899,35-45
+Iquique y Tarapaca,F,2015,8385,35-45
+Antofagasta,F,2015,14231,35-45
+Atacama,F,2015,7712,35-45
+Coquimbo,F,2015,20825,35-45
+Viña del Mar y Quillota,F,2015,25188,35-45
+Valparaiso y San Antonio,F,2015,13767,35-45
+Aconcagua,F,2015,7406,35-45
+Libertador B. O'Higgins,F,2015,25708,35-45
+Maule,F,2015,31036,35-45
+Concepcion,F,2015,17457,35-45
+Talcahuano,F,2015,10751,35-45
+Arauco,F,2015,5645,35-45
+Bio-Bio y Los Angeles,F,2015,12630,35-45
+Ñuble,F,2015,14881,35-45
+Araucanía Sur,F,2015,22263,35-45
+Araucanía Norte,F,2015,6094,35-45
+Reloncavi,F,2015,12386,35-45
+Chiloé,F,2015,5692,35-45
+Osorno,F,2015,7691,35-45
+Valdivia,F,2015,10023,35-45
+Aysen,F,2015,2872,35-45
+Magallanes,F,2015,4386,35-45
+Metropolitano Central,F,2015,26750,35-45
+Metropolitano Norte,F,2015,24800,35-45
+Metropolitano Oriente,F,2015,22851,35-45
+Metropolitano Sur-Oriente,F,2015,38520,35-45
+Metropolitano Sur,F,2015,30791,35-45
+Metropolitano Occidente,F,2015,35330,35-45
+Arica y Parinacota,F,2015,5433,45-55
+Iquique y Tarapaca,F,2015,7457,45-55
+Antofagasta,F,2015,12680,45-55
+Atacama,F,2015,7831,45-55
+Coquimbo,F,2015,20735,45-55
+Viña del Mar y Quillota,F,2015,25396,45-55
+Valparaiso y San Antonio,F,2015,14172,45-55
+Aconcagua,F,2015,7759,45-55
+Libertador B. O'Higgins,F,2015,26059,45-55
+Maule,F,2015,32156,45-55
+Concepcion,F,2015,18396,45-55
+Talcahuano,F,2015,11263,45-55
+Arauco,F,2015,5435,45-55
+Bio-Bio y Los Angeles,F,2015,12835,45-55
+Ñuble,F,2015,15528,45-55
+Araucanía Sur,F,2015,22281,45-55
+Araucanía Norte,F,2015,6292,45-55
+Reloncavi,F,2015,12328,45-55
+Chiloé,F,2015,5590,45-55
+Osorno,F,2015,7724,45-55
+Valdivia,F,2015,10908,45-55
+Aysen,F,2015,2812,45-55
+Magallanes,F,2015,4232,45-55
+Metropolitano Central,F,2015,26404,45-55
+Metropolitano Norte,F,2015,23881,45-55
+Metropolitano Oriente,F,2015,23342,45-55
+Metropolitano Sur-Oriente,F,2015,38491,45-55
+Metropolitano Sur,F,2015,31280,45-55
+Metropolitano Occidente,F,2015,34573,45-55
+Arica y Parinacota,F,2015,5420,45-55
+Iquique y Tarapaca,F,2015,7454,45-55
+Antofagasta,F,2015,12827,45-55
+Atacama,F,2015,7969,45-55
+Coquimbo,F,2015,20416,45-55
+Viña del Mar y Quillota,F,2015,27844,45-55
+Valparaiso y San Antonio,F,2015,15189,45-55
+Aconcagua,F,2015,7989,45-55
+Libertador B. O'Higgins,F,2015,26272,45-55
+Maule,F,2015,31502,45-55
+Concepcion,F,2015,18659,45-55
+Talcahuano,F,2015,12059,45-55
+Arauco,F,2015,5022,45-55
+Bio-Bio y Los Angeles,F,2015,11867,45-55
+Ñuble,F,2015,14781,45-55
+Araucanía Sur,F,2015,20964,45-55
+Araucanía Norte,F,2015,6345,45-55
+Reloncavi,F,2015,11347,45-55
+Chiloé,F,2015,5004,45-55
+Osorno,F,2015,7383,45-55
+Valdivia,F,2015,10765,45-55
+Aysen,F,2015,2621,45-55
+Magallanes,F,2015,4524,45-55
+Metropolitano Central,F,2015,29831,45-55
+Metropolitano Norte,F,2015,24180,45-55
+Metropolitano Oriente,F,2015,24511,45-55
+Metropolitano Sur-Oriente,F,2015,42781,45-55
+Metropolitano Sur,F,2015,34085,45-55
+Metropolitano Occidente,F,2015,36018,45-55
+Arica y Parinacota,F,2015,4471,55-65
+Iquique y Tarapaca,F,2015,6360,55-65
+Antofagasta,F,2015,11054,55-65
+Atacama,F,2015,6599,55-65
+Coquimbo,F,2015,17423,55-65
+Viña del Mar y Quillota,F,2015,24806,55-65
+Valparaiso y San Antonio,F,2015,13770,55-65
+Aconcagua,F,2015,6718,55-65
+Libertador B. O'Higgins,F,2015,22177,55-65
+Maule,F,2015,26253,55-65
+Concepcion,F,2015,16012,55-65
+Talcahuano,F,2015,10462,55-65
+Arauco,F,2015,4390,55-65
+Bio-Bio y Los Angeles,F,2015,10000,55-65
+Ñuble,F,2015,12887,55-65
+Araucanía Sur,F,2015,17593,55-65
+Araucanía Norte,F,2015,5224,55-65
+Reloncavi,F,2015,8820,55-65
+Chiloé,F,2015,4116,55-65
+Osorno,F,2015,6444,55-65
+Valdivia,F,2015,8757,55-65
+Aysen,F,2015,2350,55-65
+Magallanes,F,2015,4022,55-65
+Metropolitano Central,F,2015,25804,55-65
+Metropolitano Norte,F,2015,19975,55-65
+Metropolitano Oriente,F,2015,22107,55-65
+Metropolitano Sur-Oriente,F,2015,37902,55-65
+Metropolitano Sur,F,2015,30416,55-65
+Metropolitano Occidente,F,2015,30552,55-65
+Arica y Parinacota,F,2015,3918,55-65
+Iquique y Tarapaca,F,2015,5358,55-65
+Antofagasta,F,2015,9284,55-65
+Atacama,F,2015,5550,55-65
+Coquimbo,F,2015,14992,55-65
+Viña del Mar y Quillota,F,2015,20542,55-65
+Valparaiso y San Antonio,F,2015,11531,55-65
+Aconcagua,F,2015,5614,55-65
+Libertador B. O'Higgins,F,2015,17810,55-65
+Maule,F,2015,22114,55-65
+Concepcion,F,2015,13754,55-65
+Talcahuano,F,2015,8787,55-65
+Arauco,F,2015,3750,55-65
+Bio-Bio y Los Angeles,F,2015,8312,55-65
+Ñuble,F,2015,10507,55-65
+Araucanía Sur,F,2015,14761,55-65
+Araucanía Norte,F,2015,4723,55-65
+Reloncavi,F,2015,7245,55-65
+Chiloé,F,2015,3297,55-65
+Osorno,F,2015,5329,55-65
+Valdivia,F,2015,7439,55-65
+Aysen,F,2015,1840,55-65
+Magallanes,F,2015,3234,55-65
+Metropolitano Central,F,2015,21165,55-65
+Metropolitano Norte,F,2015,16201,55-65
+Metropolitano Oriente,F,2015,20300,55-65
+Metropolitano Sur-Oriente,F,2015,30528,55-65
+Metropolitano Sur,F,2015,24420,55-65
+Metropolitano Occidente,F,2015,24912,55-65
+Arica y Parinacota,F,2015,3540,65-75
+Iquique y Tarapaca,F,2015,4155,65-75
+Antofagasta,F,2015,7392,65-75
+Atacama,F,2015,4438,65-75
+Coquimbo,F,2015,12208,65-75
+Viña del Mar y Quillota,F,2015,17634,65-75
+Valparaiso y San Antonio,F,2015,10353,65-75
+Aconcagua,F,2015,4643,65-75
+Libertador B. O'Higgins,F,2015,14746,65-75
+Maule,F,2015,18594,65-75
+Concepcion,F,2015,11519,65-75
+Talcahuano,F,2015,7478,65-75
+Arauco,F,2015,2821,65-75
+Bio-Bio y Los Angeles,F,2015,7133,65-75
+Ñuble,F,2015,9096,65-75
+Araucanía Sur,F,2015,13124,65-75
+Araucanía Norte,F,2015,3901,65-75
+Reloncavi,F,2015,6223,65-75
+Chiloé,F,2015,2976,65-75
+Osorno,F,2015,4725,65-75
+Valdivia,F,2015,6400,65-75
+Aysen,F,2015,1434,65-75
+Magallanes,F,2015,2825,65-75
+Metropolitano Central,F,2015,18594,65-75
+Metropolitano Norte,F,2015,14282,65-75
+Metropolitano Oriente,F,2015,19106,65-75
+Metropolitano Sur-Oriente,F,2015,25128,65-75
+Metropolitano Sur,F,2015,20979,65-75
+Metropolitano Occidente,F,2015,22243,65-75
+Arica y Parinacota,F,2015,2918,65-75
+Iquique y Tarapaca,F,2015,3053,65-75
+Antofagasta,F,2015,6024,65-75
+Atacama,F,2015,3689,65-75
+Coquimbo,F,2015,10502,65-75
+Viña del Mar y Quillota,F,2015,15568,65-75
+Valparaiso y San Antonio,F,2015,8605,65-75
+Aconcagua,F,2015,3860,65-75
+Libertador B. O'Higgins,F,2015,11643,65-75
+Maule,F,2015,14606,65-75
+Concepcion,F,2015,9212,65-75
+Talcahuano,F,2015,6202,65-75
+Arauco,F,2015,2224,65-75
+Bio-Bio y Los Angeles,F,2015,5948,65-75
+Ñuble,F,2015,7536,65-75
+Araucanía Sur,F,2015,10874,65-75
+Araucanía Norte,F,2015,3391,65-75
+Reloncavi,F,2015,5040,65-75
+Chiloé,F,2015,2550,65-75
+Osorno,F,2015,3882,65-75
+Valdivia,F,2015,5161,65-75
+Aysen,F,2015,1134,65-75
+Magallanes,F,2015,2429,65-75
+Metropolitano Central,F,2015,15266,65-75
+Metropolitano Norte,F,2015,11821,65-75
+Metropolitano Oriente,F,2015,17730,65-75
+Metropolitano Sur-Oriente,F,2015,19251,65-75
+Metropolitano Sur,F,2015,17354,65-75
+Metropolitano Occidente,F,2015,18088,65-75
+Arica y Parinacota,F,2015,2068,>75
+Iquique y Tarapaca,F,2015,2167,>75
+Antofagasta,F,2015,4417,>75
+Atacama,F,2015,2648,>75
+Coquimbo,F,2015,7807,>75
+Viña del Mar y Quillota,F,2015,11890,>75
+Valparaiso y San Antonio,F,2015,6644,>75
+Aconcagua,F,2015,2819,>75
+Libertador B. O'Higgins,F,2015,8518,>75
+Maule,F,2015,11087,>75
+Concepcion,F,2015,6800,>75
+Talcahuano,F,2015,4416,>75
+Arauco,F,2015,1612,>75
+Bio-Bio y Los Angeles,F,2015,4585,>75
+Ñuble,F,2015,5756,>75
+Araucanía Sur,F,2015,8846,>75
+Araucanía Norte,F,2015,2629,>75
+Reloncavi,F,2015,3915,>75
+Chiloé,F,2015,2081,>75
+Osorno,F,2015,3045,>75
+Valdivia,F,2015,4312,>75
+Aysen,F,2015,837,>75
+Magallanes,F,2015,1908,>75
+Metropolitano Central,F,2015,11088,>75
+Metropolitano Norte,F,2015,8915,>75
+Metropolitano Oriente,F,2015,13961,>75
+Metropolitano Sur-Oriente,F,2015,13048,>75
+Metropolitano Sur,F,2015,13097,>75
+Metropolitano Occidente,F,2015,12759,>75
+Arica y Parinacota,F,2015,2380,>75
+Iquique y Tarapaca,F,2015,2640,>75
+Antofagasta,F,2015,5360,>75
+Atacama,F,2015,3230,>75
+Coquimbo,F,2015,10143,>75
+Viña del Mar y Quillota,F,2015,16213,>75
+Valparaiso y San Antonio,F,2015,9125,>75
+Aconcagua,F,2015,3600,>75
+Libertador B. O'Higgins,F,2015,10595,>75
+Maule,F,2015,12936,>75
+Concepcion,F,2015,8270,>75
+Talcahuano,F,2015,5220,>75
+Arauco,F,2015,1938,>75
+Bio-Bio y Los Angeles,F,2015,5420,>75
+Ñuble,F,2015,6744,>75
+Araucanía Sur,F,2015,11127,>75
+Araucanía Norte,F,2015,3281,>75
+Reloncavi,F,2015,4571,>75
+Chiloé,F,2015,2552,>75
+Osorno,F,2015,3791,>75
+Valdivia,F,2015,5047,>75
+Aysen,F,2015,856,>75
+Magallanes,F,2015,2337,>75
+Metropolitano Central,F,2015,15218,>75
+Metropolitano Norte,F,2015,11583,>75
+Metropolitano Oriente,F,2015,23178,>75
+Metropolitano Sur-Oriente,F,2015,15006,>75
+Metropolitano Sur,F,2015,18302,>75
+Metropolitano Occidente,F,2015,15180,>75
+Arica y Parinacota,F,2016,6601,0-5
+Iquique y Tarapaca,F,2016,9250,0-5
+Antofagasta,F,2016,14067,0-5
+Atacama,F,2016,7821,0-5
+Coquimbo,F,2016,21391,0-5
+Viña del Mar y Quillota,F,2016,22970,0-5
+Valparaiso y San Antonio,F,2016,12543,0-5
+Aconcagua,F,2016,7348,0-5
+Libertador B. O'Higgins,F,2016,22567,0-5
+Maule,F,2016,26594,0-5
+Concepcion,F,2016,15287,0-5
+Talcahuano,F,2016,8713,0-5
+Arauco,F,2016,4731,0-5
+Bio-Bio y Los Angeles,F,2016,10107,0-5
+Ñuble,F,2016,11457,0-5
+Araucanía Sur,F,2016,18979,0-5
+Araucanía Norte,F,2016,5425,0-5
+Reloncavi,F,2016,10290,0-5
+Chiloé,F,2016,4038,0-5
+Osorno,F,2016,5624,0-5
+Valdivia,F,2016,9601,0-5
+Aysen,F,2016,2347,0-5
+Magallanes,F,2016,3445,0-5
+Metropolitano Central,F,2016,22362,0-5
+Metropolitano Norte,F,2016,22491,0-5
+Metropolitano Oriente,F,2016,13019,0-5
+Metropolitano Sur-Oriente,F,2016,33940,0-5
+Metropolitano Sur,F,2016,28793,0-5
+Metropolitano Occidente,F,2016,30355,0-5
+Arica y Parinacota,F,2016,6628,5-15
+Iquique y Tarapaca,F,2016,10086,5-15
+Antofagasta,F,2016,13679,5-15
+Atacama,F,2016,9195,5-15
+Coquimbo,F,2016,22532,5-15
+Viña del Mar y Quillota,F,2016,23938,5-15
+Valparaiso y San Antonio,F,2016,13303,5-15
+Aconcagua,F,2016,7701,5-15
+Libertador B. O'Higgins,F,2016,24800,5-15
+Maule,F,2016,29357,5-15
+Concepcion,F,2016,15972,5-15
+Talcahuano,F,2016,9406,5-15
+Arauco,F,2016,5427,5-15
+Bio-Bio y Los Angeles,F,2016,12027,5-15
+Ñuble,F,2016,12952,5-15
+Araucanía Sur,F,2016,21745,5-15
+Araucanía Norte,F,2016,5418,5-15
+Reloncavi,F,2016,12345,5-15
+Chiloé,F,2016,5298,5-15
+Osorno,F,2016,7147,5-15
+Valdivia,F,2016,10624,5-15
+Aysen,F,2016,3111,5-15
+Magallanes,F,2016,3755,5-15
+Metropolitano Central,F,2016,21884,5-15
+Metropolitano Norte,F,2016,24172,5-15
+Metropolitano Oriente,F,2016,14759,5-15
+Metropolitano Sur-Oriente,F,2016,38339,5-15
+Metropolitano Sur,F,2016,31458,5-15
+Metropolitano Occidente,F,2016,33931,5-15
+Arica y Parinacota,F,2016,6116,5-15
+Iquique y Tarapaca,F,2016,8780,5-15
+Antofagasta,F,2016,12939,5-15
+Atacama,F,2016,8130,5-15
+Coquimbo,F,2016,20114,5-15
+Viña del Mar y Quillota,F,2016,22712,5-15
+Valparaiso y San Antonio,F,2016,12602,5-15
+Aconcagua,F,2016,7239,5-15
+Libertador B. O'Higgins,F,2016,23320,5-15
+Maule,F,2016,28265,5-15
+Concepcion,F,2016,15340,5-15
+Talcahuano,F,2016,8982,5-15
+Arauco,F,2016,5460,5-15
+Bio-Bio y Los Angeles,F,2016,12047,5-15
+Ñuble,F,2016,12885,5-15
+Araucanía Sur,F,2016,21364,5-15
+Araucanía Norte,F,2016,5803,5-15
+Reloncavi,F,2016,12105,5-15
+Chiloé,F,2016,5541,5-15
+Osorno,F,2016,6863,5-15
+Valdivia,F,2016,10319,5-15
+Aysen,F,2016,2978,5-15
+Magallanes,F,2016,3587,5-15
+Metropolitano Central,F,2016,20726,5-15
+Metropolitano Norte,F,2016,23115,5-15
+Metropolitano Oriente,F,2016,14627,5-15
+Metropolitano Sur-Oriente,F,2016,37038,5-15
+Metropolitano Sur,F,2016,29916,5-15
+Metropolitano Occidente,F,2016,32234,5-15
+Arica y Parinacota,F,2016,6446,15-25
+Iquique y Tarapaca,F,2016,9362,15-25
+Antofagasta,F,2016,14482,15-25
+Atacama,F,2016,8657,15-25
+Coquimbo,F,2016,22367,15-25
+Viña del Mar y Quillota,F,2016,25868,15-25
+Valparaiso y San Antonio,F,2016,14257,15-25
+Aconcagua,F,2016,7996,15-25
+Libertador B. O'Higgins,F,2016,26540,15-25
+Maule,F,2016,31566,15-25
+Concepcion,F,2016,17010,15-25
+Talcahuano,F,2016,10267,15-25
+Arauco,F,2016,5922,15-25
+Bio-Bio y Los Angeles,F,2016,13227,15-25
+Ñuble,F,2016,14577,15-25
+Araucanía Sur,F,2016,23651,15-25
+Araucanía Norte,F,2016,6446,15-25
+Reloncavi,F,2016,12892,15-25
+Chiloé,F,2016,5967,15-25
+Osorno,F,2016,7880,15-25
+Valdivia,F,2016,11210,15-25
+Aysen,F,2016,3351,15-25
+Magallanes,F,2016,4052,15-25
+Metropolitano Central,F,2016,23654,15-25
+Metropolitano Norte,F,2016,25249,15-25
+Metropolitano Oriente,F,2016,16944,15-25
+Metropolitano Sur-Oriente,F,2016,41734,15-25
+Metropolitano Sur,F,2016,33455,15-25
+Metropolitano Occidente,F,2016,36284,15-25
+Arica y Parinacota,F,2016,7162,15-25
+Iquique y Tarapaca,F,2016,10621,15-25
+Antofagasta,F,2016,17722,15-25
+Atacama,F,2016,9737,15-25
+Coquimbo,F,2016,24447,15-25
+Viña del Mar y Quillota,F,2016,29700,15-25
+Valparaiso y San Antonio,F,2016,15919,15-25
+Aconcagua,F,2016,8791,15-25
+Libertador B. O'Higgins,F,2016,28829,15-25
+Maule,F,2016,34832,15-25
+Concepcion,F,2016,19578,15-25
+Talcahuano,F,2016,11723,15-25
+Arauco,F,2016,6238,15-25
+Bio-Bio y Los Angeles,F,2016,14156,15-25
+Ñuble,F,2016,16102,15-25
+Araucanía Sur,F,2016,25956,15-25
+Araucanía Norte,F,2016,7327,15-25
+Reloncavi,F,2016,14174,15-25
+Chiloé,F,2016,6177,15-25
+Osorno,F,2016,8287,15-25
+Valdivia,F,2016,12494,15-25
+Aysen,F,2016,3591,15-25
+Magallanes,F,2016,4640,15-25
+Metropolitano Central,F,2016,29487,15-25
+Metropolitano Norte,F,2016,28382,15-25
+Metropolitano Oriente,F,2016,20230,15-25
+Metropolitano Sur-Oriente,F,2016,46561,15-25
+Metropolitano Sur,F,2016,36836,15-25
+Metropolitano Occidente,F,2016,40588,15-25
+Arica y Parinacota,F,2016,7363,25-35
+Iquique y Tarapaca,F,2016,11645,25-35
+Antofagasta,F,2016,18958,25-35
+Atacama,F,2016,9821,25-35
+Coquimbo,F,2016,25176,25-35
+Viña del Mar y Quillota,F,2016,31342,25-35
+Valparaiso y San Antonio,F,2016,17000,25-35
+Aconcagua,F,2016,8983,25-35
+Libertador B. O'Higgins,F,2016,28932,25-35
+Maule,F,2016,35449,25-35
+Concepcion,F,2016,20860,25-35
+Talcahuano,F,2016,12631,25-35
+Arauco,F,2016,6056,25-35
+Bio-Bio y Los Angeles,F,2016,13860,25-35
+Ñuble,F,2016,15997,25-35
+Araucanía Sur,F,2016,25477,25-35
+Araucanía Norte,F,2016,7030,25-35
+Reloncavi,F,2016,14375,25-35
+Chiloé,F,2016,6195,25-35
+Osorno,F,2016,8257,25-35
+Valdivia,F,2016,12082,25-35
+Aysen,F,2016,3952,25-35
+Magallanes,F,2016,5292,25-35
+Metropolitano Central,F,2016,34938,25-35
+Metropolitano Norte,F,2016,28797,25-35
+Metropolitano Oriente,F,2016,22713,25-35
+Metropolitano Sur-Oriente,F,2016,46172,25-35
+Metropolitano Sur,F,2016,37919,25-35
+Metropolitano Occidente,F,2016,40235,25-35
+Arica y Parinacota,F,2016,6742,25-35
+Iquique y Tarapaca,F,2016,10715,25-35
+Antofagasta,F,2016,16805,25-35
+Atacama,F,2016,8683,25-35
+Coquimbo,F,2016,22477,25-35
+Viña del Mar y Quillota,F,2016,28005,25-35
+Valparaiso y San Antonio,F,2016,15147,25-35
+Aconcagua,F,2016,8082,25-35
+Libertador B. O'Higgins,F,2016,24963,25-35
+Maule,F,2016,30636,25-35
+Concepcion,F,2016,17540,25-35
+Talcahuano,F,2016,10211,25-35
+Arauco,F,2016,5425,25-35
+Bio-Bio y Los Angeles,F,2016,11978,25-35
+Ñuble,F,2016,13980,25-35
+Araucanía Sur,F,2016,22566,25-35
+Araucanía Norte,F,2016,6160,25-35
+Reloncavi,F,2016,12647,25-35
+Chiloé,F,2016,5836,25-35
+Osorno,F,2016,7150,25-35
+Valdivia,F,2016,10587,25-35
+Aysen,F,2016,3325,25-35
+Magallanes,F,2016,4884,25-35
+Metropolitano Central,F,2016,31034,25-35
+Metropolitano Norte,F,2016,25590,25-35
+Metropolitano Oriente,F,2016,21143,25-35
+Metropolitano Sur-Oriente,F,2016,39785,25-35
+Metropolitano Sur,F,2016,32637,25-35
+Metropolitano Occidente,F,2016,34355,25-35
+Arica y Parinacota,F,2016,6047,35-45
+Iquique y Tarapaca,F,2016,9634,35-45
+Antofagasta,F,2016,15637,35-45
+Atacama,F,2016,7814,35-45
+Coquimbo,F,2016,20982,35-45
+Viña del Mar y Quillota,F,2016,25550,35-45
+Valparaiso y San Antonio,F,2016,14124,35-45
+Aconcagua,F,2016,7546,35-45
+Libertador B. O'Higgins,F,2016,24092,35-45
+Maule,F,2016,29840,35-45
+Concepcion,F,2016,16357,35-45
+Talcahuano,F,2016,10097,35-45
+Arauco,F,2016,5422,35-45
+Bio-Bio y Los Angeles,F,2016,11809,35-45
+Ñuble,F,2016,13340,35-45
+Araucanía Sur,F,2016,21095,35-45
+Araucanía Norte,F,2016,5789,35-45
+Reloncavi,F,2016,11950,35-45
+Chiloé,F,2016,5732,35-45
+Osorno,F,2016,7053,35-45
+Valdivia,F,2016,9591,35-45
+Aysen,F,2016,3252,35-45
+Magallanes,F,2016,4632,35-45
+Metropolitano Central,F,2016,27934,35-45
+Metropolitano Norte,F,2016,24283,35-45
+Metropolitano Oriente,F,2016,21484,35-45
+Metropolitano Sur-Oriente,F,2016,36370,35-45
+Metropolitano Sur,F,2016,30261,35-45
+Metropolitano Occidente,F,2016,33349,35-45
+Arica y Parinacota,F,2016,5921,35-45
+Iquique y Tarapaca,F,2016,8689,35-45
+Antofagasta,F,2016,14972,35-45
+Atacama,F,2016,7770,35-45
+Coquimbo,F,2016,21498,35-45
+Viña del Mar y Quillota,F,2016,25977,35-45
+Valparaiso y San Antonio,F,2016,13973,35-45
+Aconcagua,F,2016,7498,35-45
+Libertador B. O'Higgins,F,2016,26261,35-45
+Maule,F,2016,31652,35-45
+Concepcion,F,2016,17156,35-45
+Talcahuano,F,2016,10615,35-45
+Arauco,F,2016,5555,35-45
+Bio-Bio y Los Angeles,F,2016,12601,35-45
+Ñuble,F,2016,14605,35-45
+Araucanía Sur,F,2016,22388,35-45
+Araucanía Norte,F,2016,5987,35-45
+Reloncavi,F,2016,12663,35-45
+Chiloé,F,2016,5749,35-45
+Osorno,F,2016,7825,35-45
+Valdivia,F,2016,10138,35-45
+Aysen,F,2016,3094,35-45
+Magallanes,F,2016,4463,35-45
+Metropolitano Central,F,2016,27331,35-45
+Metropolitano Norte,F,2016,25283,35-45
+Metropolitano Oriente,F,2016,22762,35-45
+Metropolitano Sur-Oriente,F,2016,38052,35-45
+Metropolitano Sur,F,2016,30426,35-45
+Metropolitano Occidente,F,2016,35352,35-45
+Arica y Parinacota,F,2016,5732,45-55
+Iquique y Tarapaca,F,2016,7898,45-55
+Antofagasta,F,2016,13503,45-55
+Atacama,F,2016,7995,45-55
+Coquimbo,F,2016,21193,45-55
+Viña del Mar y Quillota,F,2016,25665,45-55
+Valparaiso y San Antonio,F,2016,14123,45-55
+Aconcagua,F,2016,7651,45-55
+Libertador B. O'Higgins,F,2016,26280,45-55
+Maule,F,2016,32215,45-55
+Concepcion,F,2016,18317,45-55
+Talcahuano,F,2016,11216,45-55
+Arauco,F,2016,5559,45-55
+Bio-Bio y Los Angeles,F,2016,12982,45-55
+Ñuble,F,2016,15579,45-55
+Araucanía Sur,F,2016,22741,45-55
+Araucanía Norte,F,2016,6310,45-55
+Reloncavi,F,2016,12513,45-55
+Chiloé,F,2016,5650,45-55
+Osorno,F,2016,7748,45-55
+Valdivia,F,2016,10701,45-55
+Aysen,F,2016,3019,45-55
+Magallanes,F,2016,4286,45-55
+Metropolitano Central,F,2016,26965,45-55
+Metropolitano Norte,F,2016,24774,45-55
+Metropolitano Oriente,F,2016,23608,45-55
+Metropolitano Sur-Oriente,F,2016,38599,45-55
+Metropolitano Sur,F,2016,31734,45-55
+Metropolitano Occidente,F,2016,34806,45-55
+Arica y Parinacota,F,2016,5672,45-55
+Iquique y Tarapaca,F,2016,7725,45-55
+Antofagasta,F,2016,13191,45-55
+Atacama,F,2016,8168,45-55
+Coquimbo,F,2016,21435,45-55
+Viña del Mar y Quillota,F,2016,28913,45-55
+Valparaiso y San Antonio,F,2016,15375,45-55
+Aconcagua,F,2016,8305,45-55
+Libertador B. O'Higgins,F,2016,27443,45-55
+Maule,F,2016,32919,45-55
+Concepcion,F,2016,19158,45-55
+Talcahuano,F,2016,12236,45-55
+Arauco,F,2016,5224,45-55
+Bio-Bio y Los Angeles,F,2016,12275,45-55
+Ñuble,F,2016,15372,45-55
+Araucanía Sur,F,2016,21847,45-55
+Araucanía Norte,F,2016,6576,45-55
+Reloncavi,F,2016,12002,45-55
+Chiloé,F,2016,5344,45-55
+Osorno,F,2016,7697,45-55
+Valdivia,F,2016,11257,45-55
+Aysen,F,2016,2846,45-55
+Magallanes,F,2016,4594,45-55
+Metropolitano Central,F,2016,30436,45-55
+Metropolitano Norte,F,2016,25189,45-55
+Metropolitano Oriente,F,2016,25033,45-55
+Metropolitano Sur-Oriente,F,2016,43431,45-55
+Metropolitano Sur,F,2016,34321,45-55
+Metropolitano Occidente,F,2016,36987,45-55
+Arica y Parinacota,F,2016,4707,55-65
+Iquique y Tarapaca,F,2016,6804,55-65
+Antofagasta,F,2016,11918,55-65
+Atacama,F,2016,7057,55-65
+Coquimbo,F,2016,18657,55-65
+Viña del Mar y Quillota,F,2016,26379,55-65
+Valparaiso y San Antonio,F,2016,14493,55-65
+Aconcagua,F,2016,7129,55-65
+Libertador B. O'Higgins,F,2016,23715,55-65
+Maule,F,2016,28015,55-65
+Concepcion,F,2016,16758,55-65
+Talcahuano,F,2016,11044,55-65
+Arauco,F,2016,4553,55-65
+Bio-Bio y Los Angeles,F,2016,10594,55-65
+Ñuble,F,2016,13581,55-65
+Araucanía Sur,F,2016,18485,55-65
+Araucanía Norte,F,2016,5484,55-65
+Reloncavi,F,2016,9504,55-65
+Chiloé,F,2016,4281,55-65
+Osorno,F,2016,6693,55-65
+Valdivia,F,2016,9471,55-65
+Aysen,F,2016,2507,55-65
+Magallanes,F,2016,4236,55-65
+Metropolitano Central,F,2016,27464,55-65
+Metropolitano Norte,F,2016,21400,55-65
+Metropolitano Oriente,F,2016,22992,55-65
+Metropolitano Sur-Oriente,F,2016,39874,55-65
+Metropolitano Sur,F,2016,32104,55-65
+Metropolitano Occidente,F,2016,32361,55-65
+Arica y Parinacota,F,2016,4093,55-65
+Iquique y Tarapaca,F,2016,5825,55-65
+Antofagasta,F,2016,9832,55-65
+Atacama,F,2016,5890,55-65
+Coquimbo,F,2016,15961,55-65
+Viña del Mar y Quillota,F,2016,22127,55-65
+Valparaiso y San Antonio,F,2016,12131,55-65
+Aconcagua,F,2016,5941,55-65
+Libertador B. O'Higgins,F,2016,19137,55-65
+Maule,F,2016,23598,55-65
+Concepcion,F,2016,14588,55-65
+Talcahuano,F,2016,9439,55-65
+Arauco,F,2016,3955,55-65
+Bio-Bio y Los Angeles,F,2016,8754,55-65
+Ñuble,F,2016,11118,55-65
+Araucanía Sur,F,2016,15822,55-65
+Araucanía Norte,F,2016,4943,55-65
+Reloncavi,F,2016,7809,55-65
+Chiloé,F,2016,3583,55-65
+Osorno,F,2016,5681,55-65
+Valdivia,F,2016,7914,55-65
+Aysen,F,2016,2041,55-65
+Magallanes,F,2016,3503,55-65
+Metropolitano Central,F,2016,22593,55-65
+Metropolitano Norte,F,2016,17228,55-65
+Metropolitano Oriente,F,2016,21180,55-65
+Metropolitano Sur-Oriente,F,2016,32607,55-65
+Metropolitano Sur,F,2016,26061,55-65
+Metropolitano Occidente,F,2016,26324,55-65
+Arica y Parinacota,F,2016,3599,65-75
+Iquique y Tarapaca,F,2016,4309,65-75
+Antofagasta,F,2016,7714,65-75
+Atacama,F,2016,4680,65-75
+Coquimbo,F,2016,12854,65-75
+Viña del Mar y Quillota,F,2016,18308,65-75
+Valparaiso y San Antonio,F,2016,10468,65-75
+Aconcagua,F,2016,4841,65-75
+Libertador B. O'Higgins,F,2016,15278,65-75
+Maule,F,2016,19220,65-75
+Concepcion,F,2016,11841,65-75
+Talcahuano,F,2016,7626,65-75
+Arauco,F,2016,2943,65-75
+Bio-Bio y Los Angeles,F,2016,7193,65-75
+Ñuble,F,2016,9357,65-75
+Araucanía Sur,F,2016,13430,65-75
+Araucanía Norte,F,2016,4086,65-75
+Reloncavi,F,2016,6395,65-75
+Chiloé,F,2016,3002,65-75
+Osorno,F,2016,4791,65-75
+Valdivia,F,2016,6597,65-75
+Aysen,F,2016,1546,65-75
+Magallanes,F,2016,2873,65-75
+Metropolitano Central,F,2016,19012,65-75
+Metropolitano Norte,F,2016,14809,65-75
+Metropolitano Oriente,F,2016,19270,65-75
+Metropolitano Sur-Oriente,F,2016,26064,65-75
+Metropolitano Sur,F,2016,21436,65-75
+Metropolitano Occidente,F,2016,22586,65-75
+Arica y Parinacota,F,2016,3068,65-75
+Iquique y Tarapaca,F,2016,3256,65-75
+Antofagasta,F,2016,6204,65-75
+Atacama,F,2016,3706,65-75
+Coquimbo,F,2016,10680,65-75
+Viña del Mar y Quillota,F,2016,16224,65-75
+Valparaiso y San Antonio,F,2016,8995,65-75
+Aconcagua,F,2016,3940,65-75
+Libertador B. O'Higgins,F,2016,12154,65-75
+Maule,F,2016,15201,65-75
+Concepcion,F,2016,9435,65-75
+Talcahuano,F,2016,6412,65-75
+Arauco,F,2016,2323,65-75
+Bio-Bio y Los Angeles,F,2016,6184,65-75
+Ñuble,F,2016,7708,65-75
+Araucanía Sur,F,2016,11393,65-75
+Araucanía Norte,F,2016,3450,65-75
+Reloncavi,F,2016,5223,65-75
+Chiloé,F,2016,2621,65-75
+Osorno,F,2016,4014,65-75
+Valdivia,F,2016,5394,65-75
+Aysen,F,2016,1184,65-75
+Magallanes,F,2016,2457,65-75
+Metropolitano Central,F,2016,15811,65-75
+Metropolitano Norte,F,2016,12276,65-75
+Metropolitano Oriente,F,2016,18096,65-75
+Metropolitano Sur-Oriente,F,2016,20362,65-75
+Metropolitano Sur,F,2016,17847,65-75
+Metropolitano Occidente,F,2016,18628,65-75
+Arica y Parinacota,F,2016,2104,>75
+Iquique y Tarapaca,F,2016,2247,>75
+Antofagasta,F,2016,4592,>75
+Atacama,F,2016,2804,>75
+Coquimbo,F,2016,8183,>75
+Viña del Mar y Quillota,F,2016,12183,>75
+Valparaiso y San Antonio,F,2016,6865,>75
+Aconcagua,F,2016,2962,>75
+Libertador B. O'Higgins,F,2016,8879,>75
+Maule,F,2016,11351,>75
+Concepcion,F,2016,7208,>75
+Talcahuano,F,2016,4726,>75
+Arauco,F,2016,1671,>75
+Bio-Bio y Los Angeles,F,2016,4668,>75
+Ñuble,F,2016,5993,>75
+Araucanía Sur,F,2016,9019,>75
+Araucanía Norte,F,2016,2646,>75
+Reloncavi,F,2016,4104,>75
+Chiloé,F,2016,2148,>75
+Osorno,F,2016,3127,>75
+Valdivia,F,2016,4413,>75
+Aysen,F,2016,891,>75
+Magallanes,F,2016,2012,>75
+Metropolitano Central,F,2016,11603,>75
+Metropolitano Norte,F,2016,9365,>75
+Metropolitano Oriente,F,2016,14550,>75
+Metropolitano Sur-Oriente,F,2016,13934,>75
+Metropolitano Sur,F,2016,13472,>75
+Metropolitano Occidente,F,2016,13623,>75
+Arica y Parinacota,F,2016,2636,>75
+Iquique y Tarapaca,F,2016,2952,>75
+Antofagasta,F,2016,6026,>75
+Atacama,F,2016,3683,>75
+Coquimbo,F,2016,11545,>75
+Viña del Mar y Quillota,F,2016,18316,>75
+Valparaiso y San Antonio,F,2016,10125,>75
+Aconcagua,F,2016,4049,>75
+Libertador B. O'Higgins,F,2016,11866,>75
+Maule,F,2016,14669,>75
+Concepcion,F,2016,9308,>75
+Talcahuano,F,2016,5990,>75
+Arauco,F,2016,2192,>75
+Bio-Bio y Los Angeles,F,2016,6100,>75
+Ñuble,F,2016,7655,>75
+Araucanía Sur,F,2016,12522,>75
+Araucanía Norte,F,2016,3727,>75
+Reloncavi,F,2016,5157,>75
+Chiloé,F,2016,2909,>75
+Osorno,F,2016,4250,>75
+Valdivia,F,2016,5634,>75
+Aysen,F,2016,999,>75
+Magallanes,F,2016,2623,>75
+Metropolitano Central,F,2016,16706,>75
+Metropolitano Norte,F,2016,13005,>75
+Metropolitano Oriente,F,2016,25654,>75
+Metropolitano Sur-Oriente,F,2016,17063,>75
+Metropolitano Sur,F,2016,20365,>75
+Metropolitano Occidente,F,2016,17041,>75
+Arica y Parinacota,F,2017,6589,0-5
+Iquique y Tarapaca,F,2017,9422,0-5
+Antofagasta,F,2017,14810,0-5
+Atacama,F,2017,7900,0-5
+Coquimbo,F,2017,21710,0-5
+Valparaiso y San Antonio,F,2017,12482,0-5
+Viña del Mar y Quillota,F,2017,23525,0-5
+Aconcagua,F,2017,7240,0-5
+Libertador B. O'Higgins,F,2017,23465,0-5
+Maule,F,2017,27454,0-5
+Ñuble,F,2017,13722,0-5
+Concepcion,F,2017,15178,0-5
+Talcahuano,F,2017,6821,0-5
+Bio-Bio y Los Angeles,F,2017,10375,0-5
+Arauco,F,2017,4976,0-5
+Araucanía Norte,F,2017,5809,0-5
+Araucanía Sur,F,2017,20169,0-5
+Valdivia,F,2017,9460,0-5
+Osorno,F,2017,5703,0-5
+Reloncavi,F,2017,11181,0-5
+Chiloé,F,2017,4143,0-5
+Aysen,F,2017,2249,0-5
+Magallanes,F,2017,3498,0-5
+Metropolitano Norte,F,2017,23578,0-5
+Metropolitano Occidente,F,2017,31008,0-5
+Metropolitano Central,F,2017,23355,0-5
+Metropolitano Oriente,F,2017,13439,0-5
+Metropolitano Sur,F,2017,29243,0-5
+Metropolitano Sur-Oriente,F,2017,33949,0-5
+Arica y Parinacota,F,2017,6752,5-15
+Iquique y Tarapaca,F,2017,10543,5-15
+Antofagasta,F,2017,15016,5-15
+Atacama,F,2017,9623,5-15
+Coquimbo,F,2017,24169,5-15
+Valparaiso y San Antonio,F,2017,13635,5-15
+Viña del Mar y Quillota,F,2017,25223,5-15
+Aconcagua,F,2017,7966,5-15
+Libertador B. O'Higgins,F,2017,25975,5-15
+Maule,F,2017,30255,5-15
+Ñuble,F,2017,14762,5-15
+Concepcion,F,2017,16783,5-15
+Talcahuano,F,2017,8215,5-15
+Bio-Bio y Los Angeles,F,2017,12154,5-15
+Arauco,F,2017,5708,5-15
+Araucanía Norte,F,2017,5948,5-15
+Araucanía Sur,F,2017,22404,5-15
+Valdivia,F,2017,10836,5-15
+Osorno,F,2017,7179,5-15
+Reloncavi,F,2017,12679,5-15
+Chiloé,F,2017,5276,5-15
+Aysen,F,2017,3170,5-15
+Magallanes,F,2017,3907,5-15
+Metropolitano Norte,F,2017,25120,5-15
+Metropolitano Occidente,F,2017,34401,5-15
+Metropolitano Central,F,2017,22968,5-15
+Metropolitano Oriente,F,2017,15037,5-15
+Metropolitano Sur,F,2017,32417,5-15
+Metropolitano Sur-Oriente,F,2017,38729,5-15
+Arica y Parinacota,F,2017,6177,5-15
+Iquique y Tarapaca,F,2017,9074,5-15
+Antofagasta,F,2017,13923,5-15
+Atacama,F,2017,8488,5-15
+Coquimbo,F,2017,21101,5-15
+Valparaiso y San Antonio,F,2017,12781,5-15
+Viña del Mar y Quillota,F,2017,23830,5-15
+Aconcagua,F,2017,7423,5-15
+Libertador B. O'Higgins,F,2017,24440,5-15
+Maule,F,2017,28858,5-15
+Ñuble,F,2017,14545,5-15
+Concepcion,F,2017,15908,5-15
+Talcahuano,F,2017,7963,5-15
+Bio-Bio y Los Angeles,F,2017,12221,5-15
+Arauco,F,2017,5551,5-15
+Araucanía Norte,F,2017,6107,5-15
+Araucanía Sur,F,2017,21961,5-15
+Valdivia,F,2017,10315,5-15
+Osorno,F,2017,7006,5-15
+Reloncavi,F,2017,12600,5-15
+Chiloé,F,2017,5570,5-15
+Aysen,F,2017,3138,5-15
+Magallanes,F,2017,3694,5-15
+Metropolitano Norte,F,2017,23921,5-15
+Metropolitano Occidente,F,2017,32888,5-15
+Metropolitano Central,F,2017,21479,5-15
+Metropolitano Oriente,F,2017,14961,5-15
+Metropolitano Sur,F,2017,30340,5-15
+Metropolitano Sur-Oriente,F,2017,37514,5-15
+Arica y Parinacota,F,2017,6391,15-25
+Iquique y Tarapaca,F,2017,9283,15-25
+Antofagasta,F,2017,14840,15-25
+Atacama,F,2017,8638,15-25
+Coquimbo,F,2017,22471,15-25
+Valparaiso y San Antonio,F,2017,14039,15-25
+Viña del Mar y Quillota,F,2017,26115,15-25
+Aconcagua,F,2017,7823,15-25
+Libertador B. O'Higgins,F,2017,26193,15-25
+Maule,F,2017,30702,15-25
+Ñuble,F,2017,15513,15-25
+Concepcion,F,2017,16973,15-25
+Talcahuano,F,2017,8946,15-25
+Bio-Bio y Los Angeles,F,2017,12707,15-25
+Arauco,F,2017,6052,15-25
+Araucanía Norte,F,2017,6534,15-25
+Araucanía Sur,F,2017,23310,15-25
+Valdivia,F,2017,10898,15-25
+Osorno,F,2017,7719,15-25
+Reloncavi,F,2017,13023,15-25
+Chiloé,F,2017,6056,15-25
+Aysen,F,2017,3288,15-25
+Magallanes,F,2017,3931,15-25
+Metropolitano Norte,F,2017,24913,15-25
+Metropolitano Occidente,F,2017,35145,15-25
+Metropolitano Central,F,2017,23142,15-25
+Metropolitano Oriente,F,2017,16269,15-25
+Metropolitano Sur,F,2017,32660,15-25
+Metropolitano Sur-Oriente,F,2017,40289,15-25
+Arica y Parinacota,F,2017,7016,15-25
+Iquique y Tarapaca,F,2017,10621,15-25
+Antofagasta,F,2017,18583,15-25
+Atacama,F,2017,9716,15-25
+Coquimbo,F,2017,24748,15-25
+Valparaiso y San Antonio,F,2017,15780,15-25
+Viña del Mar y Quillota,F,2017,29846,15-25
+Aconcagua,F,2017,8606,15-25
+Libertador B. O'Higgins,F,2017,29034,15-25
+Maule,F,2017,34094,15-25
+Ñuble,F,2017,17796,15-25
+Concepcion,F,2017,19280,15-25
+Talcahuano,F,2017,9567,15-25
+Bio-Bio y Los Angeles,F,2017,13750,15-25
+Arauco,F,2017,6242,15-25
+Araucanía Norte,F,2017,7140,15-25
+Araucanía Sur,F,2017,25913,15-25
+Valdivia,F,2017,11775,15-25
+Osorno,F,2017,8446,15-25
+Reloncavi,F,2017,14312,15-25
+Chiloé,F,2017,6185,15-25
+Aysen,F,2017,3561,15-25
+Magallanes,F,2017,4666,15-25
+Metropolitano Norte,F,2017,29180,15-25
+Metropolitano Occidente,F,2017,40576,15-25
+Metropolitano Central,F,2017,30513,15-25
+Metropolitano Oriente,F,2017,20094,15-25
+Metropolitano Sur,F,2017,36425,15-25
+Metropolitano Sur-Oriente,F,2017,45614,15-25
+Arica y Parinacota,F,2017,7387,25-35
+Iquique y Tarapaca,F,2017,12107,25-35
+Antofagasta,F,2017,21130,25-35
+Atacama,F,2017,10524,25-35
+Coquimbo,F,2017,26979,25-35
+Valparaiso y San Antonio,F,2017,17735,25-35
+Viña del Mar y Quillota,F,2017,33549,25-35
+Aconcagua,F,2017,9496,25-35
+Libertador B. O'Higgins,F,2017,30591,25-35
+Maule,F,2017,36661,25-35
+Ñuble,F,2017,18945,25-35
+Concepcion,F,2017,22010,25-35
+Talcahuano,F,2017,10762,25-35
+Bio-Bio y Los Angeles,F,2017,14411,25-35
+Arauco,F,2017,6392,25-35
+Araucanía Norte,F,2017,7416,25-35
+Araucanía Sur,F,2017,26799,25-35
+Valdivia,F,2017,12287,25-35
+Osorno,F,2017,8537,25-35
+Reloncavi,F,2017,15632,25-35
+Chiloé,F,2017,6365,25-35
+Aysen,F,2017,4056,25-35
+Magallanes,F,2017,5515,25-35
+Metropolitano Norte,F,2017,31506,25-35
+Metropolitano Occidente,F,2017,42262,25-35
+Metropolitano Central,F,2017,40210,25-35
+Metropolitano Oriente,F,2017,24283,25-35
+Metropolitano Sur,F,2017,39996,25-35
+Metropolitano Sur-Oriente,F,2017,48574,25-35
+Arica y Parinacota,F,2017,6835,25-35
+Iquique y Tarapaca,F,2017,11096,25-35
+Antofagasta,F,2017,18506,25-35
+Atacama,F,2017,9088,25-35
+Coquimbo,F,2017,23740,25-35
+Valparaiso y San Antonio,F,2017,15621,25-35
+Viña del Mar y Quillota,F,2017,29624,25-35
+Aconcagua,F,2017,8240,25-35
+Libertador B. O'Higgins,F,2017,26560,25-35
+Maule,F,2017,31571,25-35
+Ñuble,F,2017,16216,25-35
+Concepcion,F,2017,18320,25-35
+Talcahuano,F,2017,8805,25-35
+Bio-Bio y Los Angeles,F,2017,11906,25-35
+Arauco,F,2017,5554,25-35
+Araucanía Norte,F,2017,6360,25-35
+Araucanía Sur,F,2017,22979,25-35
+Valdivia,F,2017,10476,25-35
+Osorno,F,2017,7405,25-35
+Reloncavi,F,2017,13367,25-35
+Chiloé,F,2017,5968,25-35
+Aysen,F,2017,3536,25-35
+Magallanes,F,2017,5234,25-35
+Metropolitano Norte,F,2017,27483,25-35
+Metropolitano Occidente,F,2017,35614,25-35
+Metropolitano Central,F,2017,35314,25-35
+Metropolitano Oriente,F,2017,22319,25-35
+Metropolitano Sur,F,2017,33908,25-35
+Metropolitano Sur-Oriente,F,2017,40727,25-35
+Arica y Parinacota,F,2017,6305,35-45
+Iquique y Tarapaca,F,2017,10363,35-45
+Antofagasta,F,2017,17118,35-45
+Atacama,F,2017,8404,35-45
+Coquimbo,F,2017,22107,35-45
+Valparaiso y San Antonio,F,2017,14788,35-45
+Viña del Mar y Quillota,F,2017,27495,35-45
+Aconcagua,F,2017,8008,35-45
+Libertador B. O'Higgins,F,2017,25549,35-45
+Maule,F,2017,30973,35-45
+Ñuble,F,2017,15675,35-45
+Concepcion,F,2017,17431,35-45
+Talcahuano,F,2017,8744,35-45
+Bio-Bio y Los Angeles,F,2017,12147,35-45
+Arauco,F,2017,5553,35-45
+Araucanía Norte,F,2017,6041,35-45
+Araucanía Sur,F,2017,22024,35-45
+Valdivia,F,2017,9850,35-45
+Osorno,F,2017,7345,35-45
+Reloncavi,F,2017,12715,35-45
+Chiloé,F,2017,5915,35-45
+Aysen,F,2017,3372,35-45
+Magallanes,F,2017,4759,35-45
+Metropolitano Norte,F,2017,26063,35-45
+Metropolitano Occidente,F,2017,34634,35-45
+Metropolitano Central,F,2017,31250,35-45
+Metropolitano Oriente,F,2017,22440,35-45
+Metropolitano Sur,F,2017,32337,35-45
+Metropolitano Sur-Oriente,F,2017,38555,35-45
+Arica y Parinacota,F,2017,5915,35-45
+Iquique y Tarapaca,F,2017,8899,35-45
+Antofagasta,F,2017,15811,35-45
+Atacama,F,2017,7876,35-45
+Coquimbo,F,2017,21933,35-45
+Valparaiso y San Antonio,F,2017,14001,35-45
+Viña del Mar y Quillota,F,2017,26431,35-45
+Aconcagua,F,2017,7492,35-45
+Libertador B. O'Higgins,F,2017,26296,35-45
+Maule,F,2017,31200,35-45
+Ñuble,F,2017,15680,35-45
+Concepcion,F,2017,16759,35-45
+Talcahuano,F,2017,8794,35-45
+Bio-Bio y Los Angeles,F,2017,12077,35-45
+Arauco,F,2017,5540,35-45
+Araucanía Norte,F,2017,5946,35-45
+Araucanía Sur,F,2017,22201,35-45
+Valdivia,F,2017,9831,35-45
+Osorno,F,2017,7593,35-45
+Reloncavi,F,2017,12679,35-45
+Chiloé,F,2017,5762,35-45
+Aysen,F,2017,3165,35-45
+Magallanes,F,2017,4594,35-45
+Metropolitano Norte,F,2017,25624,35-45
+Metropolitano Occidente,F,2017,34795,35-45
+Metropolitano Central,F,2017,28186,35-45
+Metropolitano Oriente,F,2017,23022,35-45
+Metropolitano Sur,F,2017,29754,35-45
+Metropolitano Sur-Oriente,F,2017,36954,35-45
+Arica y Parinacota,F,2017,5965,45-55
+Iquique y Tarapaca,F,2017,8293,45-55
+Antofagasta,F,2017,14682,45-55
+Atacama,F,2017,8007,45-55
+Coquimbo,F,2017,21719,45-55
+Valparaiso y San Antonio,F,2017,13994,45-55
+Viña del Mar y Quillota,F,2017,26355,45-55
+Aconcagua,F,2017,7608,45-55
+Libertador B. O'Higgins,F,2017,26564,45-55
+Maule,F,2017,31751,45-55
+Ñuble,F,2017,17299,45-55
+Concepcion,F,2017,18321,45-55
+Talcahuano,F,2017,9581,45-55
+Bio-Bio y Los Angeles,F,2017,13103,45-55
+Arauco,F,2017,5678,45-55
+Araucanía Norte,F,2017,6402,45-55
+Araucanía Sur,F,2017,23220,45-55
+Valdivia,F,2017,10577,45-55
+Osorno,F,2017,7726,45-55
+Reloncavi,F,2017,12929,45-55
+Chiloé,F,2017,5692,45-55
+Aysen,F,2017,3095,45-55
+Magallanes,F,2017,4277,45-55
+Metropolitano Norte,F,2017,25774,45-55
+Metropolitano Occidente,F,2017,35213,45-55
+Metropolitano Central,F,2017,27958,45-55
+Metropolitano Oriente,F,2017,23997,45-55
+Metropolitano Sur,F,2017,31813,45-55
+Metropolitano Sur-Oriente,F,2017,38859,45-55
+Arica y Parinacota,F,2017,5636,45-55
+Iquique y Tarapaca,F,2017,7792,45-55
+Antofagasta,F,2017,13636,45-55
+Atacama,F,2017,8371,45-55
+Coquimbo,F,2017,22169,45-55
+Valparaiso y San Antonio,F,2017,15362,45-55
+Viña del Mar y Quillota,F,2017,29303,45-55
+Aconcagua,F,2017,8368,45-55
+Libertador B. O'Higgins,F,2017,28103,45-55
+Maule,F,2017,33637,45-55
+Ñuble,F,2017,17346,45-55
+Concepcion,F,2017,19517,45-55
+Talcahuano,F,2017,10858,45-55
+Bio-Bio y Los Angeles,F,2017,12531,45-55
+Arauco,F,2017,5444,45-55
+Araucanía Norte,F,2017,6668,45-55
+Araucanía Sur,F,2017,22447,45-55
+Valdivia,F,2017,11327,45-55
+Osorno,F,2017,7879,45-55
+Reloncavi,F,2017,12530,45-55
+Chiloé,F,2017,5584,45-55
+Aysen,F,2017,2932,45-55
+Magallanes,F,2017,4634,45-55
+Metropolitano Norte,F,2017,25563,45-55
+Metropolitano Occidente,F,2017,37144,45-55
+Metropolitano Central,F,2017,30578,45-55
+Metropolitano Oriente,F,2017,25400,45-55
+Metropolitano Sur,F,2017,34131,45-55
+Metropolitano Sur-Oriente,F,2017,42584,45-55
+Arica y Parinacota,F,2017,5117,55-65
+Iquique y Tarapaca,F,2017,7132,55-65
+Antofagasta,F,2017,12651,55-65
+Atacama,F,2017,7446,55-65
+Coquimbo,F,2017,19653,55-65
+Valparaiso y San Antonio,F,2017,14749,55-65
+Viña del Mar y Quillota,F,2017,27928,55-65
+Aconcagua,F,2017,7502,55-65
+Libertador B. O'Higgins,F,2017,24773,55-65
+Maule,F,2017,29029,55-65
+Ñuble,F,2017,15114,55-65
+Concepcion,F,2017,17571,55-65
+Talcahuano,F,2017,10109,55-65
+Bio-Bio y Los Angeles,F,2017,10898,55-65
+Arauco,F,2017,4688,55-65
+Araucanía Norte,F,2017,5801,55-65
+Araucanía Sur,F,2017,19287,55-65
+Valdivia,F,2017,9965,55-65
+Osorno,F,2017,6938,55-65
+Reloncavi,F,2017,10173,55-65
+Chiloé,F,2017,4471,55-65
+Aysen,F,2017,2630,55-65
+Magallanes,F,2017,4331,55-65
+Metropolitano Norte,F,2017,22593,55-65
+Metropolitano Occidente,F,2017,33558,55-65
+Metropolitano Central,F,2017,28945,55-65
+Metropolitano Oriente,F,2017,23948,55-65
+Metropolitano Sur,F,2017,32947,55-65
+Metropolitano Sur-Oriente,F,2017,41280,55-65
+Arica y Parinacota,F,2017,4202,55-65
+Iquique y Tarapaca,F,2017,6042,55-65
+Antofagasta,F,2017,10271,55-65
+Atacama,F,2017,6093,55-65
+Coquimbo,F,2017,16756,55-65
+Valparaiso y San Antonio,F,2017,12618,55-65
+Viña del Mar y Quillota,F,2017,23610,55-65
+Aconcagua,F,2017,6084,55-65
+Libertador B. O'Higgins,F,2017,20348,55-65
+Maule,F,2017,24564,55-65
+Ñuble,F,2017,12441,55-65
+Concepcion,F,2017,14883,55-65
+Talcahuano,F,2017,8928,55-65
+Bio-Bio y Los Angeles,F,2017,8981,55-65
+Arauco,F,2017,4045,55-65
+Araucanía Norte,F,2017,5012,55-65
+Araucanía Sur,F,2017,16405,55-65
+Valdivia,F,2017,8120,55-65
+Osorno,F,2017,5820,55-65
+Reloncavi,F,2017,8166,55-65
+Chiloé,F,2017,3757,55-65
+Aysen,F,2017,2149,55-65
+Magallanes,F,2017,3755,55-65
+Metropolitano Norte,F,2017,18110,55-65
+Metropolitano Occidente,F,2017,27331,55-65
+Metropolitano Central,F,2017,23717,55-65
+Metropolitano Oriente,F,2017,21678,55-65
+Metropolitano Sur,F,2017,27062,55-65
+Metropolitano Sur-Oriente,F,2017,34010,55-65
+Arica y Parinacota,F,2017,3623,65-75
+Iquique y Tarapaca,F,2017,4425,65-75
+Antofagasta,F,2017,7915,65-75
+Atacama,F,2017,4760,65-75
+Coquimbo,F,2017,12970,65-75
+Valparaiso y San Antonio,F,2017,10228,65-75
+Viña del Mar y Quillota,F,2017,18639,65-75
+Aconcagua,F,2017,4861,65-75
+Libertador B. O'Higgins,F,2017,15436,65-75
+Maule,F,2017,19385,65-75
+Ñuble,F,2017,9861,65-75
+Concepcion,F,2017,11713,65-75
+Talcahuano,F,2017,6928,65-75
+Bio-Bio y Los Angeles,F,2017,7052,65-75
+Arauco,F,2017,3018,65-75
+Araucanía Norte,F,2017,4077,65-75
+Araucanía Sur,F,2017,13320,65-75
+Valdivia,F,2017,6632,65-75
+Osorno,F,2017,4749,65-75
+Reloncavi,F,2017,6475,65-75
+Chiloé,F,2017,2981,65-75
+Aysen,F,2017,1625,65-75
+Magallanes,F,2017,2858,65-75
+Metropolitano Norte,F,2017,14737,65-75
+Metropolitano Occidente,F,2017,22130,65-75
+Metropolitano Central,F,2017,18826,65-75
+Metropolitano Oriente,F,2017,18922,65-75
+Metropolitano Sur,F,2017,20964,65-75
+Metropolitano Sur-Oriente,F,2017,25771,65-75
+Arica y Parinacota,F,2017,3185,65-75
+Iquique y Tarapaca,F,2017,3316,65-75
+Antofagasta,F,2017,6240,65-75
+Atacama,F,2017,3795,65-75
+Coquimbo,F,2017,10852,65-75
+Valparaiso y San Antonio,F,2017,9009,65-75
+Viña del Mar y Quillota,F,2017,16542,65-75
+Aconcagua,F,2017,4048,65-75
+Libertador B. O'Higgins,F,2017,12620,65-75
+Maule,F,2017,15528,65-75
+Ñuble,F,2017,8338,65-75
+Concepcion,F,2017,9584,65-75
+Talcahuano,F,2017,6037,65-75
+Bio-Bio y Los Angeles,F,2017,6264,65-75
+Arauco,F,2017,2365,65-75
+Araucanía Norte,F,2017,3482,65-75
+Araucanía Sur,F,2017,11555,65-75
+Valdivia,F,2017,5588,65-75
+Osorno,F,2017,4052,65-75
+Reloncavi,F,2017,5376,65-75
+Chiloé,F,2017,2593,65-75
+Aysen,F,2017,1185,65-75
+Magallanes,F,2017,2502,65-75
+Metropolitano Norte,F,2017,12342,65-75
+Metropolitano Occidente,F,2017,19107,65-75
+Metropolitano Central,F,2017,16033,65-75
+Metropolitano Oriente,F,2017,18040,65-75
+Metropolitano Sur,F,2017,17956,65-75
+Metropolitano Sur-Oriente,F,2017,20953,65-75
+Arica y Parinacota,F,2017,2189,>75
+Iquique y Tarapaca,F,2017,2302,>75
+Antofagasta,F,2017,4728,>75
+Atacama,F,2017,2897,>75
+Coquimbo,F,2017,8513,>75
+Valparaiso y San Antonio,F,2017,6905,>75
+Viña del Mar y Quillota,F,2017,12836,>75
+Aconcagua,F,2017,2997,>75
+Libertador B. O'Higgins,F,2017,9115,>75
+Maule,F,2017,11665,>75
+Ñuble,F,2017,6443,>75
+Concepcion,F,2017,7399,>75
+Talcahuano,F,2017,4680,>75
+Bio-Bio y Los Angeles,F,2017,4752,>75
+Arauco,F,2017,1753,>75
+Araucanía Norte,F,2017,2717,>75
+Araucanía Sur,F,2017,9176,>75
+Valdivia,F,2017,4465,>75
+Osorno,F,2017,3186,>75
+Reloncavi,F,2017,4263,>75
+Chiloé,F,2017,2229,>75
+Aysen,F,2017,936,>75
+Magallanes,F,2017,2027,>75
+Metropolitano Norte,F,2017,9578,>75
+Metropolitano Occidente,F,2017,14049,>75
+Metropolitano Central,F,2017,11980,>75
+Metropolitano Oriente,F,2017,14602,>75
+Metropolitano Sur,F,2017,13635,>75
+Metropolitano Sur-Oriente,F,2017,14439,>75
+Arica y Parinacota,F,2017,2841,>75
+Iquique y Tarapaca,F,2017,3014,>75
+Antofagasta,F,2017,6270,>75
+Atacama,F,2017,3917,>75
+Coquimbo,F,2017,12205,>75
+Valparaiso y San Antonio,F,2017,10326,>75
+Viña del Mar y Quillota,F,2017,19296,>75
+Aconcagua,F,2017,4200,>75
+Libertador B. O'Higgins,F,2017,12536,>75
+Maule,F,2017,15300,>75
+Ñuble,F,2017,8368,>75
+Concepcion,F,2017,9704,>75
+Talcahuano,F,2017,5922,>75
+Bio-Bio y Los Angeles,F,2017,6358,>75
+Arauco,F,2017,2357,>75
+Araucanía Norte,F,2017,3907,>75
+Araucanía Sur,F,2017,13121,>75
+Valdivia,F,2017,6065,>75
+Osorno,F,2017,4514,>75
+Reloncavi,F,2017,5553,>75
+Chiloé,F,2017,3079,>75
+Aysen,F,2017,1125,>75
+Magallanes,F,2017,2765,>75
+Metropolitano Norte,F,2017,13483,>75
+Metropolitano Occidente,F,2017,17832,>75
+Metropolitano Central,F,2017,17222,>75
+Metropolitano Oriente,F,2017,25918,>75
+Metropolitano Sur,F,2017,20551,>75
+Metropolitano Sur-Oriente,F,2017,17773,>75
+Arica y Parinacota,M,2015,6899,0-5
+Iquique y Tarapaca,M,2015,9882,0-5
+Antofagasta,M,2015,14328,0-5
+Atacama,M,2015,8655,0-5
+Coquimbo,M,2015,22373,0-5
+Viña del Mar y Quillota,M,2015,23093,0-5
+Valparaiso y San Antonio,M,2015,13395,0-5
+Aconcagua,M,2015,7942,0-5
+Libertador B. O'Higgins,M,2015,23129,0-5
+Maule,M,2015,27334,0-5
+Concepcion,M,2015,15768,0-5
+Talcahuano,M,2015,9267,0-5
+Arauco,M,2015,4913,0-5
+Bio-Bio y Los Angeles,M,2015,10404,0-5
+Ñuble,M,2015,11908,0-5
+Araucanía Sur,M,2015,20175,0-5
+Araucanía Norte,M,2015,5561,0-5
+Reloncavi,M,2015,10321,0-5
+Chiloé,M,2015,4283,0-5
+Osorno,M,2015,6077,0-5
+Valdivia,M,2015,9975,0-5
+Aysen,M,2015,2365,0-5
+Magallanes,M,2015,3548,0-5
+Metropolitano Central,M,2015,23108,0-5
+Metropolitano Norte,M,2015,22851,0-5
+Metropolitano Oriente,M,2015,14051,0-5
+Metropolitano Sur-Oriente,M,2015,36555,0-5
+Metropolitano Sur,M,2015,30317,0-5
+Metropolitano Occidente,M,2015,31927,0-5
+Arica y Parinacota,M,2015,6491,5-15
+Iquique y Tarapaca,M,2015,10117,5-15
+Antofagasta,M,2015,13887,5-15
+Atacama,M,2015,9256,5-15
+Coquimbo,M,2015,22664,5-15
+Viña del Mar y Quillota,M,2015,23810,5-15
+Valparaiso y San Antonio,M,2015,13550,5-15
+Aconcagua,M,2015,7764,5-15
+Libertador B. O'Higgins,M,2015,25355,5-15
+Maule,M,2015,30508,5-15
+Concepcion,M,2015,16590,5-15
+Talcahuano,M,2015,9765,5-15
+Arauco,M,2015,5574,5-15
+Bio-Bio y Los Angeles,M,2015,12762,5-15
+Ñuble,M,2015,13259,5-15
+Araucanía Sur,M,2015,22096,5-15
+Araucanía Norte,M,2015,5707,5-15
+Reloncavi,M,2015,12727,5-15
+Chiloé,M,2015,5424,5-15
+Osorno,M,2015,7385,5-15
+Valdivia,M,2015,10763,5-15
+Aysen,M,2015,3116,5-15
+Magallanes,M,2015,3956,5-15
+Metropolitano Central,M,2015,23059,5-15
+Metropolitano Norte,M,2015,25017,5-15
+Metropolitano Oriente,M,2015,15579,5-15
+Metropolitano Sur-Oriente,M,2015,39900,5-15
+Metropolitano Sur,M,2015,32949,5-15
+Metropolitano Occidente,M,2015,35400,5-15
+Arica y Parinacota,M,2015,6135,5-15
+Iquique y Tarapaca,M,2015,9073,5-15
+Antofagasta,M,2015,13030,5-15
+Atacama,M,2015,8665,5-15
+Coquimbo,M,2015,21185,5-15
+Viña del Mar y Quillota,M,2015,23766,5-15
+Valparaiso y San Antonio,M,2015,13523,5-15
+Aconcagua,M,2015,7614,5-15
+Libertador B. O'Higgins,M,2015,24969,5-15
+Maule,M,2015,30169,5-15
+Concepcion,M,2015,16070,5-15
+Talcahuano,M,2015,9641,5-15
+Arauco,M,2015,5757,5-15
+Bio-Bio y Los Angeles,M,2015,12537,5-15
+Ñuble,M,2015,13642,5-15
+Araucanía Sur,M,2015,22245,5-15
+Araucanía Norte,M,2015,6206,5-15
+Reloncavi,M,2015,12645,5-15
+Chiloé,M,2015,5994,5-15
+Osorno,M,2015,7317,5-15
+Valdivia,M,2015,10638,5-15
+Aysen,M,2015,3090,5-15
+Magallanes,M,2015,3757,5-15
+Metropolitano Central,M,2015,22200,5-15
+Metropolitano Norte,M,2015,24426,5-15
+Metropolitano Oriente,M,2015,15721,5-15
+Metropolitano Sur-Oriente,M,2015,39539,5-15
+Metropolitano Sur,M,2015,31479,5-15
+Metropolitano Occidente,M,2015,34618,5-15
+Arica y Parinacota,M,2015,6476,15-25
+Iquique y Tarapaca,M,2015,9265,15-25
+Antofagasta,M,2015,14872,15-25
+Atacama,M,2015,9049,15-25
+Coquimbo,M,2015,22815,15-25
+Viña del Mar y Quillota,M,2015,26924,15-25
+Valparaiso y San Antonio,M,2015,14883,15-25
+Aconcagua,M,2015,8456,15-25
+Libertador B. O'Higgins,M,2015,27463,15-25
+Maule,M,2015,32875,15-25
+Concepcion,M,2015,17846,15-25
+Talcahuano,M,2015,10876,15-25
+Arauco,M,2015,6273,15-25
+Bio-Bio y Los Angeles,M,2015,13944,15-25
+Ñuble,M,2015,15420,15-25
+Araucanía Sur,M,2015,24997,15-25
+Araucanía Norte,M,2015,6843,15-25
+Reloncavi,M,2015,13303,15-25
+Chiloé,M,2015,6428,15-25
+Osorno,M,2015,7896,15-25
+Valdivia,M,2015,11697,15-25
+Aysen,M,2015,3100,15-25
+Magallanes,M,2015,4170,15-25
+Metropolitano Central,M,2015,24119,15-25
+Metropolitano Norte,M,2015,25461,15-25
+Metropolitano Oriente,M,2015,17526,15-25
+Metropolitano Sur-Oriente,M,2015,43358,15-25
+Metropolitano Sur,M,2015,34946,15-25
+Metropolitano Occidente,M,2015,38213,15-25
+Arica y Parinacota,M,2015,5613,15-25
+Iquique y Tarapaca,M,2015,8141,15-25
+Antofagasta,M,2015,13654,15-25
+Atacama,M,2015,8764,15-25
+Coquimbo,M,2015,21225,15-25
+Viña del Mar y Quillota,M,2015,24626,15-25
+Valparaiso y San Antonio,M,2015,13872,15-25
+Aconcagua,M,2015,7644,15-25
+Libertador B. O'Higgins,M,2015,25030,15-25
+Maule,M,2015,29933,15-25
+Concepcion,M,2015,17033,15-25
+Talcahuano,M,2015,10202,15-25
+Arauco,M,2015,5422,15-25
+Bio-Bio y Los Angeles,M,2015,12711,15-25
+Ñuble,M,2015,13710,15-25
+Araucanía Sur,M,2015,22401,15-25
+Araucanía Norte,M,2015,6128,15-25
+Reloncavi,M,2015,11287,15-25
+Chiloé,M,2015,5382,15-25
+Osorno,M,2015,7051,15-25
+Valdivia,M,2015,10810,15-25
+Aysen,M,2015,2929,15-25
+Magallanes,M,2015,3843,15-25
+Metropolitano Central,M,2015,21622,15-25
+Metropolitano Norte,M,2015,21158,15-25
+Metropolitano Oriente,M,2015,15819,15-25
+Metropolitano Sur-Oriente,M,2015,37460,15-25
+Metropolitano Sur,M,2015,29690,15-25
+Metropolitano Occidente,M,2015,33286,15-25
+Arica y Parinacota,M,2015,5076,25-35
+Iquique y Tarapaca,M,2015,8075,25-35
+Antofagasta,M,2015,13822,25-35
+Atacama,M,2015,8120,25-35
+Coquimbo,M,2015,20551,25-35
+Viña del Mar y Quillota,M,2015,24075,25-35
+Valparaiso y San Antonio,M,2015,13623,25-35
+Aconcagua,M,2015,7515,25-35
+Libertador B. O'Higgins,M,2015,24496,25-35
+Maule,M,2015,28083,25-35
+Concepcion,M,2015,16501,25-35
+Talcahuano,M,2015,9892,25-35
+Arauco,M,2015,5297,25-35
+Bio-Bio y Los Angeles,M,2015,11307,25-35
+Ñuble,M,2015,12933,25-35
+Araucanía Sur,M,2015,20219,25-35
+Araucanía Norte,M,2015,5726,25-35
+Reloncavi,M,2015,10802,25-35
+Chiloé,M,2015,4677,25-35
+Osorno,M,2015,6605,25-35
+Valdivia,M,2015,9296,25-35
+Aysen,M,2015,2843,25-35
+Magallanes,M,2015,3994,25-35
+Metropolitano Central,M,2015,22701,25-35
+Metropolitano Norte,M,2015,20275,25-35
+Metropolitano Oriente,M,2015,15317,25-35
+Metropolitano Sur-Oriente,M,2015,34663,25-35
+Metropolitano Sur,M,2015,28467,25-35
+Metropolitano Occidente,M,2015,31031,25-35
+Arica y Parinacota,M,2015,4226,25-35
+Iquique y Tarapaca,M,2015,7509,25-35
+Antofagasta,M,2015,12395,25-35
+Atacama,M,2015,6945,25-35
+Coquimbo,M,2015,17941,25-35
+Viña del Mar y Quillota,M,2015,21193,25-35
+Valparaiso y San Antonio,M,2015,12127,25-35
+Aconcagua,M,2015,6574,25-35
+Libertador B. O'Higgins,M,2015,20866,25-35
+Maule,M,2015,23985,25-35
+Concepcion,M,2015,14144,25-35
+Talcahuano,M,2015,8305,25-35
+Arauco,M,2015,4679,25-35
+Bio-Bio y Los Angeles,M,2015,9966,25-35
+Ñuble,M,2015,10960,25-35
+Araucanía Sur,M,2015,17494,25-35
+Araucanía Norte,M,2015,4914,25-35
+Reloncavi,M,2015,9498,25-35
+Chiloé,M,2015,4377,25-35
+Osorno,M,2015,5791,25-35
+Valdivia,M,2015,7659,25-35
+Aysen,M,2015,2540,25-35
+Magallanes,M,2015,3645,25-35
+Metropolitano Central,M,2015,21409,25-35
+Metropolitano Norte,M,2015,18564,25-35
+Metropolitano Oriente,M,2015,13530,25-35
+Metropolitano Sur-Oriente,M,2015,30683,25-35
+Metropolitano Sur,M,2015,25698,25-35
+Metropolitano Occidente,M,2015,27627,25-35
+Arica y Parinacota,M,2015,3565,35-45
+Iquique y Tarapaca,M,2015,6822,35-45
+Antofagasta,M,2015,11388,35-45
+Atacama,M,2015,6424,35-45
+Coquimbo,M,2015,16492,35-45
+Viña del Mar y Quillota,M,2015,18912,35-45
+Valparaiso y San Antonio,M,2015,11445,35-45
+Aconcagua,M,2015,6140,35-45
+Libertador B. O'Higgins,M,2015,20825,35-45
+Maule,M,2015,23474,35-45
+Concepcion,M,2015,12636,35-45
+Talcahuano,M,2015,7606,35-45
+Arauco,M,2015,4673,35-45
+Bio-Bio y Los Angeles,M,2015,9516,35-45
+Ñuble,M,2015,10285,35-45
+Araucanía Sur,M,2015,15997,35-45
+Araucanía Norte,M,2015,4425,35-45
+Reloncavi,M,2015,9220,35-45
+Chiloé,M,2015,4559,35-45
+Osorno,M,2015,5704,35-45
+Valdivia,M,2015,7093,35-45
+Aysen,M,2015,2434,35-45
+Magallanes,M,2015,3467,35-45
+Metropolitano Central,M,2015,19687,35-45
+Metropolitano Norte,M,2015,17734,35-45
+Metropolitano Oriente,M,2015,13122,35-45
+Metropolitano Sur-Oriente,M,2015,27768,35-45
+Metropolitano Sur,M,2015,23277,35-45
+Metropolitano Occidente,M,2015,26273,35-45
+Arica y Parinacota,M,2015,4005,35-45
+Iquique y Tarapaca,M,2015,6702,35-45
+Antofagasta,M,2015,11888,35-45
+Atacama,M,2015,6978,35-45
+Coquimbo,M,2015,17939,35-45
+Viña del Mar y Quillota,M,2015,19761,35-45
+Valparaiso y San Antonio,M,2015,12171,35-45
+Aconcagua,M,2015,6351,35-45
+Libertador B. O'Higgins,M,2015,22812,35-45
+Maule,M,2015,25933,35-45
+Concepcion,M,2015,14740,35-45
+Talcahuano,M,2015,8730,35-45
+Arauco,M,2015,4982,35-45
+Bio-Bio y Los Angeles,M,2015,10606,35-45
+Ñuble,M,2015,12476,35-45
+Araucanía Sur,M,2015,18671,35-45
+Araucanía Norte,M,2015,5009,35-45
+Reloncavi,M,2015,10641,35-45
+Chiloé,M,2015,4957,35-45
+Osorno,M,2015,6465,35-45
+Valdivia,M,2015,7979,35-45
+Aysen,M,2015,2508,35-45
+Magallanes,M,2015,3729,35-45
+Metropolitano Central,M,2015,20821,35-45
+Metropolitano Norte,M,2015,20417,35-45
+Metropolitano Oriente,M,2015,15029,35-45
+Metropolitano Sur-Oriente,M,2015,31387,35-45
+Metropolitano Sur,M,2015,26066,35-45
+Metropolitano Occidente,M,2015,30319,35-45
+Arica y Parinacota,M,2015,3797,45-55
+Iquique y Tarapaca,M,2015,6350,45-55
+Antofagasta,M,2015,10977,45-55
+Atacama,M,2015,7303,45-55
+Coquimbo,M,2015,18313,45-55
+Viña del Mar y Quillota,M,2015,20923,45-55
+Valparaiso y San Antonio,M,2015,12510,45-55
+Aconcagua,M,2015,6548,45-55
+Libertador B. O'Higgins,M,2015,23980,45-55
+Maule,M,2015,27690,45-55
+Concepcion,M,2015,15812,45-55
+Talcahuano,M,2015,9748,45-55
+Arauco,M,2015,5061,45-55
+Bio-Bio y Los Angeles,M,2015,11417,45-55
+Ñuble,M,2015,13703,45-55
+Araucanía Sur,M,2015,19332,45-55
+Araucanía Norte,M,2015,5568,45-55
+Reloncavi,M,2015,11038,45-55
+Chiloé,M,2015,5104,45-55
+Osorno,M,2015,6729,45-55
+Valdivia,M,2015,9108,45-55
+Aysen,M,2015,2513,45-55
+Magallanes,M,2015,3852,45-55
+Metropolitano Central,M,2015,20866,45-55
+Metropolitano Norte,M,2015,20362,45-55
+Metropolitano Oriente,M,2015,15118,45-55
+Metropolitano Sur-Oriente,M,2015,31287,45-55
+Metropolitano Sur,M,2015,26972,45-55
+Metropolitano Occidente,M,2015,29612,45-55
+Arica y Parinacota,M,2015,3898,45-55
+Iquique y Tarapaca,M,2015,6559,45-55
+Antofagasta,M,2015,11355,45-55
+Atacama,M,2015,7409,45-55
+Coquimbo,M,2015,17961,45-55
+Viña del Mar y Quillota,M,2015,22812,45-55
+Valparaiso y San Antonio,M,2015,13339,45-55
+Aconcagua,M,2015,7111,45-55
+Libertador B. O'Higgins,M,2015,24808,45-55
+Maule,M,2015,29027,45-55
+Concepcion,M,2015,16180,45-55
+Talcahuano,M,2015,10431,45-55
+Arauco,M,2015,4972,45-55
+Bio-Bio y Los Angeles,M,2015,11336,45-55
+Ñuble,M,2015,14002,45-55
+Araucanía Sur,M,2015,18936,45-55
+Araucanía Norte,M,2015,5797,45-55
+Reloncavi,M,2015,10452,45-55
+Chiloé,M,2015,4916,45-55
+Osorno,M,2015,6895,45-55
+Valdivia,M,2015,9755,45-55
+Aysen,M,2015,2527,45-55
+Magallanes,M,2015,4047,45-55
+Metropolitano Central,M,2015,23314,45-55
+Metropolitano Norte,M,2015,20722,45-55
+Metropolitano Oriente,M,2015,16258,45-55
+Metropolitano Sur-Oriente,M,2015,34304,45-55
+Metropolitano Sur,M,2015,29575,45-55
+Metropolitano Occidente,M,2015,31596,45-55
+Arica y Parinacota,M,2015,3422,55-65
+Iquique y Tarapaca,M,2015,5992,55-65
+Antofagasta,M,2015,9939,55-65
+Atacama,M,2015,6294,55-65
+Coquimbo,M,2015,16025,55-65
+Viña del Mar y Quillota,M,2015,20526,55-65
+Valparaiso y San Antonio,M,2015,12257,55-65
+Aconcagua,M,2015,6022,55-65
+Libertador B. O'Higgins,M,2015,21181,55-65
+Maule,M,2015,24765,55-65
+Concepcion,M,2015,13956,55-65
+Talcahuano,M,2015,9064,55-65
+Arauco,M,2015,4266,55-65
+Bio-Bio y Los Angeles,M,2015,9442,55-65
+Ñuble,M,2015,11957,55-65
+Araucanía Sur,M,2015,16308,55-65
+Araucanía Norte,M,2015,5099,55-65
+Reloncavi,M,2015,8543,55-65
+Chiloé,M,2015,3810,55-65
+Osorno,M,2015,5839,55-65
+Valdivia,M,2015,8240,55-65
+Aysen,M,2015,2148,55-65
+Magallanes,M,2015,3978,55-65
+Metropolitano Central,M,2015,20803,55-65
+Metropolitano Norte,M,2015,17467,55-65
+Metropolitano Oriente,M,2015,14423,55-65
+Metropolitano Sur-Oriente,M,2015,31269,55-65
+Metropolitano Sur,M,2015,26920,55-65
+Metropolitano Occidente,M,2015,26709,55-65
+Arica y Parinacota,M,2015,3068,55-65
+Iquique y Tarapaca,M,2015,5108,55-65
+Antofagasta,M,2015,8177,55-65
+Atacama,M,2015,5056,55-65
+Coquimbo,M,2015,12929,55-65
+Viña del Mar y Quillota,M,2015,16516,55-65
+Valparaiso y San Antonio,M,2015,9690,55-65
+Aconcagua,M,2015,4901,55-65
+Libertador B. O'Higgins,M,2015,16738,55-65
+Maule,M,2015,20290,55-65
+Concepcion,M,2015,11277,55-65
+Talcahuano,M,2015,7163,55-65
+Arauco,M,2015,3456,55-65
+Bio-Bio y Los Angeles,M,2015,7554,55-65
+Ñuble,M,2015,9690,55-65
+Araucanía Sur,M,2015,13099,55-65
+Araucanía Norte,M,2015,4083,55-65
+Reloncavi,M,2015,6648,55-65
+Chiloé,M,2015,2913,55-65
+Osorno,M,2015,4666,55-65
+Valdivia,M,2015,6491,55-65
+Aysen,M,2015,1746,55-65
+Magallanes,M,2015,3053,55-65
+Metropolitano Central,M,2015,16152,55-65
+Metropolitano Norte,M,2015,13476,55-65
+Metropolitano Oriente,M,2015,12142,55-65
+Metropolitano Sur-Oriente,M,2015,24529,55-65
+Metropolitano Sur,M,2015,20374,55-65
+Metropolitano Occidente,M,2015,20871,55-65
+Arica y Parinacota,M,2015,2867,65-75
+Iquique y Tarapaca,M,2015,3959,65-75
+Antofagasta,M,2015,6328,65-75
+Atacama,M,2015,3967,65-75
+Coquimbo,M,2015,10605,65-75
+Viña del Mar y Quillota,M,2015,14239,65-75
+Valparaiso y San Antonio,M,2015,8541,65-75
+Aconcagua,M,2015,4295,65-75
+Libertador B. O'Higgins,M,2015,13670,65-75
+Maule,M,2015,17365,65-75
+Concepcion,M,2015,9102,65-75
+Talcahuano,M,2015,5887,65-75
+Arauco,M,2015,2822,65-75
+Bio-Bio y Los Angeles,M,2015,6372,65-75
+Ñuble,M,2015,8351,65-75
+Araucanía Sur,M,2015,11448,65-75
+Araucanía Norte,M,2015,3509,65-75
+Reloncavi,M,2015,5801,65-75
+Chiloé,M,2015,2544,65-75
+Osorno,M,2015,4068,65-75
+Valdivia,M,2015,5657,65-75
+Aysen,M,2015,1455,65-75
+Magallanes,M,2015,2633,65-75
+Metropolitano Central,M,2015,14076,65-75
+Metropolitano Norte,M,2015,11788,65-75
+Metropolitano Oriente,M,2015,12165,65-75
+Metropolitano Sur-Oriente,M,2015,20657,65-75
+Metropolitano Sur,M,2015,17173,65-75
+Metropolitano Occidente,M,2015,18606,65-75
+Arica y Parinacota,M,2015,2417,65-75
+Iquique y Tarapaca,M,2015,2729,65-75
+Antofagasta,M,2015,4802,65-75
+Atacama,M,2015,3439,65-75
+Coquimbo,M,2015,8962,65-75
+Viña del Mar y Quillota,M,2015,11891,65-75
+Valparaiso y San Antonio,M,2015,6784,65-75
+Aconcagua,M,2015,3433,65-75
+Libertador B. O'Higgins,M,2015,10460,65-75
+Maule,M,2015,13347,65-75
+Concepcion,M,2015,6910,65-75
+Talcahuano,M,2015,4492,65-75
+Arauco,M,2015,2133,65-75
+Bio-Bio y Los Angeles,M,2015,5452,65-75
+Ñuble,M,2015,6624,65-75
+Araucanía Sur,M,2015,9401,65-75
+Araucanía Norte,M,2015,2964,65-75
+Reloncavi,M,2015,4509,65-75
+Chiloé,M,2015,2156,65-75
+Osorno,M,2015,3214,65-75
+Valdivia,M,2015,4370,65-75
+Aysen,M,2015,1130,65-75
+Magallanes,M,2015,2016,65-75
+Metropolitano Central,M,2015,11438,65-75
+Metropolitano Norte,M,2015,9395,65-75
+Metropolitano Oriente,M,2015,10841,65-75
+Metropolitano Sur-Oriente,M,2015,14820,65-75
+Metropolitano Sur,M,2015,13486,65-75
+Metropolitano Occidente,M,2015,14786,65-75
+Arica y Parinacota,M,2015,1649,>75
+Iquique y Tarapaca,M,2015,1642,>75
+Antofagasta,M,2015,3042,>75
+Atacama,M,2015,2466,>75
+Coquimbo,M,2015,6326,>75
+Viña del Mar y Quillota,M,2015,8263,>75
+Valparaiso y San Antonio,M,2015,4528,>75
+Aconcagua,M,2015,2181,>75
+Libertador B. O'Higgins,M,2015,7232,>75
+Maule,M,2015,9324,>75
+Concepcion,M,2015,4545,>75
+Talcahuano,M,2015,3046,>75
+Arauco,M,2015,1480,>75
+Bio-Bio y Los Angeles,M,2015,3782,>75
+Ñuble,M,2015,4740,>75
+Araucanía Sur,M,2015,6814,>75
+Araucanía Norte,M,2015,2203,>75
+Reloncavi,M,2015,3150,>75
+Chiloé,M,2015,1483,>75
+Osorno,M,2015,2445,>75
+Valdivia,M,2015,3291,>75
+Aysen,M,2015,765,>75
+Magallanes,M,2015,1387,>75
+Metropolitano Central,M,2015,7274,>75
+Metropolitano Norte,M,2015,6206,>75
+Metropolitano Oriente,M,2015,8004,>75
+Metropolitano Sur-Oriente,M,2015,8886,>75
+Metropolitano Sur,M,2015,8845,>75
+Metropolitano Occidente,M,2015,9812,>75
+Arica y Parinacota,M,2015,1455,>75
+Iquique y Tarapaca,M,2015,1454,>75
+Antofagasta,M,2015,2698,>75
+Atacama,M,2015,2110,>75
+Coquimbo,M,2015,6255,>75
+Viña del Mar y Quillota,M,2015,8001,>75
+Valparaiso y San Antonio,M,2015,4465,>75
+Aconcagua,M,2015,2186,>75
+Libertador B. O'Higgins,M,2015,7158,>75
+Maule,M,2015,8585,>75
+Concepcion,M,2015,4196,>75
+Talcahuano,M,2015,2608,>75
+Arauco,M,2015,1509,>75
+Bio-Bio y Los Angeles,M,2015,3546,>75
+Ñuble,M,2015,4190,>75
+Araucanía Sur,M,2015,6623,>75
+Araucanía Norte,M,2015,2219,>75
+Reloncavi,M,2015,2880,>75
+Chiloé,M,2015,1412,>75
+Osorno,M,2015,2339,>75
+Valdivia,M,2015,3213,>75
+Aysen,M,2015,677,>75
+Magallanes,M,2015,1218,>75
+Metropolitano Central,M,2015,6658,>75
+Metropolitano Norte,M,2015,5493,>75
+Metropolitano Oriente,M,2015,8986,>75
+Metropolitano Sur-Oriente,M,2015,7204,>75
+Metropolitano Sur,M,2015,8808,>75
+Metropolitano Occidente,M,2015,8139,>75
+Arica y Parinacota,M,2016,6886,0-5
+Iquique y Tarapaca,M,2016,10009,0-5
+Antofagasta,M,2016,14381,0-5
+Atacama,M,2016,8182,0-5
+Coquimbo,M,2016,22303,0-5
+Viña del Mar y Quillota,M,2016,23388,0-5
+Valparaiso y San Antonio,M,2016,13193,0-5
+Aconcagua,M,2016,7632,0-5
+Libertador B. O'Higgins,M,2016,23346,0-5
+Maule,M,2016,27431,0-5
+Concepcion,M,2016,15601,0-5
+Talcahuano,M,2016,8965,0-5
+Arauco,M,2016,4831,0-5
+Bio-Bio y Los Angeles,M,2016,10434,0-5
+Ñuble,M,2016,11862,0-5
+Araucanía Sur,M,2016,19794,0-5
+Araucanía Norte,M,2016,5777,0-5
+Reloncavi,M,2016,10390,0-5
+Chiloé,M,2016,4257,0-5
+Osorno,M,2016,5849,0-5
+Valdivia,M,2016,9907,0-5
+Aysen,M,2016,2366,0-5
+Magallanes,M,2016,3501,0-5
+Metropolitano Central,M,2016,23097,0-5
+Metropolitano Norte,M,2016,23138,0-5
+Metropolitano Oriente,M,2016,13410,0-5
+Metropolitano Sur-Oriente,M,2016,35500,0-5
+Metropolitano Sur,M,2016,29688,0-5
+Metropolitano Occidente,M,2016,31292,0-5
+Arica y Parinacota,M,2016,6808,5-15
+Iquique y Tarapaca,M,2016,10683,5-15
+Antofagasta,M,2016,14241,5-15
+Atacama,M,2016,9437,5-15
+Coquimbo,M,2016,23306,5-15
+Viña del Mar y Quillota,M,2016,24696,5-15
+Valparaiso y San Antonio,M,2016,13614,5-15
+Aconcagua,M,2016,8004,5-15
+Libertador B. O'Higgins,M,2016,25856,5-15
+Maule,M,2016,30985,5-15
+Concepcion,M,2016,16795,5-15
+Talcahuano,M,2016,9976,5-15
+Arauco,M,2016,5718,5-15
+Bio-Bio y Los Angeles,M,2016,12592,5-15
+Ñuble,M,2016,13280,5-15
+Araucanía Sur,M,2016,22442,5-15
+Araucanía Norte,M,2016,5758,5-15
+Reloncavi,M,2016,12747,5-15
+Chiloé,M,2016,5487,5-15
+Osorno,M,2016,7397,5-15
+Valdivia,M,2016,11000,5-15
+Aysen,M,2016,3192,5-15
+Magallanes,M,2016,3851,5-15
+Metropolitano Central,M,2016,23161,5-15
+Metropolitano Norte,M,2016,25307,5-15
+Metropolitano Oriente,M,2016,15354,5-15
+Metropolitano Sur-Oriente,M,2016,39853,5-15
+Metropolitano Sur,M,2016,33092,5-15
+Metropolitano Occidente,M,2016,35647,5-15
+Arica y Parinacota,M,2016,6213,5-15
+Iquique y Tarapaca,M,2016,9219,5-15
+Antofagasta,M,2016,13372,5-15
+Atacama,M,2016,8586,5-15
+Coquimbo,M,2016,21290,5-15
+Viña del Mar y Quillota,M,2016,23781,5-15
+Valparaiso y San Antonio,M,2016,13198,5-15
+Aconcagua,M,2016,7414,5-15
+Libertador B. O'Higgins,M,2016,24645,5-15
+Maule,M,2016,29845,5-15
+Concepcion,M,2016,15915,5-15
+Talcahuano,M,2016,9449,5-15
+Arauco,M,2016,5669,5-15
+Bio-Bio y Los Angeles,M,2016,12451,5-15
+Ñuble,M,2016,13470,5-15
+Araucanía Sur,M,2016,22022,5-15
+Araucanía Norte,M,2016,6075,5-15
+Reloncavi,M,2016,12503,5-15
+Chiloé,M,2016,5734,5-15
+Osorno,M,2016,7161,5-15
+Valdivia,M,2016,10552,5-15
+Aysen,M,2016,3252,5-15
+Magallanes,M,2016,3816,5-15
+Metropolitano Central,M,2016,21890,5-15
+Metropolitano Norte,M,2016,24224,5-15
+Metropolitano Oriente,M,2016,15180,5-15
+Metropolitano Sur-Oriente,M,2016,38683,5-15
+Metropolitano Sur,M,2016,30922,5-15
+Metropolitano Occidente,M,2016,33768,5-15
+Arica y Parinacota,M,2016,6513,15-25
+Iquique y Tarapaca,M,2016,9546,15-25
+Antofagasta,M,2016,14737,15-25
+Atacama,M,2016,9036,15-25
+Coquimbo,M,2016,22757,15-25
+Viña del Mar y Quillota,M,2016,26759,15-25
+Valparaiso y San Antonio,M,2016,14637,15-25
+Aconcagua,M,2016,8369,15-25
+Libertador B. O'Higgins,M,2016,27167,15-25
+Maule,M,2016,32486,15-25
+Concepcion,M,2016,17501,15-25
+Talcahuano,M,2016,10586,15-25
+Arauco,M,2016,6264,15-25
+Bio-Bio y Los Angeles,M,2016,13680,15-25
+Ñuble,M,2016,15029,15-25
+Araucanía Sur,M,2016,24917,15-25
+Araucanía Norte,M,2016,6766,15-25
+Reloncavi,M,2016,13271,15-25
+Chiloé,M,2016,6183,15-25
+Osorno,M,2016,7756,15-25
+Valdivia,M,2016,11567,15-25
+Aysen,M,2016,3214,15-25
+Magallanes,M,2016,4111,15-25
+Metropolitano Central,M,2016,23819,15-25
+Metropolitano Norte,M,2016,25272,15-25
+Metropolitano Oriente,M,2016,17038,15-25
+Metropolitano Sur-Oriente,M,2016,42118,15-25
+Metropolitano Sur,M,2016,34022,15-25
+Metropolitano Occidente,M,2016,37293,15-25
+Arica y Parinacota,M,2016,6300,15-25
+Iquique y Tarapaca,M,2016,9118,15-25
+Antofagasta,M,2016,14971,15-25
+Atacama,M,2016,9225,15-25
+Coquimbo,M,2016,23067,15-25
+Viña del Mar y Quillota,M,2016,26984,15-25
+Valparaiso y San Antonio,M,2016,14667,15-25
+Aconcagua,M,2016,8207,15-25
+Libertador B. O'Higgins,M,2016,26653,15-25
+Maule,M,2016,31518,15-25
+Concepcion,M,2016,18003,15-25
+Talcahuano,M,2016,10843,15-25
+Arauco,M,2016,5659,15-25
+Bio-Bio y Los Angeles,M,2016,13138,15-25
+Ñuble,M,2016,14595,15-25
+Araucanía Sur,M,2016,23825,15-25
+Araucanía Norte,M,2016,6472,15-25
+Reloncavi,M,2016,11846,15-25
+Chiloé,M,2016,5761,15-25
+Osorno,M,2016,7501,15-25
+Valdivia,M,2016,11347,15-25
+Aysen,M,2016,3320,15-25
+Magallanes,M,2016,4007,15-25
+Metropolitano Central,M,2016,23499,15-25
+Metropolitano Norte,M,2016,22728,15-25
+Metropolitano Oriente,M,2016,16629,15-25
+Metropolitano Sur-Oriente,M,2016,38970,15-25
+Metropolitano Sur,M,2016,31078,15-25
+Metropolitano Occidente,M,2016,34524,15-25
+Arica y Parinacota,M,2016,5637,25-35
+Iquique y Tarapaca,M,2016,8799,25-35
+Antofagasta,M,2016,14739,25-35
+Atacama,M,2016,8751,25-35
+Coquimbo,M,2016,22178,25-35
+Viña del Mar y Quillota,M,2016,25697,25-35
+Valparaiso y San Antonio,M,2016,14347,25-35
+Aconcagua,M,2016,7808,25-35
+Libertador B. O'Higgins,M,2016,25601,25-35
+Maule,M,2016,29570,25-35
+Concepcion,M,2016,17537,25-35
+Talcahuano,M,2016,10353,25-35
+Arauco,M,2016,5508,25-35
+Bio-Bio y Los Angeles,M,2016,11830,25-35
+Ñuble,M,2016,13479,25-35
+Araucanía Sur,M,2016,21808,25-35
+Araucanía Norte,M,2016,6094,25-35
+Reloncavi,M,2016,11426,25-35
+Chiloé,M,2016,4934,25-35
+Osorno,M,2016,6876,25-35
+Valdivia,M,2016,10122,25-35
+Aysen,M,2016,3254,25-35
+Magallanes,M,2016,4148,25-35
+Metropolitano Central,M,2016,24813,25-35
+Metropolitano Norte,M,2016,21910,25-35
+Metropolitano Oriente,M,2016,16134,25-35
+Metropolitano Sur-Oriente,M,2016,35757,25-35
+Metropolitano Sur,M,2016,29750,25-35
+Metropolitano Occidente,M,2016,32254,25-35
+Arica y Parinacota,M,2016,4677,25-35
+Iquique y Tarapaca,M,2016,8135,25-35
+Antofagasta,M,2016,13007,25-35
+Atacama,M,2016,7037,25-35
+Coquimbo,M,2016,18787,25-35
+Viña del Mar y Quillota,M,2016,22331,25-35
+Valparaiso y San Antonio,M,2016,12495,25-35
+Aconcagua,M,2016,6693,25-35
+Libertador B. O'Higgins,M,2016,21414,25-35
+Maule,M,2016,24640,25-35
+Concepcion,M,2016,14366,25-35
+Talcahuano,M,2016,8439,25-35
+Arauco,M,2016,4820,25-35
+Bio-Bio y Los Angeles,M,2016,10037,25-35
+Ñuble,M,2016,11455,25-35
+Araucanía Sur,M,2016,18108,25-35
+Araucanía Norte,M,2016,5102,25-35
+Reloncavi,M,2016,9969,25-35
+Chiloé,M,2016,4410,25-35
+Osorno,M,2016,5837,25-35
+Valdivia,M,2016,8113,25-35
+Aysen,M,2016,2750,25-35
+Magallanes,M,2016,3757,25-35
+Metropolitano Central,M,2016,23264,25-35
+Metropolitano Norte,M,2016,19668,25-35
+Metropolitano Oriente,M,2016,13916,25-35
+Metropolitano Sur-Oriente,M,2016,31003,25-35
+Metropolitano Sur,M,2016,26130,25-35
+Metropolitano Occidente,M,2016,28245,25-35
+Arica y Parinacota,M,2016,3966,35-45
+Iquique y Tarapaca,M,2016,7363,35-45
+Antofagasta,M,2016,12220,35-45
+Atacama,M,2016,6727,35-45
+Coquimbo,M,2016,17238,35-45
+Viña del Mar y Quillota,M,2016,20071,35-45
+Valparaiso y San Antonio,M,2016,11912,35-45
+Aconcagua,M,2016,6471,35-45
+Libertador B. O'Higgins,M,2016,21589,35-45
+Maule,M,2016,24102,35-45
+Concepcion,M,2016,13255,35-45
+Talcahuano,M,2016,7838,35-45
+Arauco,M,2016,4915,35-45
+Bio-Bio y Los Angeles,M,2016,9814,35-45
+Ñuble,M,2016,10679,35-45
+Araucanía Sur,M,2016,16914,35-45
+Araucanía Norte,M,2016,4702,35-45
+Reloncavi,M,2016,9506,35-45
+Chiloé,M,2016,4800,35-45
+Osorno,M,2016,5784,35-45
+Valdivia,M,2016,7438,35-45
+Aysen,M,2016,2634,35-45
+Magallanes,M,2016,3525,35-45
+Metropolitano Central,M,2016,21411,35-45
+Metropolitano Norte,M,2016,18983,35-45
+Metropolitano Oriente,M,2016,13609,35-45
+Metropolitano Sur-Oriente,M,2016,29139,35-45
+Metropolitano Sur,M,2016,24697,35-45
+Metropolitano Occidente,M,2016,27067,35-45
+Arica y Parinacota,M,2016,4195,35-45
+Iquique y Tarapaca,M,2016,7136,35-45
+Antofagasta,M,2016,12462,35-45
+Atacama,M,2016,6971,35-45
+Coquimbo,M,2016,18487,35-45
+Viña del Mar y Quillota,M,2016,20504,35-45
+Valparaiso y San Antonio,M,2016,12359,35-45
+Aconcagua,M,2016,6442,35-45
+Libertador B. O'Higgins,M,2016,23146,35-45
+Maule,M,2016,26555,35-45
+Concepcion,M,2016,14355,35-45
+Talcahuano,M,2016,8658,35-45
+Arauco,M,2016,4977,35-45
+Bio-Bio y Los Angeles,M,2016,10546,35-45
+Ñuble,M,2016,12237,35-45
+Araucanía Sur,M,2016,19076,35-45
+Araucanía Norte,M,2016,5033,35-45
+Reloncavi,M,2016,10722,35-45
+Chiloé,M,2016,5021,35-45
+Osorno,M,2016,6482,35-45
+Valdivia,M,2016,8006,35-45
+Aysen,M,2016,2645,35-45
+Magallanes,M,2016,3854,35-45
+Metropolitano Central,M,2016,21600,35-45
+Metropolitano Norte,M,2016,20577,35-45
+Metropolitano Oriente,M,2016,15141,35-45
+Metropolitano Sur-Oriente,M,2016,31034,35-45
+Metropolitano Sur,M,2016,26029,35-45
+Metropolitano Occidente,M,2016,30163,35-45
+Arica y Parinacota,M,2016,4105,45-55
+Iquique y Tarapaca,M,2016,6621,45-55
+Antofagasta,M,2016,11682,45-55
+Atacama,M,2016,7438,45-55
+Coquimbo,M,2016,18778,45-55
+Viña del Mar y Quillota,M,2016,21067,45-55
+Valparaiso y San Antonio,M,2016,12469,45-55
+Aconcagua,M,2016,6602,45-55
+Libertador B. O'Higgins,M,2016,24186,45-55
+Maule,M,2016,27544,45-55
+Concepcion,M,2016,15856,45-55
+Talcahuano,M,2016,9573,45-55
+Arauco,M,2016,5160,45-55
+Bio-Bio y Los Angeles,M,2016,11466,45-55
+Ñuble,M,2016,13821,45-55
+Araucanía Sur,M,2016,19649,45-55
+Araucanía Norte,M,2016,5577,45-55
+Reloncavi,M,2016,11332,45-55
+Chiloé,M,2016,5232,45-55
+Osorno,M,2016,6619,45-55
+Valdivia,M,2016,9175,45-55
+Aysen,M,2016,2600,45-55
+Magallanes,M,2016,3864,45-55
+Metropolitano Central,M,2016,21226,45-55
+Metropolitano Norte,M,2016,21065,45-55
+Metropolitano Oriente,M,2016,15560,45-55
+Metropolitano Sur-Oriente,M,2016,31720,45-55
+Metropolitano Sur,M,2016,27195,45-55
+Metropolitano Occidente,M,2016,30366,45-55
+Arica y Parinacota,M,2016,4138,45-55
+Iquique y Tarapaca,M,2016,6969,45-55
+Antofagasta,M,2016,11811,45-55
+Atacama,M,2016,7614,45-55
+Coquimbo,M,2016,18836,45-55
+Viña del Mar y Quillota,M,2016,23789,45-55
+Valparaiso y San Antonio,M,2016,13704,45-55
+Aconcagua,M,2016,7312,45-55
+Libertador B. O'Higgins,M,2016,25810,45-55
+Maule,M,2016,30412,45-55
+Concepcion,M,2016,16746,45-55
+Talcahuano,M,2016,10599,45-55
+Arauco,M,2016,5135,45-55
+Bio-Bio y Los Angeles,M,2016,11867,45-55
+Ñuble,M,2016,14561,45-55
+Araucanía Sur,M,2016,19849,45-55
+Araucanía Norte,M,2016,6060,45-55
+Reloncavi,M,2016,11090,45-55
+Chiloé,M,2016,5183,45-55
+Osorno,M,2016,7291,45-55
+Valdivia,M,2016,10252,45-55
+Aysen,M,2016,2736,45-55
+Magallanes,M,2016,4132,45-55
+Metropolitano Central,M,2016,23766,45-55
+Metropolitano Norte,M,2016,21530,45-55
+Metropolitano Oriente,M,2016,16793,45-55
+Metropolitano Sur-Oriente,M,2016,34558,45-55
+Metropolitano Sur,M,2016,30034,45-55
+Metropolitano Occidente,M,2016,32412,45-55
+Arica y Parinacota,M,2016,3645,55-65
+Iquique y Tarapaca,M,2016,6266,55-65
+Antofagasta,M,2016,10583,55-65
+Atacama,M,2016,6733,55-65
+Coquimbo,M,2016,17044,55-65
+Viña del Mar y Quillota,M,2016,22004,55-65
+Valparaiso y San Antonio,M,2016,12958,55-65
+Aconcagua,M,2016,6422,55-65
+Libertador B. O'Higgins,M,2016,22659,55-65
+Maule,M,2016,26326,55-65
+Concepcion,M,2016,14682,55-65
+Talcahuano,M,2016,9689,55-65
+Arauco,M,2016,4477,55-65
+Bio-Bio y Los Angeles,M,2016,10048,55-65
+Ñuble,M,2016,12702,55-65
+Araucanía Sur,M,2016,17316,55-65
+Araucanía Norte,M,2016,5368,55-65
+Reloncavi,M,2016,9116,55-65
+Chiloé,M,2016,4076,55-65
+Osorno,M,2016,6170,55-65
+Valdivia,M,2016,8721,55-65
+Aysen,M,2016,2354,55-65
+Magallanes,M,2016,4187,55-65
+Metropolitano Central,M,2016,22061,55-65
+Metropolitano Norte,M,2016,18568,55-65
+Metropolitano Oriente,M,2016,15225,55-65
+Metropolitano Sur-Oriente,M,2016,32805,55-65
+Metropolitano Sur,M,2016,28338,55-65
+Metropolitano Occidente,M,2016,28535,55-65
+Arica y Parinacota,M,2016,3246,55-65
+Iquique y Tarapaca,M,2016,5617,55-65
+Antofagasta,M,2016,8949,55-65
+Atacama,M,2016,5417,55-65
+Coquimbo,M,2016,14001,55-65
+Viña del Mar y Quillota,M,2016,17747,55-65
+Valparaiso y San Antonio,M,2016,10314,55-65
+Aconcagua,M,2016,5208,55-65
+Libertador B. O'Higgins,M,2016,17982,55-65
+Maule,M,2016,21668,55-65
+Concepcion,M,2016,12003,55-65
+Talcahuano,M,2016,7620,55-65
+Arauco,M,2016,3696,55-65
+Bio-Bio y Los Angeles,M,2016,8083,55-65
+Ñuble,M,2016,10387,55-65
+Araucanía Sur,M,2016,14110,55-65
+Araucanía Norte,M,2016,4507,55-65
+Reloncavi,M,2016,7192,55-65
+Chiloé,M,2016,3200,55-65
+Osorno,M,2016,4967,55-65
+Valdivia,M,2016,7057,55-65
+Aysen,M,2016,1916,55-65
+Magallanes,M,2016,3315,55-65
+Metropolitano Central,M,2016,17356,55-65
+Metropolitano Norte,M,2016,14621,55-65
+Metropolitano Oriente,M,2016,12866,55-65
+Metropolitano Sur-Oriente,M,2016,26186,55-65
+Metropolitano Sur,M,2016,21893,55-65
+Metropolitano Occidente,M,2016,22088,55-65
+Arica y Parinacota,M,2016,2957,65-75
+Iquique y Tarapaca,M,2016,4055,65-75
+Antofagasta,M,2016,6645,65-75
+Atacama,M,2016,4212,65-75
+Coquimbo,M,2016,11183,65-75
+Viña del Mar y Quillota,M,2016,14886,65-75
+Valparaiso y San Antonio,M,2016,8778,65-75
+Aconcagua,M,2016,4453,65-75
+Libertador B. O'Higgins,M,2016,14187,65-75
+Maule,M,2016,17881,65-75
+Concepcion,M,2016,9517,65-75
+Talcahuano,M,2016,6134,65-75
+Arauco,M,2016,2880,65-75
+Bio-Bio y Los Angeles,M,2016,6544,65-75
+Ñuble,M,2016,8419,65-75
+Araucanía Sur,M,2016,11762,65-75
+Araucanía Norte,M,2016,3556,65-75
+Reloncavi,M,2016,5999,65-75
+Chiloé,M,2016,2588,65-75
+Osorno,M,2016,4125,65-75
+Valdivia,M,2016,5796,65-75
+Aysen,M,2016,1519,65-75
+Magallanes,M,2016,2659,65-75
+Metropolitano Central,M,2016,14447,65-75
+Metropolitano Norte,M,2016,12059,65-75
+Metropolitano Oriente,M,2016,12184,65-75
+Metropolitano Sur-Oriente,M,2016,21450,65-75
+Metropolitano Sur,M,2016,17574,65-75
+Metropolitano Occidente,M,2016,18900,65-75
+Arica y Parinacota,M,2016,2523,65-75
+Iquique y Tarapaca,M,2016,2992,65-75
+Antofagasta,M,2016,4926,65-75
+Atacama,M,2016,3455,65-75
+Coquimbo,M,2016,9141,65-75
+Viña del Mar y Quillota,M,2016,12330,65-75
+Valparaiso y San Antonio,M,2016,7057,65-75
+Aconcagua,M,2016,3542,65-75
+Libertador B. O'Higgins,M,2016,10931,65-75
+Maule,M,2016,13918,65-75
+Concepcion,M,2016,7180,65-75
+Talcahuano,M,2016,4669,65-75
+Arauco,M,2016,2238,65-75
+Bio-Bio y Los Angeles,M,2016,5554,65-75
+Ñuble,M,2016,6845,65-75
+Araucanía Sur,M,2016,9723,65-75
+Araucanía Norte,M,2016,2986,65-75
+Reloncavi,M,2016,4655,65-75
+Chiloé,M,2016,2171,65-75
+Osorno,M,2016,3345,65-75
+Valdivia,M,2016,4595,65-75
+Aysen,M,2016,1190,65-75
+Magallanes,M,2016,2135,65-75
+Metropolitano Central,M,2016,11757,65-75
+Metropolitano Norte,M,2016,9830,65-75
+Metropolitano Oriente,M,2016,11138,65-75
+Metropolitano Sur-Oriente,M,2016,15823,65-75
+Metropolitano Sur,M,2016,13980,65-75
+Metropolitano Occidente,M,2016,15308,65-75
+Arica y Parinacota,M,2016,1708,>75
+Iquique y Tarapaca,M,2016,1715,>75
+Antofagasta,M,2016,3152,>75
+Atacama,M,2016,2496,>75
+Coquimbo,M,2016,6548,>75
+Viña del Mar y Quillota,M,2016,8667,>75
+Valparaiso y San Antonio,M,2016,4735,>75
+Aconcagua,M,2016,2322,>75
+Libertador B. O'Higgins,M,2016,7583,>75
+Maule,M,2016,9714,>75
+Concepcion,M,2016,4794,>75
+Talcahuano,M,2016,3202,>75
+Arauco,M,2016,1548,>75
+Bio-Bio y Los Angeles,M,2016,3884,>75
+Ñuble,M,2016,4987,>75
+Araucanía Sur,M,2016,7030,>75
+Araucanía Norte,M,2016,2296,>75
+Reloncavi,M,2016,3310,>75
+Chiloé,M,2016,1595,>75
+Osorno,M,2016,2485,>75
+Valdivia,M,2016,3326,>75
+Aysen,M,2016,817,>75
+Magallanes,M,2016,1452,>75
+Metropolitano Central,M,2016,7792,>75
+Metropolitano Norte,M,2016,6498,>75
+Metropolitano Oriente,M,2016,8281,>75
+Metropolitano Sur-Oriente,M,2016,9566,>75
+Metropolitano Sur,M,2016,9070,>75
+Metropolitano Occidente,M,2016,10264,>75
+Arica y Parinacota,M,2016,1644,>75
+Iquique y Tarapaca,M,2016,1614,>75
+Antofagasta,M,2016,3024,>75
+Atacama,M,2016,2432,>75
+Coquimbo,M,2016,7031,>75
+Viña del Mar y Quillota,M,2016,8973,>75
+Valparaiso y San Antonio,M,2016,4922,>75
+Aconcagua,M,2016,2443,>75
+Libertador B. O'Higgins,M,2016,7989,>75
+Maule,M,2016,9513,>75
+Concepcion,M,2016,4670,>75
+Talcahuano,M,2016,3001,>75
+Arauco,M,2016,1680,>75
+Bio-Bio y Los Angeles,M,2016,4010,>75
+Ñuble,M,2016,4791,>75
+Araucanía Sur,M,2016,7421,>75
+Araucanía Norte,M,2016,2428,>75
+Reloncavi,M,2016,3235,>75
+Chiloé,M,2016,1582,>75
+Osorno,M,2016,2633,>75
+Valdivia,M,2016,3560,>75
+Aysen,M,2016,745,>75
+Magallanes,M,2016,1370,>75
+Metropolitano Central,M,2016,7314,>75
+Metropolitano Norte,M,2016,6105,>75
+Metropolitano Oriente,M,2016,10072,>75
+Metropolitano Sur-Oriente,M,2016,8082,>75
+Metropolitano Sur,M,2016,9754,>75
+Metropolitano Occidente,M,2016,9087,>75
+Arica y Parinacota,M,2017,6733,0-5
+Iquique y Tarapaca,M,2017,9950,0-5
+Antofagasta,M,2017,15333,0-5
+Atacama,M,2017,8363,0-5
+Coquimbo,M,2017,22736,0-5
+Valparaiso y San Antonio,M,2017,13035,0-5
+Viña del Mar y Quillota,M,2017,23934,0-5
+Aconcagua,M,2017,7440,0-5
+Libertador B. O'Higgins,M,2017,24175,0-5
+Maule,M,2017,28407,0-5
+Ñuble,M,2017,14260,0-5
+Concepcion,M,2017,15850,0-5
+Talcahuano,M,2017,6951,0-5
+Bio-Bio y Los Angeles,M,2017,10888,0-5
+Arauco,M,2017,4936,0-5
+Araucanía Norte,M,2017,6243,0-5
+Araucanía Sur,M,2017,20795,0-5
+Valdivia,M,2017,9794,0-5
+Osorno,M,2017,5943,0-5
+Reloncavi,M,2017,11359,0-5
+Chiloé,M,2017,4237,0-5
+Aysen,M,2017,2264,0-5
+Magallanes,M,2017,3575,0-5
+Metropolitano Norte,M,2017,24115,0-5
+Metropolitano Occidente,M,2017,31982,0-5
+Metropolitano Central,M,2017,24106,0-5
+Metropolitano Oriente,M,2017,13804,0-5
+Metropolitano Sur,M,2017,30139,0-5
+Metropolitano Sur-Oriente,M,2017,35309,0-5
+Arica y Parinacota,M,2017,7104,5-15
+Iquique y Tarapaca,M,2017,11096,5-15
+Antofagasta,M,2017,15586,5-15
+Atacama,M,2017,9657,5-15
+Coquimbo,M,2017,24909,5-15
+Valparaiso y San Antonio,M,2017,14081,5-15
+Viña del Mar y Quillota,M,2017,26223,5-15
+Aconcagua,M,2017,8256,5-15
+Libertador B. O'Higgins,M,2017,27025,5-15
+Maule,M,2017,31672,5-15
+Ñuble,M,2017,15307,5-15
+Concepcion,M,2017,17532,5-15
+Talcahuano,M,2017,8570,5-15
+Bio-Bio y Los Angeles,M,2017,12498,5-15
+Arauco,M,2017,5953,5-15
+Araucanía Norte,M,2017,6251,5-15
+Araucanía Sur,M,2017,23270,5-15
+Valdivia,M,2017,11110,5-15
+Osorno,M,2017,7438,5-15
+Reloncavi,M,2017,13035,5-15
+Chiloé,M,2017,5613,5-15
+Aysen,M,2017,3215,5-15
+Magallanes,M,2017,3899,5-15
+Metropolitano Norte,M,2017,26256,5-15
+Metropolitano Occidente,M,2017,36100,5-15
+Metropolitano Central,M,2017,24201,5-15
+Metropolitano Oriente,M,2017,15748,5-15
+Metropolitano Sur,M,2017,33989,5-15
+Metropolitano Sur-Oriente,M,2017,40624,5-15
+Arica y Parinacota,M,2017,6368,5-15
+Iquique y Tarapaca,M,2017,9645,5-15
+Antofagasta,M,2017,14453,5-15
+Atacama,M,2017,9104,5-15
+Coquimbo,M,2017,22407,5-15
+Valparaiso y San Antonio,M,2017,13360,5-15
+Viña del Mar y Quillota,M,2017,24867,5-15
+Aconcagua,M,2017,7597,5-15
+Libertador B. O'Higgins,M,2017,26036,5-15
+Maule,M,2017,30458,5-15
+Ñuble,M,2017,15086,5-15
+Concepcion,M,2017,16624,5-15
+Talcahuano,M,2017,8516,5-15
+Bio-Bio y Los Angeles,M,2017,12786,5-15
+Arauco,M,2017,5869,5-15
+Araucanía Norte,M,2017,6395,5-15
+Araucanía Sur,M,2017,22655,5-15
+Valdivia,M,2017,10689,5-15
+Osorno,M,2017,7280,5-15
+Reloncavi,M,2017,13088,5-15
+Chiloé,M,2017,5736,5-15
+Aysen,M,2017,3406,5-15
+Magallanes,M,2017,3939,5-15
+Metropolitano Norte,M,2017,24911,5-15
+Metropolitano Occidente,M,2017,34271,5-15
+Metropolitano Central,M,2017,22753,5-15
+Metropolitano Oriente,M,2017,15417,5-15
+Metropolitano Sur,M,2017,31454,5-15
+Metropolitano Sur-Oriente,M,2017,39059,5-15
+Arica y Parinacota,M,2017,6396,15-25
+Iquique y Tarapaca,M,2017,9602,15-25
+Antofagasta,M,2017,14949,15-25
+Atacama,M,2017,8882,15-25
+Coquimbo,M,2017,22894,15-25
+Valparaiso y San Antonio,M,2017,14183,15-25
+Viña del Mar y Quillota,M,2017,26630,15-25
+Aconcagua,M,2017,8167,15-25
+Libertador B. O'Higgins,M,2017,26556,15-25
+Maule,M,2017,31507,15-25
+Ñuble,M,2017,16043,15-25
+Concepcion,M,2017,17173,15-25
+Talcahuano,M,2017,9073,15-25
+Bio-Bio y Los Angeles,M,2017,12903,15-25
+Arauco,M,2017,6262,15-25
+Araucanía Norte,M,2017,6737,15-25
+Araucanía Sur,M,2017,24308,15-25
+Valdivia,M,2017,11148,15-25
+Osorno,M,2017,7570,15-25
+Reloncavi,M,2017,13267,15-25
+Chiloé,M,2017,6164,15-25
+Aysen,M,2017,3288,15-25
+Magallanes,M,2017,4024,15-25
+Metropolitano Norte,M,2017,25032,15-25
+Metropolitano Occidente,M,2017,35889,15-25
+Metropolitano Central,M,2017,23577,15-25
+Metropolitano Oriente,M,2017,16360,15-25
+Metropolitano Sur,M,2017,32972,15-25
+Metropolitano Sur-Oriente,M,2017,40607,15-25
+Arica y Parinacota,M,2017,6338,15-25
+Iquique y Tarapaca,M,2017,9531,15-25
+Antofagasta,M,2017,16134,15-25
+Atacama,M,2017,9184,15-25
+Coquimbo,M,2017,23602,15-25
+Valparaiso y San Antonio,M,2017,15067,15-25
+Viña del Mar y Quillota,M,2017,28016,15-25
+Aconcagua,M,2017,8292,15-25
+Libertador B. O'Higgins,M,2017,27719,15-25
+Maule,M,2017,31282,15-25
+Ñuble,M,2017,15845,15-25
+Concepcion,M,2017,18080,15-25
+Talcahuano,M,2017,9317,15-25
+Bio-Bio y Los Angeles,M,2017,12959,15-25
+Arauco,M,2017,5669,15-25
+Araucanía Norte,M,2017,6403,15-25
+Araucanía Sur,M,2017,23880,15-25
+Valdivia,M,2017,11276,15-25
+Osorno,M,2017,7711,15-25
+Reloncavi,M,2017,12644,15-25
+Chiloé,M,2017,5993,15-25
+Aysen,M,2017,3327,15-25
+Magallanes,M,2017,4211,15-25
+Metropolitano Norte,M,2017,24300,15-25
+Metropolitano Occidente,M,2017,35337,15-25
+Metropolitano Central,M,2017,26015,15-25
+Metropolitano Oriente,M,2017,17123,15-25
+Metropolitano Sur,M,2017,32185,15-25
+Metropolitano Sur-Oriente,M,2017,39482,15-25
+Arica y Parinacota,M,2017,5979,25-35
+Iquique y Tarapaca,M,2017,9968,25-35
+Antofagasta,M,2017,16813,25-35
+Atacama,M,2017,9606,25-35
+Coquimbo,M,2017,23768,25-35
+Valparaiso y San Antonio,M,2017,15390,25-35
+Viña del Mar y Quillota,M,2017,28179,25-35
+Aconcagua,M,2017,8225,25-35
+Libertador B. O'Higgins,M,2017,28082,25-35
+Maule,M,2017,30815,25-35
+Ñuble,M,2017,15746,25-35
+Concepcion,M,2017,18985,25-35
+Talcahuano,M,2017,9580,25-35
+Bio-Bio y Los Angeles,M,2017,12458,25-35
+Arauco,M,2017,5701,25-35
+Araucanía Norte,M,2017,6317,25-35
+Araucanía Sur,M,2017,23153,25-35
+Valdivia,M,2017,10722,25-35
+Osorno,M,2017,7400,25-35
+Reloncavi,M,2017,12460,25-35
+Chiloé,M,2017,5350,25-35
+Aysen,M,2017,3514,25-35
+Magallanes,M,2017,4366,25-35
+Metropolitano Norte,M,2017,25268,25-35
+Metropolitano Occidente,M,2017,35257,25-35
+Metropolitano Central,M,2017,30918,25-35
+Metropolitano Oriente,M,2017,18124,25-35
+Metropolitano Sur,M,2017,32740,25-35
+Metropolitano Sur-Oriente,M,2017,38641,25-35
+Arica y Parinacota,M,2017,4972,25-35
+Iquique y Tarapaca,M,2017,8803,25-35
+Antofagasta,M,2017,14560,25-35
+Atacama,M,2017,7647,25-35
+Coquimbo,M,2017,20279,25-35
+Valparaiso y San Antonio,M,2017,13429,25-35
+Viña del Mar y Quillota,M,2017,23869,25-35
+Aconcagua,M,2017,7131,25-35
+Libertador B. O'Higgins,M,2017,23507,25-35
+Maule,M,2017,25699,25-35
+Ñuble,M,2017,13038,25-35
+Concepcion,M,2017,15096,25-35
+Talcahuano,M,2017,7695,25-35
+Bio-Bio y Los Angeles,M,2017,10122,25-35
+Arauco,M,2017,4830,25-35
+Araucanía Norte,M,2017,5125,25-35
+Araucanía Sur,M,2017,18898,25-35
+Valdivia,M,2017,8349,25-35
+Osorno,M,2017,6291,25-35
+Reloncavi,M,2017,10629,25-35
+Chiloé,M,2017,4583,25-35
+Aysen,M,2017,2924,25-35
+Magallanes,M,2017,4054,25-35
+Metropolitano Norte,M,2017,22344,25-35
+Metropolitano Occidente,M,2017,30136,25-35
+Metropolitano Central,M,2017,28403,25-35
+Metropolitano Oriente,M,2017,15311,25-35
+Metropolitano Sur,M,2017,28304,25-35
+Metropolitano Sur-Oriente,M,2017,32469,25-35
+Arica y Parinacota,M,2017,4290,35-45
+Iquique y Tarapaca,M,2017,8054,35-45
+Antofagasta,M,2017,13679,35-45
+Atacama,M,2017,7254,35-45
+Coquimbo,M,2017,18590,35-45
+Valparaiso y San Antonio,M,2017,12782,35-45
+Viña del Mar y Quillota,M,2017,22328,35-45
+Aconcagua,M,2017,6917,35-45
+Libertador B. O'Higgins,M,2017,23222,35-45
+Maule,M,2017,25245,35-45
+Ñuble,M,2017,12478,35-45
+Concepcion,M,2017,14262,35-45
+Talcahuano,M,2017,7142,35-45
+Bio-Bio y Los Angeles,M,2017,10214,35-45
+Arauco,M,2017,5062,35-45
+Araucanía Norte,M,2017,4883,35-45
+Araucanía Sur,M,2017,18027,35-45
+Valdivia,M,2017,7844,35-45
+Osorno,M,2017,6120,35-45
+Reloncavi,M,2017,10469,35-45
+Chiloé,M,2017,4979,35-45
+Aysen,M,2017,2786,35-45
+Magallanes,M,2017,3689,35-45
+Metropolitano Norte,M,2017,21499,35-45
+Metropolitano Occidente,M,2017,29185,35-45
+Metropolitano Central,M,2017,25785,35-45
+Metropolitano Oriente,M,2017,15104,35-45
+Metropolitano Sur,M,2017,27249,35-45
+Metropolitano Sur-Oriente,M,2017,31476,35-45
+Arica y Parinacota,M,2017,4387,35-45
+Iquique y Tarapaca,M,2017,7570,35-45
+Antofagasta,M,2017,13133,35-45
+Atacama,M,2017,7114,35-45
+Coquimbo,M,2017,18911,35-45
+Valparaiso y San Antonio,M,2017,12499,35-45
+Viña del Mar y Quillota,M,2017,21269,35-45
+Aconcagua,M,2017,6640,35-45
+Libertador B. O'Higgins,M,2017,23741,35-45
+Maule,M,2017,26937,35-45
+Ñuble,M,2017,13255,35-45
+Concepcion,M,2017,14197,35-45
+Talcahuano,M,2017,7337,35-45
+Bio-Bio y Los Angeles,M,2017,10452,35-45
+Arauco,M,2017,5018,35-45
+Araucanía Norte,M,2017,5100,35-45
+Araucanía Sur,M,2017,18883,35-45
+Valdivia,M,2017,7990,35-45
+Osorno,M,2017,6522,35-45
+Reloncavi,M,2017,10973,35-45
+Chiloé,M,2017,5069,35-45
+Aysen,M,2017,2753,35-45
+Magallanes,M,2017,3997,35-45
+Metropolitano Norte,M,2017,21189,35-45
+Metropolitano Occidente,M,2017,30033,35-45
+Metropolitano Central,M,2017,23251,35-45
+Metropolitano Oriente,M,2017,15169,35-45
+Metropolitano Sur,M,2017,26181,35-45
+Metropolitano Sur-Oriente,M,2017,30948,35-45
+Arica y Parinacota,M,2017,4460,45-55
+Iquique y Tarapaca,M,2017,7122,45-55
+Antofagasta,M,2017,12741,45-55
+Atacama,M,2017,7569,45-55
+Coquimbo,M,2017,19086,45-55
+Valparaiso y San Antonio,M,2017,12749,45-55
+Viña del Mar y Quillota,M,2017,21810,45-55
+Aconcagua,M,2017,6688,45-55
+Libertador B. O'Higgins,M,2017,24767,45-55
+Maule,M,2017,27677,45-55
+Ñuble,M,2017,15319,45-55
+Concepcion,M,2017,15996,45-55
+Talcahuano,M,2017,8383,45-55
+Bio-Bio y Los Angeles,M,2017,11462,45-55
+Arauco,M,2017,5186,45-55
+Araucanía Norte,M,2017,5661,45-55
+Araucanía Sur,M,2017,20218,45-55
+Valdivia,M,2017,9023,45-55
+Osorno,M,2017,6770,45-55
+Reloncavi,M,2017,11790,45-55
+Chiloé,M,2017,5360,45-55
+Aysen,M,2017,2751,45-55
+Magallanes,M,2017,3959,45-55
+Metropolitano Norte,M,2017,22154,45-55
+Metropolitano Occidente,M,2017,31402,45-55
+Metropolitano Central,M,2017,22479,45-55
+Metropolitano Oriente,M,2017,16342,45-55
+Metropolitano Sur,M,2017,27845,45-55
+Metropolitano Sur-Oriente,M,2017,32284,45-55
+Arica y Parinacota,M,2017,4195,45-55
+Iquique y Tarapaca,M,2017,7056,45-55
+Antofagasta,M,2017,12203,45-55
+Atacama,M,2017,7888,45-55
+Coquimbo,M,2017,19646,45-55
+Valparaiso y San Antonio,M,2017,13908,45-55
+Viña del Mar y Quillota,M,2017,24463,45-55
+Aconcagua,M,2017,7459,45-55
+Libertador B. O'Higgins,M,2017,26549,45-55
+Maule,M,2017,30939,45-55
+Ñuble,M,2017,16063,45-55
+Concepcion,M,2017,17124,45-55
+Talcahuano,M,2017,9514,45-55
+Bio-Bio y Los Angeles,M,2017,12003,45-55
+Arauco,M,2017,5300,45-55
+Araucanía Norte,M,2017,6193,45-55
+Araucanía Sur,M,2017,20481,45-55
+Valdivia,M,2017,10480,45-55
+Osorno,M,2017,7349,45-55
+Reloncavi,M,2017,11778,45-55
+Chiloé,M,2017,5418,45-55
+Aysen,M,2017,2819,45-55
+Magallanes,M,2017,4183,45-55
+Metropolitano Norte,M,2017,22312,45-55
+Metropolitano Occidente,M,2017,32752,45-55
+Metropolitano Central,M,2017,24243,45-55
+Metropolitano Oriente,M,2017,17133,45-55
+Metropolitano Sur,M,2017,29932,45-55
+Metropolitano Sur-Oriente,M,2017,34835,45-55
+Arica y Parinacota,M,2017,3917,55-65
+Iquique y Tarapaca,M,2017,6615,55-65
+Antofagasta,M,2017,11363,55-65
+Atacama,M,2017,7053,55-65
+Coquimbo,M,2017,17951,55-65
+Valparaiso y San Antonio,M,2017,13323,55-65
+Viña del Mar y Quillota,M,2017,23401,55-65
+Aconcagua,M,2017,6769,55-65
+Libertador B. O'Higgins,M,2017,23896,55-65
+Maule,M,2017,27707,55-65
+Ñuble,M,2017,14495,55-65
+Concepcion,M,2017,15450,55-65
+Talcahuano,M,2017,9005,55-65
+Bio-Bio y Los Angeles,M,2017,10620,55-65
+Arauco,M,2017,4693,55-65
+Araucanía Norte,M,2017,5654,55-65
+Araucanía Sur,M,2017,18245,55-65
+Valdivia,M,2017,9355,55-65
+Osorno,M,2017,6553,55-65
+Reloncavi,M,2017,9895,55-65
+Chiloé,M,2017,4431,55-65
+Aysen,M,2017,2491,55-65
+Magallanes,M,2017,4315,55-65
+Metropolitano Norte,M,2017,19547,55-65
+Metropolitano Occidente,M,2017,29972,55-65
+Metropolitano Central,M,2017,23340,55-65
+Metropolitano Oriente,M,2017,16134,55-65
+Metropolitano Sur,M,2017,29501,55-65
+Metropolitano Sur-Oriente,M,2017,33872,55-65
+Arica y Parinacota,M,2017,3588,55-65
+Iquique y Tarapaca,M,2017,5908,55-65
+Antofagasta,M,2017,9539,55-65
+Atacama,M,2017,5777,55-65
+Coquimbo,M,2017,14905,55-65
+Valparaiso y San Antonio,M,2017,10891,55-65
+Viña del Mar y Quillota,M,2017,19190,55-65
+Aconcagua,M,2017,5493,55-65
+Libertador B. O'Higgins,M,2017,19277,55-65
+Maule,M,2017,22919,55-65
+Ñuble,M,2017,11596,55-65
+Concepcion,M,2017,12532,55-65
+Talcahuano,M,2017,7341,55-65
+Bio-Bio y Los Angeles,M,2017,8556,55-65
+Arauco,M,2017,3876,55-65
+Araucanía Norte,M,2017,4664,55-65
+Araucanía Sur,M,2017,14930,55-65
+Valdivia,M,2017,7497,55-65
+Osorno,M,2017,5207,55-65
+Reloncavi,M,2017,7762,55-65
+Chiloé,M,2017,3447,55-65
+Aysen,M,2017,2088,55-65
+Magallanes,M,2017,3573,55-65
+Metropolitano Norte,M,2017,15623,55-65
+Metropolitano Occidente,M,2017,23394,55-65
+Metropolitano Central,M,2017,18676,55-65
+Metropolitano Oriente,M,2017,13531,55-65
+Metropolitano Sur,M,2017,23400,55-65
+Metropolitano Sur-Oriente,M,2017,27811,55-65
+Arica y Parinacota,M,2017,2973,65-75
+Iquique y Tarapaca,M,2017,4216,65-75
+Antofagasta,M,2017,6948,65-75
+Atacama,M,2017,4400,65-75
+Coquimbo,M,2017,11602,65-75
+Valparaiso y San Antonio,M,2017,8930,65-75
+Viña del Mar y Quillota,M,2017,15745,65-75
+Aconcagua,M,2017,4520,65-75
+Libertador B. O'Higgins,M,2017,14669,65-75
+Maule,M,2017,18406,65-75
+Ñuble,M,2017,9135,65-75
+Concepcion,M,2017,9829,65-75
+Talcahuano,M,2017,5755,65-75
+Bio-Bio y Los Angeles,M,2017,6667,65-75
+Arauco,M,2017,2985,65-75
+Araucanía Norte,M,2017,3732,65-75
+Araucanía Sur,M,2017,11863,65-75
+Valdivia,M,2017,5914,65-75
+Osorno,M,2017,4161,65-75
+Reloncavi,M,2017,6123,65-75
+Chiloé,M,2017,2594,65-75
+Aysen,M,2017,1561,65-75
+Magallanes,M,2017,2736,65-75
+Metropolitano Norte,M,2017,12270,65-75
+Metropolitano Occidente,M,2017,19226,65-75
+Metropolitano Central,M,2017,14578,65-75
+Metropolitano Oriente,M,2017,12040,65-75
+Metropolitano Sur,M,2017,17657,65-75
+Metropolitano Sur-Oriente,M,2017,21945,65-75
+Arica y Parinacota,M,2017,2658,65-75
+Iquique y Tarapaca,M,2017,3110,65-75
+Antofagasta,M,2017,4999,65-75
+Atacama,M,2017,3548,65-75
+Coquimbo,M,2017,9241,65-75
+Valparaiso y San Antonio,M,2017,7194,65-75
+Viña del Mar y Quillota,M,2017,12856,65-75
+Aconcagua,M,2017,3638,65-75
+Libertador B. O'Higgins,M,2017,11351,65-75
+Maule,M,2017,14347,65-75
+Ñuble,M,2017,7397,65-75
+Concepcion,M,2017,7470,65-75
+Talcahuano,M,2017,4504,65-75
+Bio-Bio y Los Angeles,M,2017,5602,65-75
+Arauco,M,2017,2280,65-75
+Araucanía Norte,M,2017,3009,65-75
+Araucanía Sur,M,2017,9937,65-75
+Valdivia,M,2017,4816,65-75
+Osorno,M,2017,3399,65-75
+Reloncavi,M,2017,4834,65-75
+Chiloé,M,2017,2190,65-75
+Aysen,M,2017,1233,65-75
+Magallanes,M,2017,2198,65-75
+Metropolitano Norte,M,2017,10074,65-75
+Metropolitano Occidente,M,2017,15527,65-75
+Metropolitano Central,M,2017,12020,65-75
+Metropolitano Oriente,M,2017,11218,65-75
+Metropolitano Sur,M,2017,14430,65-75
+Metropolitano Sur-Oriente,M,2017,16354,65-75
+Arica y Parinacota,M,2017,1805,>75
+Iquique y Tarapaca,M,2017,1810,>75
+Antofagasta,M,2017,3292,>75
+Atacama,M,2017,2555,>75
+Coquimbo,M,2017,6900,>75
+Valparaiso y San Antonio,M,2017,4880,>75
+Viña del Mar y Quillota,M,2017,9131,>75
+Aconcagua,M,2017,2370,>75
+Libertador B. O'Higgins,M,2017,7798,>75
+Maule,M,2017,10039,>75
+Ñuble,M,2017,5279,>75
+Concepcion,M,2017,4853,>75
+Talcahuano,M,2017,3113,>75
+Bio-Bio y Los Angeles,M,2017,4010,>75
+Arauco,M,2017,1613,>75
+Araucanía Norte,M,2017,2338,>75
+Araucanía Sur,M,2017,7183,>75
+Valdivia,M,2017,3480,>75
+Osorno,M,2017,2502,>75
+Reloncavi,M,2017,3413,>75
+Chiloé,M,2017,1649,>75
+Aysen,M,2017,887,>75
+Magallanes,M,2017,1524,>75
+Metropolitano Norte,M,2017,6733,>75
+Metropolitano Occidente,M,2017,10638,>75
+Metropolitano Central,M,2017,8094,>75
+Metropolitano Oriente,M,2017,8567,>75
+Metropolitano Sur,M,2017,9249,>75
+Metropolitano Sur-Oriente,M,2017,10050,>75
+Arica y Parinacota,M,2017,1836,>75
+Iquique y Tarapaca,M,2017,1839,>75
+Antofagasta,M,2017,3296,>75
+Atacama,M,2017,2681,>75
+Coquimbo,M,2017,7878,>75
+Valparaiso y San Antonio,M,2017,5289,>75
+Viña del Mar y Quillota,M,2017,10132,>75
+Aconcagua,M,2017,2718,>75
+Libertador B. O'Higgins,M,2017,8844,>75
+Maule,M,2017,10559,>75
+Ñuble,M,2017,5507,>75
+Concepcion,M,2017,5151,>75
+Talcahuano,M,2017,3195,>75
+Bio-Bio y Los Angeles,M,2017,4425,>75
+Arauco,M,2017,1830,>75
+Araucanía Norte,M,2017,2704,>75
+Araucanía Sur,M,2017,8302,>75
+Valdivia,M,2017,3945,>75
+Osorno,M,2017,2880,>75
+Reloncavi,M,2017,3708,>75
+Chiloé,M,2017,1717,>75
+Aysen,M,2017,854,>75
+Magallanes,M,2017,1499,>75
+Metropolitano Norte,M,2017,6741,>75
+Metropolitano Occidente,M,2017,10170,>75
+Metropolitano Central,M,2017,8121,>75
+Metropolitano Oriente,M,2017,10908,>75
+Metropolitano Sur,M,2017,10454,>75
+Metropolitano Sur-Oriente,M,2017,8988,>75
