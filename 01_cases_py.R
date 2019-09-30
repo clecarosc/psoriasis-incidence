@@ -2,7 +2,14 @@ library(tidyverse)
 library(forcats)
 
 pop_2012_2017 <- read_csv("pop_fonasa12_17.csv", col_types = "ccddc")
-casos_2013_2017 <- read_csv("casos.csv", col_types = "dcccd")
+
+casos <- read_csv("psoriasis_summary.csv")
+casos_2016_17 <- casos %>% filter(F_ENTRADA %in% c(2016, 2017))
+
+b <- c(-Inf, 5, 15, 25, 35, 45, 55, 65, 75, Inf)
+names <- c("0-5","5-15", "10-25", "25-35", "35-45", "45-55", "55-65", "65-75", ">75")
+casos_2016_17$edad <- cut(casos_2016_17$age, breaks = b, labels = names)
+
 
 
 ## funcion casos y py. entrega casos y personas año de cada servicio segun año. entrega una lista con un df y un vector chr
