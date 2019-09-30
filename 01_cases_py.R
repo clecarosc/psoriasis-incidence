@@ -3,20 +3,54 @@ library(forcats)
 
 pop_2012_2017 <- read_csv("pop_fonasa12_17.csv", col_types = "ccddc")
 
-casos <- read_csv("psoriasis_summary.csv")
-casos_2016_17 <- casos %>% filter(F_ENTRADA %in% c(2016, 2017))
+casos_total <- read_csv("psoriasis_summary.csv")
+casos_2016_17 <- casos_total %>% filter(F_ENTRADA %in% c(2016, 2017))
 
 b <- c(-Inf, 5, 15, 25, 35, 45, 55, 65, 75, Inf)
 names <- c("0-5","5-15", "10-25", "25-35", "35-45", "45-55", "55-65", "65-75", ">75")
 casos_2016_17$edad <- cut(casos_2016_17$age, breaks = b, labels = names)
 
+casos_2016_17 <- casos_2016_17 %>% rename(servicio = SS, sexo = SEXO)
+sexo_ordenado <- c("f" = "F", "m" = "M" )
+casos_2016_17$sexo <- sexo_ordenado[casos_2016_17$sexo]
 
+servicios_ordenados <- c("Ar" = "Arica y Parinacota",
+                         "Iq" = "Iquique y Tarapaca",
+                         "An"= "Antofagasta",
+                         "At" = "Atacama",
+                         "Co" = "Coquimbo",
+                         "Valpo" = "Valparaiso y San Antonio",
+                         "VQ" = "Viña del Mar y Quillota",
+                         "Ac" = "Aconcagua",
+                         "MN" = "Metropolitano Norte",
+                         "MOcc" = "Metropolitano Occidente",
+                         "MC" = "Metropolitano Central",
+                         "MOri" = "Metropolitano Oriente",
+                         "MS" = "Metropolitano Sur",
+                         "MSO" = "Metropolitano Sur-Oriente",
+                         "LBO" = "Libertador B. O'Higgins",
+                         "Mau" = "Maule",
+                         "Nu" = "Ñuble",
+                         "Con" = "Concepcion",
+                         "Tal" = "Talcahuano",
+                         "BB" = "Bio-Bio y Los Angeles",
+                         "Ara" = "Arauco",
+                         "ArN" = "Araucanía Norte",
+                         "ArS" = "Araucanía Sur",
+                         "Valdi" = "Valdivia",
+                         "O" = "Osorno",
+                         "Rel" = "Reloncavi",
+                         "Chi" = "Chiloé",
+                         "Ay" = "Aysen",
+                         "Ma" = "Magallanes")
 
+casos_2016_17$servicio <- servicios_ordenados[casos_2016_17$servicio]
+casos_2016_17
 ## funcion casos y py. entrega casos y personas año de cada servicio segun año. entrega una lista con un df y un vector chr
-funcion_casos <- function(año) {
-  year <- año
-  year_before <- año-1
-  casos <- casos_2013_2017 %>% filter(año == year)
+funcion_casos <- function(year) {
+  
+  year_before <- year-1
+  casos <- casos_2016_17 %>% filter(F_ENTRADA == year)
   
   #regiones participantes
   regiones_presentes <- unique(casos$servicio)
@@ -31,11 +65,11 @@ funcion_casos <- function(año) {
   
   ### join
   join <- pop_mid %>% left_join(casos) %>% #mantiene tabla izquierda
-    mutate(n_psor = replace(n_psor,
-                            which(is.na(n_psor)), 0),
-           año = replace(año,
-                         which(is.na(año)), year))  %>%
-    select(año, servicio, sexo, edad, py, n_psor)
+    mutate(cases = replace(cases,
+                            which(is.na(cases)), 0),
+           F_ENTRADA = replace(F_ENTRADA,
+                         which(is.na(F_ENTRADA)), year))  %>%
+    select(F_ENTRADA, servicio, sexo, edad, py, cases)
   productos <- vector("list", 2)
   productos[[1]] <- join
   productos[[2]] <- regiones_presentes
@@ -44,7 +78,7 @@ funcion_casos <- function(año) {
 
 ### esta es una lista que contiene los casos y persona-año para cada año, junto con los servicios de salud presentes cada año.
 ### ademas un dataframe con la informacion durante todo el periodo.
-anos <- 2013:2017
+anos <- 2016:2017
 lista_casos_py <- vector("list", length(anos))
 i <- 1
 
@@ -55,8 +89,7 @@ for (ano in anos) {
   i <- i+1
 }
 
-df_casos_py <- bind_rows(lista_casos_py[[1]][[1]], lista_casos_py[[2]][[1]], lista_casos_py[[3]][[1]],
-                         lista_casos_py[[4]][[1]], lista_casos_py[[5]][[1]])
+df_casos_py <- bind_rows(lista_casos_py[[1]][[1]], lista_casos_py[[2]][[1]])
 
 df_casos_py <- df_casos_py %>% ungroup()
 
