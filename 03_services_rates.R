@@ -4,7 +4,7 @@ library(epiR)
 ## servicio_year(). this function gives crude and direct-adjusted rates for each health service by input year.
 
 servicio_year <- function(year) {
-psor <- filter(df_casos_py, año == year) 
+psor <- filter(df_casos_py, F_ENTRADA == year) 
 servicios_presentes <- unique(psor$servicio)
 
 output <- vector("list", length(servicios_presentes))
@@ -14,15 +14,15 @@ for(servicio_i in servicios_presentes){
   
   casos_servicio <- filter(psor, servicio == servicio_i)
   
-  por_sexo <- casos_servicio %>% group_by(sexo, edad) %>%  summarise(py = sum(py), n_psor = sum(n_psor))
-  total <- por_sexo %>% group_by(edad) %>% summarise(py = sum(py), n_psor = sum(n_psor)) %>% add_column(sexo = "T", .before = "edad")
+  por_sexo <- casos_servicio %>% group_by(sexo, edad) %>%  summarise(py = sum(py), cases = sum(cases))
+  total <- por_sexo %>% group_by(edad) %>% summarise(py = sum(py), cases = sum(cases)) %>% add_column(sexo = "T", .before = "edad")
   
   #este es un entregable: casos femenino, masculino y total segun bandas de edad por servicio segun año
   lista_temp <- list(por_sexo, total)
   df_casos_py_f_m_t <- bind_rows(lista_temp)
   
   ### incidence rates
-  obs <- matrix(df_casos_py_f_m_t$n_psor, nrow = 3, byrow = TRUE,
+  obs <- matrix(df_casos_py_f_m_t$cases, nrow = 3, byrow = TRUE,
                 dimnames = list(c("F", "M", "T"), bandas_edad))
   
   tar <- matrix(df_casos_py_f_m_t$py, nrow = 3, byrow = TRUE,
@@ -49,4 +49,4 @@ return(output)
 }
 
 
-servicio_year(2013)
+servicio_year(2017)

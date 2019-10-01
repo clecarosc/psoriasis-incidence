@@ -3,9 +3,9 @@ library(epiR)
 
 ## servicio_df_ano(). It gives a df with incidence rates estimates + ic by service and year
 
-servicio_df_ano <- function(año) {
+servicio_df_ano <- function(year) {
   
-  psor <- filter(df_casos_py, año == año)
+  psor <- filter(df_casos_py, F_ENTRADA == year)
   servicios_presentes <- unique(psor$servicio)
   
   df_total_servicios <- vector("list", length(servicios_presentes))
@@ -14,13 +14,13 @@ servicio_df_ano <- function(año) {
   for(servicio_i in servicios_presentes){
     
     casos_servicio <- filter(psor, servicio == servicio_i)
-    por_sexo <- casos_servicio %>% group_by(sexo, edad) %>%  summarise(py = sum(py), n_psor = sum(n_psor))
-    total <- por_sexo %>% group_by(edad) %>% summarise(py = sum(py), n_psor = sum(n_psor)) %>% add_column(sexo = "T", .before = "edad")
+    por_sexo <- casos_servicio %>% group_by(sexo, edad) %>%  summarise(py = sum(py), cases = sum(cases))
+    total <- por_sexo %>% group_by(edad) %>% summarise(py = sum(py), cases = sum(cases)) %>% add_column(sexo = "T", .before = "edad")
     
     lista <- list(por_sexo, total)
     sexo_total <- bind_rows(lista)
     
-    obs <- matrix(sexo_total$n_psor, nrow = 3, byrow = TRUE,
+    obs <- matrix(sexo_total$cases, nrow = 3, byrow = TRUE,
                   dimnames = list(c("F", "M", "T"), bandas_edad))
     
     tar <- matrix(sexo_total$py, nrow = 3, byrow = TRUE,
@@ -34,7 +34,7 @@ servicio_df_ano <- function(año) {
     
     df <- ajuste$adj.strata %>%  
       add_column(servicio = servicio_i, .before = "strata") %>%
-      add_column(año = año)
+      add_column(year = year)
     
     df_total_servicios[[i]] <- df
     
@@ -44,4 +44,4 @@ servicio_df_ano <- function(año) {
   return(df_total_servicios)
 }
 
-servicio_df_ano(2013)
+servicio_df_ano(2016)

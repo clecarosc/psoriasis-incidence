@@ -1,7 +1,7 @@
 source("01_cases_py.R")
 
 ### RNLE
-df_pyramid_2017 <- df_casos_py %>% filter(año == 2017) %>% select(sexo, edad, py) %>% group_by(sexo, edad) %>% summarise(pop = sum(py))
+df_pyramid_2017 <- df_casos_py %>% filter(F_ENTRADA == 2017) %>% select(sexo, edad, py) %>% group_by(sexo, edad) %>% summarise(pop = sum(py))
 
 df_pyramid_2017 <- df_pyramid_2017 %>% mutate(pop = ifelse(sexo=="M", pop*-1, pop))
 
@@ -16,7 +16,7 @@ g1 <- ggplot(data=df_pyramid_2017,aes(x=edad,y = pop, fill=sexo)) +
   labs(title = "Study population", x = "Age bands", y = "") +
   theme(legend.position = "none")
   
-
+g1
 
 ### FONASA
 pop_2012_2017 <- read_csv("pop_fonasa12_17.csv", col_types = "ccddc")
@@ -36,7 +36,7 @@ g2 <- ggplot(data=pop_fonasa,aes(x=edad,y = pop, fill=sexo)) +
   scale_fill_brewer(palette = "Set1") + theme_minimal() +
   labs(title = "Database population", x = "", y = "") +
   theme(legend.position = "none")
-
+g2
 ### INE
 
 pop_ine <- read_csv("pop_ine.csv")

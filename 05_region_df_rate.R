@@ -3,9 +3,9 @@ library(epiR)
 
 ## region_df_ano(). It gives a df with incidence rates estimates + ic by region and year
 
-region_df_ano <- function(año) {
+region_df_ano <- function(year) {
   
-  psor <- filter(df_casos_py, año == año)
+  psor <- filter(df_casos_py, F_ENTRADA == year)
   regiones_presentes <- unique(psor$region)
   
   df_total_regiones <- vector("list", length(regiones_presentes))
@@ -14,13 +14,13 @@ region_df_ano <- function(año) {
   for(region_i in regiones_presentes){
     
     casos_region <- filter(psor, region == region_i)
-    por_sexo <- casos_region %>% group_by(sexo, edad) %>%  summarise(py = sum(py), n_psor = sum(n_psor))
-    total <- por_sexo %>% group_by(edad) %>% summarise(py = sum(py), n_psor = sum(n_psor)) %>% add_column(sexo = "T", .before = "edad")
+    por_sexo <- casos_region %>% group_by(sexo, edad) %>%  summarise(py = sum(py), cases = sum(cases))
+    total <- por_sexo %>% group_by(edad) %>% summarise(py = sum(py), cases = sum(cases)) %>% add_column(sexo = "T", .before = "edad")
     
     lista <- list(por_sexo, total)
     sexo_total <- bind_rows(lista)
     
-    obs <- matrix(sexo_total$n_psor, nrow = 3, byrow = TRUE,
+    obs <- matrix(sexo_total$cases, nrow = 3, byrow = TRUE,
                   dimnames = list(c("F", "M", "T"), bandas_edad))
     
     tar <- matrix(sexo_total$py, nrow = 3, byrow = TRUE,
@@ -34,7 +34,7 @@ region_df_ano <- function(año) {
     
     df <- ajuste$adj.strata %>%  
       add_column(region = region_i, .before = "strata") %>%
-      add_column(año = año)
+      add_column(year = year)
     
     df_total_regiones[[i]] <- df
     
@@ -45,9 +45,9 @@ region_df_ano <- function(año) {
 }
 
 
-df2013 <- region_df_ano(2013)
-df2014 <- region_df_ano(2014) 
-df2015 <- region_df_ano(2015)
+#df2013 <- region_df_ano(2013)
+#df2014 <- region_df_ano(2014) 
+#df2015 <- region_df_ano(2015)
 df2016 <- region_df_ano(2016) 
 df2017 <- region_df_ano(2017)
 

@@ -45,7 +45,7 @@ servicios_ordenados <- c("Ar" = "Arica y Parinacota",
                          "Ma" = "Magallanes")
 
 casos_2016_17$servicio <- servicios_ordenados[casos_2016_17$servicio]
-casos_2016_17
+
 ## funcion casos y py. entrega casos y personas año de cada servicio segun año. entrega una lista con un df y un vector chr
 funcion_casos <- function(year) {
   
@@ -97,18 +97,9 @@ df_casos_py <- df_casos_py %>% ungroup()
 bandas_edad <- c("0-5", "5-15", "15-25", "25-35", "35-45", "45-55", "55-65", "65-75", ">75")
 df_casos_py$edad <- factor(df_casos_py$edad, levels = unique(bandas_edad))
 
+
 ### factor region
-df_casos_py <- df_casos_py %>% mutate(region = fct_recode(servicio, 
-                                                          "Los Lagos" = "Chiloé",
-                                                          "Metropolitana" = "Metropolitano Central",
-                                                          "Metropolitana" = "Metropolitano Norte",
-                                                          "Bio-Bio y Los Angeles" = "Ñuble",
-                                                          "Bio-Bio y Los Angeles" = "Talcahuano",
-                                                          "Los Lagos" = "Osorno",
-                                                          "Los Lagos" = "Reloncavi",
-                                                          "Valparaiso" = "Viña del Mar y Quillota",
-                                                          "Valparaiso" = "Aconcagua",
-                                                          "Metropolitana" = "Metropolitano Occidente"))
+
 
 regiones <- c("Arica y Parinacota",
               "Tarapaca",
@@ -125,6 +116,19 @@ regiones <- c("Arica y Parinacota",
               "Los Lagos",
               "Aysen",
               "Magallanes")
+
+df_casos_py <- df_casos_py %>% mutate(region = fct_recode(servicio, 
+                                                          #"Los Lagos" = "Chiloé",
+                                                          "Metropolitana" = "Metropolitano Central",
+                                                          "Metropolitana" = "Metropolitano Norte",
+                                                          "Metropolitana" = "Metropolitano Sur-Oriente",
+                                                          "Bio-Bio y Los Angeles" = "Ñuble",
+                                                          "Bio-Bio y Los Angeles" = "Talcahuano",
+                                                          "Los Lagos" = "Osorno",
+                                                          "Los Lagos" = "Reloncavi",
+                                                          "Valparaiso" = "Viña del Mar y Quillota",
+                                                          #"Valparaiso" = "Aconcagua",
+                                                          "Metropolitana" = "Metropolitano Occidente"))
 
 df_casos_py$region <- factor(df_casos_py$region, levels = unique(regiones))
 
@@ -165,11 +169,13 @@ df_casos_py$servicio <- factor(df_casos_py$servicio, levels = unique(servicios))
 
 df_casos_py$sexo <- factor(df_casos_py$sexo)
 #
-df_casos_py <- df_casos_py %>% arrange(año, region, servicio, edad)
+df_casos_py <- df_casos_py %>% arrange(F_ENTRADA, region, servicio, edad)
+
+df_casos_py
 
 #para guardar y cargar la tabla con los tipos
 #saveRDS(df_casos_py, "data_psor_py.RDS") 
 
 ###
-rm(ano, anos, i, lista_casos_py, casos_py, pop_2012_2017, casos_2013_2017, funcion_casos)
+rm(ano, anos, i, lista_casos_py, casos_py, pop_2012_2017, funcion_casos, casos_total, b, names, sexo_ordenado)
 
