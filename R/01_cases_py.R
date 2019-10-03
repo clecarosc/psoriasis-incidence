@@ -102,12 +102,46 @@ for (ano in anos) {
 df_casos_py <- bind_rows(lista_casos_py[[1]][[1]], lista_casos_py[[2]][[1]])
 
 df_casos_py <- df_casos_py %>% ungroup()
-df_casos_py
+
 
 ### factor edad
 bandas_edad <- c("0-5", "5-15", "15-25", "25-35", "35-45", "45-55", "55-65", "65-75", ">75")
 df_casos_py$edad <- factor(df_casos_py$edad, levels = unique(bandas_edad))
 
+### factor servicios de salud
+
+servicios <- c("Arica y Parinacota",
+               "Iquique y Tarapaca",
+               "Antofagasta",
+               "Atacama",
+               "Coquimbo",
+               "Valparaiso y San Antonio",
+               "Viña del Mar y Quillota",
+               "Aconcagua",
+               "Metropolitano Norte",
+               "Metropolitano Occidente",
+               "Metropolitano Central",
+               "Metropolitano Oriente",
+               "Metropolitano Sur",
+               "Metropolitano Sur-Oriente",
+               "Libertador B. O'Higgins",
+               "Maule",
+               "Ñuble",
+               "Concepcion",
+               "Talcahuano",
+               "Bio-Bio y Los Angeles",
+               "Arauco",
+               "Araucanía Norte",
+               "Araucanía Sur",
+               "Valdivia",
+               "Osorno",
+               "Reloncavi",
+               "Chiloé",
+               "Aysen",
+               "Magallanes")
+
+
+df_casos_py$servicio <- factor(df_casos_py$servicio, levels = unique(servicios))
 
 ### factor region
 regiones <- c("Arica y Parinacota",
@@ -127,64 +161,47 @@ regiones <- c("Arica y Parinacota",
               "Magallanes")
 
 df_casos_py <- df_casos_py %>% mutate(region = fct_recode(servicio, 
-                                                          "Los Lagos" = "Chiloé",
-                                                          "Metropolitana" = "Metropolitano Central",
-                                                          "Metropolitana" = "Metropolitano Norte",
-                                                          "Metropolitana" = "Metropolitano Sur-Oriente",
-                                                          "Bio-Bio y Los Angeles" = "Ñuble",
-                                                          "Bio-Bio y Los Angeles" = "Talcahuano",
-                                                          "Los Lagos" = "Osorno",
-                                                          "Los Lagos" = "Reloncavi",
+                                                          "Arica y Parinacota" = "Arica y Parinacota",
+                                                          "Tarapaca" = "Iquique y Tarapaca", 
+                                                          "Antofagasta" = "Antofagasta",
+                                                          "Atacama" = "Atacama",
+                                                          "Coquimbo" = "Coquimbo",
+                                                          "Valparaiso" = "Valparaiso y San Antonio",
                                                           "Valparaiso" = "Viña del Mar y Quillota",
                                                           "Valparaiso" = "Aconcagua",
-                                                          "Metropolitana" = "Metropolitano Occidente"))
+                                                          "Metropolitana" = "Metropolitano Norte",
+                                                          "Metropolitana" = "Metropolitano Occidente",
+                                                          "Metropolitana" = "Metropolitano Central",
+                                                          "Metropolitana" = "Metropolitano Oriente",
+                                                          "Metropolitana" = "Metropolitano Sur",
+                                                          "Metropolitana" = "Metropolitano Sur-Oriente",
+                                                          "O'Higgins" = "Libertador B. O'Higgins",
+                                                          "Maule" = "Maule",
+                                                          "Bio-Bio y Los Angeles" = "Ñuble",
+                                                          "Bio-Bio y Los Angeles" = "Concepcion",
+                                                          "Bio-Bio y Los Angeles" = "Talcahuano",
+                                                          "Bio-Bio y Los Angeles" = "Bio-Bio y Los Angeles",
+                                                          "Bio-Bio y Los Angeles" = "Arauco",
+                                                          "Araucania" = "Araucanía Norte",
+                                                          "Araucania" = "Araucanía Sur",
+                                                          "Los Rios" = "Valdivia",
+                                                          "Los Lagos" = "Osorno",
+                                                          "Los Lagos" = "Reloncavi",
+                                                          "Los Lagos" = "Chiloé",
+                                                          "Aysen" = "Aysen",
+                                                          "Magallanes" = "Magallanes"))
+
 
 df_casos_py$region <- factor(df_casos_py$region, levels = unique(regiones))
 
-### factor servicios de salud
-
-servicios <- c("Arica y Parinacota",
-                         "Iquique y Tarapaca",
-                         "Antofagasta",
-                         "Atacama",
-                         "Coquimbo",
-                         "Valparaiso y San Antonio",
-                         "Viña del Mar y Quillota",
-                         "Aconcagua",
-                         "Metropolitano Norte",
-                         "Metropolitano Occidente",
-                         "Metropolitano Central",
-                         "Metropolitano Oriente",
-                         "Metropolitano Sur",
-                         "Metropolitano Sur-Oriente",
-                         "Libertador B. O'Higgins",
-                         "Maule",
-                         "Ñuble",
-                         "Concepcion",
-                         "Talcahuano",
-                         "Bio-Bio y Los Angeles",
-                         "Arauco",
-                         "Araucanía Norte",
-                         "Araucanía Sur",
-                         "Valdivia",
-                         "Osorno",
-                         "Reloncavi",
-                         "Chiloé",
-                         "Aysen",
-                         "Magallanes")
-
-
-df_casos_py$servicio <- factor(df_casos_py$servicio, levels = unique(servicios))
-
 df_casos_py$sexo <- factor(df_casos_py$sexo)
-#
-df_casos_py <- df_casos_py %>% arrange(F_ENTRADA, region, servicio, edad)
 
-df_casos_py %>% group_by(F_ENTRADA) %>% summarise(cases = sum(cases))
+#
+df_casos_py <- df_casos_py %>% select(F_ENTRADA, region, servicio, sexo, edad, py, cases)
+df_casos_py <- df_casos_py %>% arrange(F_ENTRADA, region, servicio, edad)
 
 #para guardar y cargar la tabla con los tipos
 #saveRDS(df_casos_py, "data_psor_py.RDS") 
 
 ###
-rm(ano, anos, i, lista_casos_py, casos_py, pop_2012_2017, funcion_casos, casos_total, b, names, sexo_ordenado)
-
+rm(ano, anos, i, lista_casos_py, casos_py, pop_2012_2017, funcion_casos, casos_total, sexo_ordenado, servicios_nombre_fonasa)
