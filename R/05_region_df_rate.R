@@ -3,6 +3,8 @@ library(epiR)
 
 ## region_df_ano(). It gives a df with incidence rates estimates + ic by region and year
 
+df_casos_py <- df_casos_py %>% group_by(F_ENTRADA, region, sexo, edad) %>% summarise(py = sum(py), cases= sum(cases))
+
 region_df_ano <- function(year) {
   
   psor <- filter(df_casos_py, F_ENTRADA == year)
@@ -51,6 +53,6 @@ region_df_ano <- function(year) {
 df2016 <- region_df_ano(2016) 
 df2017 <- region_df_ano(2017)
 
-df_13_17 <- bind_rows(df2013, df2014, df2015, df2016, df2017)
-df_13_17$region <- factor(df_13_17$region, levels = unique(regiones))
-
+df_16_17 <- bind_rows(df2016, df2017)
+df_16_17$region <- factor(df_16_17$region, levels = unique(regiones))
+df_16_17
