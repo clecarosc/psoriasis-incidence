@@ -18,7 +18,7 @@ obs <- matrix(nacional_sexo_total$cases, nrow = 3, byrow = F,
 
 tar <- matrix(nacional_sexo_total$py, nrow = 3, byrow = F,
                 dimnames = list(c("F", "M", "T"), bandas_edad))
-  std <- matrix(data = c(868313, 1856718, 2014749, 1984841, 1757590, 1860911, 1569723, 1049899, 773764), nrow = 1, byrow = TRUE,
+std <- matrix(data = c(868313, 1856718, 2014749, 1984841, 1757590, 1860911, 1569723, 1049899, 773764), nrow = 1, byrow = TRUE,
                 dimnames = list("", bandas_edad))
 
   
@@ -48,5 +48,6 @@ ggplot(ajuste$crude, aes( x = factor(cov, levels = bandas_edad),
                      ymax = upper)) +
 
 theme_classic(base_line_size = .7, base_size = 15) +
+labs(x = "Age bands", y = "Crude incidence rates of psoriasis",
+     fill = "Gender", color = "Gender", linetype = "Gender") +
 theme( legend.position ="bottom")
-  
