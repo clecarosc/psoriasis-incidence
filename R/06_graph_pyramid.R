@@ -19,7 +19,7 @@ g1 <- ggplot(data=df_pyramid_2017,aes(x=edad,y = pop, fill=sexo)) +
 g1
 
 ### FONASA
-pop_2012_2017 <- read_csv("pop_fonasa12_17.csv", col_types = "ccddc")
+pop_2012_2017 <- read_csv("data/pop_fonasa12_17.csv", col_types = "ccddc")
 pop_fonasa <- filter(pop_2012_2017, año %in% c(2017, 2016)) %>% group_by(sexo, edad) %>%
               summarise(pop = sum(n)/2)
 pop_fonasa$edad <- factor(pop_fonasa$edad, levels = unique(bandas_edad))
@@ -39,7 +39,7 @@ g2 <- ggplot(data=pop_fonasa,aes(x=edad,y = pop, fill=sexo)) +
 g2
 ### INE
 
-pop_ine <- read_csv("pop_ine.csv")
+pop_ine <- read_csv("data/pop_ine.csv")
 pop_ine <- pop_ine %>%  select(SEXO, EDAD, a2017) 
 b <- c(-Inf,5, 15, 25, 35, 45, 55, 65, 75, Inf)
 pop_ine$edad <- cut(pop_ine$EDAD, breaks = b, labels = bandas_edad)
