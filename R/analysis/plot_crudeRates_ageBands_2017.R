@@ -1,6 +1,7 @@
 wd <- getwd()
 setwd(paste(wd,"/R", sep = ""))
 source("01_cases_py.R")
+library(epiR)
 
 df_nac_edad_sexo <- df_casos_py %>% group_by(F_ENTRADA, edad, sexo) %>% summarise(py = sum(py), 
                                                               cases = sum(cases))
@@ -51,3 +52,5 @@ theme_classic(base_line_size = .7, base_size = 15) +
 labs(x = "Age bands", y = "Crude incidence rates of psoriasis",
      fill = "Gender", color = "Gender", linetype = "Gender") +
 theme( legend.position ="bottom")
+
+nacional_sexo_total
