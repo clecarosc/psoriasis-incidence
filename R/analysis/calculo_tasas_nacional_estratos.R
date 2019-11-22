@@ -32,3 +32,8 @@ tasas_nac_fonasa17 <- tasas_nac_fonasa17[[1]] %>% as_tibble() %>% separate(cov, 
 
 casos_nacional <- left_join(casos_nacional, tasas_nac_fonasa17, by = c("edad", "sexo", "year" = "strata"))
 casos_nacional
+
+saveRDS(casos_nacional, "casos_nacional_rates.rds")
+
+
+
