@@ -25,6 +25,10 @@ tasas_nac_fonasa17 <- epi.directadj(obs, tar, std, units = 100000, conf.level = 
 epi.directadj(obs, tar, esp, units = 100000, conf.level = 0.95)
 tasas_nac_esp <- epi.directadj(obs, tar, esp, units = 100000, conf.level = 0.95)
 
+## join con tasas nacionales rds, se agrega esimates al dataframe
 
+casos_nacional$year <- as.factor(casos_nacional$year)
+tasas_nac_fonasa17 <- tasas_nac_fonasa17[[1]] %>% as_tibble() %>% separate(cov, into = c("cases", "sexo", "edad"), sep = "_") %>% select(-cases)
 
-
+casos_nacional <- left_join(casos_nacional, tasas_nac_fonasa17, by = c("edad", "sexo", "year" = "strata"))
+casos_nacional
