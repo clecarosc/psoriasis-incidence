@@ -47,8 +47,55 @@ todas
 medicos
 
 #se registra cuales casos no corresponde
-##los que se piensa otro dg:10,118,28,29,34,37,38,41,46,52,54,73.
-##de los 75 comentarios de primera atencion, 1(22 es tto acne-rosacea), 1 estudio (26), 1 dice hola(31), 1 dice ic derm(32), 1 celulitis,
-## 1 es artr psor humira ley ricarte soto[35], 1 es psor+celulitis [36],1 es dermatitis de contacto manos [37], 1 es un bcc [38],
-## 1 es celulitis+psor [39], 1 es psor-dermatitis de panañal [44], bowen vs psor [46], dermatofitosis [49], keratosis actinica [50],
-## 1 control  [51], dishidrosis palmar [52], estudio [62], no registra dato x 3 [64-66], "s" [70], liquen plano pilaris [72]
+falsos_positivos <- todas[c(14, #liquen
+                            17, #DA
+                            18, #DA
+                            20, #parapsoriasis
+                            #21:32, #control
+                            29, #tinea
+                            36, #rosacea
+                            37, #DS
+                            40, #acne
+                            43, #DS
+                            44, #estudio
+                            45, #mtx
+                            46, #mtx
+                            47, #mtx
+                            50, #DA
+                            52, #otro (hola)
+                            55, #refract
+                            57, #lupus
+                            58, #refract
+                            60, #DAC
+                            64, #CEC
+                            66, #refract
+                            67, #dermatofitosis
+                            68, #estudio
+                            71, #estudio
+                            72, #dermatitis pañal
+                            74, #bowen
+                            78, #dermatofitosis
+                            79, #keratosis act
+                            80, #control
+                            81, #DCA
+                            82, #refract
+                            92, #estudio
+                            94, #otro (lan)
+                            95, #otro (lan)
+                            96, #otro (lan)
+                            100, #control
+                            101, #dermatofitosis
+                            102, #dermatofitosis
+                            108, #no
+                            109, #liquen
+                            110, #otro (lesion)
+                            115, #refract
+                            120, #refract
+                            141, #liquen
+                            137, #refract
+                            138, #parapsor
+                            139, #parapsor
+                            142, #otro (genetica)
+                            184),] #control
+
+vpp <- (nrow(todas)- nrow(falsos_positivos))/nrow(todas); vpp
