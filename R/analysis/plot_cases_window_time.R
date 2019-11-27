@@ -8,7 +8,7 @@ casos_2017 <- casos_total %>% filter(F_ENTRADA %in% c(2017))
 
 # aqui se observa la cantidad de casos durante el periodo de observacion que aumenta
 
-casos_periodo <- casos_total %>% filter(F_ENTRADA < 2018) %>%  group_by(F_ENTRADA) %>% summarise(cases = sum(cases))
+casos_periodo <- casos_total %>% filter(F_ENTRADA < 2018 & F_ENTRADA >2011) %>%  group_by(F_ENTRADA) %>% summarise(cases = sum(cases))
 ggplot(casos_periodo, aes(x = as.integer(F_ENTRADA), y = cases)) +
   geom_point() +
   geom_line() +
